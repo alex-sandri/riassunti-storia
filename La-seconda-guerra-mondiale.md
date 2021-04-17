@@ -22,4 +22,8 @@ Questo si rivelò però un grande errore: l'esercito italiano era infatti del tu
 Il fallimento più grave fu l'`invasione della Grecia`, nell'ottobre del 1940, e solo un aiuto da parte dei Tedeschi consentì di proseguire la conquista.
 
 Dopo la sconfitta della Francia, solo la Gran Bretagna poteva continuare la guerra contro la Germania. Nel `maggio 1940` venne eletto Primo ministro `Winston Churchill`. Hitler cercò di aprire le trattative di pace con la Gran Bretagna ma nessuno approvava le sue condizioni, si vide perciò costretto a continuare con le offensive.\
-Con l'*operazione Leone marino* tra `agosto` e `settembre 1940` i Tedeschi tentarono lo sbarco sulle coste britanniche, ma era prima necessario affrontare la *RAF* (*Royal Air Force*) ovvero l'aviazione britannica. La *Luftwaffe* si scontrò perciò con essa nella cosiddetta `battaglia d'Inghilterra`.
+Con l'*operazione Leone marino* tra `agosto` e `settembre 1940` i Tedeschi tentarono lo sbarco sulle coste britanniche, ma era prima necessario affrontare la *RAF* (*Royal Air Force*) ovvero l'aviazione britannica. La *Luftwaffe* si scontrò perciò con essa nella cosiddetta `battaglia d'Inghilterra`.\
+Nonostante Hitler fosse riuscito ad infliggere danni considerevoli ad alcune città inglesi, la RAF fece comunque subire pesanti perdite anche ai Tedeschi. Questo portò Hitler a rinunciare all'invasione. Si passò a questo punto ad una guerra di logoramento anche se il bilancio per i Tedeschi era comunque positivo:
+- Erano state compiute conquiste strategicamente importanti
+- L'Italia sebbene debole era al fianco di Hitler
+- Si erano rafforzati i legami con il `Giappone` con il `Patto Tripartito`
