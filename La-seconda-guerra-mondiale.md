@@ -17,6 +17,6 @@ Il governo francese si ritrovò costretto a scendere a patti con la Germania, ch
 - La Francia centro-settentrionale restò sotto il diretto controllo tedesco
 - Nella parte centro-meridionale venne costituito un `governo collaborazionista` con sede a Vichy
 
-Mussolini, nonostante si fosse impegnato nell *Patto d'acciaio* ad aiutare la Germania in caso di guerra, dichiarò la `non belligeranza` in quanto l'esercito italiano era stato provato dalla guerra d'Etiopia. I successi della Germania però convinsero Mussolini che la guerra si sarebbe conclusa rapidamente e che sarebbe stato conveniente partecipare per ottenere dei vantaggi alla fine. L'Italia entrò perciò in guerra il `10 giugno 1940`.\
+Mussolini, nonostante si fosse impegnato nel *Patto d'acciaio* ad aiutare la Germania in caso di guerra, dichiarò la `non belligeranza` in quanto l'esercito italiano era stato provato dalla guerra d'Etiopia. I successi della Germania però convinsero Mussolini che la guerra si sarebbe conclusa rapidamente e che sarebbe stato conveniente partecipare per ottenere dei vantaggi alla fine. L'Italia entrò perciò in guerra il `10 giugno 1940`.\
 Questo si rivelò però un grande errore: l'esercito italiano era infatti del tutto impreparato ad affrontare il conflitto. Le armi erano arretrate e insufficienti, l'aviazione disponeva di pochi aerei, mentre la marina non disponeva di carburante a sufficienza.\
 Il fallimento più grave fu l'`invasione della Grecia`, nell'ottobre del 1940, e solo un aiuto da parte dei Tedeschi consentì di proseguire la conquista.
