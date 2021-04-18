@@ -86,6 +86,11 @@ La Germania reagì a questo occupando l'Italia centrale e settentrionale che ven
 
 ## 1944-45: la vittoria degli Alleati
 
+Nel `1944` gli eserciti Alleati proseguirono la loro avanzata:
+- In Italia liberarono *Roma* e i Tedeschi furono costretti ad arretrare verso Nord lungo la *linea gotica*
+- Nell'area del Pacifico gli Stati Uniti costrinsero progressivamente il Giappone ad abbandonare tutti i territori occupati
+- Sul fronte orientale l'Armata Rossa, dopo aver liberato il territorio russo dai nazisti, proseguì verso l'Europa centrale e i Balcani
+
 ## Dalla guerra totale ai progetti di pace
 
 ## La guerra e la Resistenza in Italia dal 1943 al 1945
