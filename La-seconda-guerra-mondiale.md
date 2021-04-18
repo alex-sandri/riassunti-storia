@@ -96,7 +96,7 @@ Con l'*operazione Overlord* tra il `5` e il `6 giugno` sotto il comando del gene
 
 Tra il `1944` e il `1945` la Germania fu continuamente sottoposta a bombardamenti da parte degli Alleati, ma questo non fermò Hitler che anzi ordinò la mobilitazione totale.\
 Nella primavera del `1945` però le truppe alleate riuscirono ad entrare in Germania, mentre l'Armata Rossa entrò in Austria e si spinse fino a Vienna. Negli stessi giorni l'Italia veniva liberata e i Tedeschi iniziavano la ritirata.\
-Il `30 aprile` Hitler si suicidò insieme ad altri capi nazisti proprio mentre i Russi entravano a Berlino. Il suo successore firmò il `7 maggio` la resa senza condizioni.
+Il `30 aprile` Hitler si suicidò insieme ad altri capi nazisti proprio mentre i Russi entravano a Berlino. Il suo successore firmò il `7 maggio` la `resa senza condizioni`.
 
 ## Dalla guerra totale ai progetti di pace
 
