@@ -48,3 +48,13 @@ Dopo anni di isolazionismo il presidente `Roosevelt` (ora alla terza elezione) s
 - Redazione della `Carta Atlantica` in cui si affermano i princìpi di collaborazione tra gli Stati e di autodeterminazione dei popoli
 
 L'attacco giapponese a Pearl Harbor indusse gli Stati Uniti ad abbandonare definitivamente l'isolazionismo.
+
+## Il dominio nazista in Europa
+
+## 1942-43: la svolta
+
+## 1944-45: la vittoria degli Alleati
+
+## Dalla guerra totale ai progetti di pace
+
+## La guerra e la Resistenza in Italia dal 1943 al 1945
