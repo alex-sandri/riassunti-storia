@@ -98,6 +98,13 @@ Tra il `1944` e il `1945` la Germania fu continuamente sottoposta a bombardament
 Nella primavera del `1945` però le truppe alleate riuscirono ad entrare in Germania, mentre l'Armata Rossa entrò in Austria e si spinse fino a Vienna. Negli stessi giorni l'Italia veniva liberata e i Tedeschi iniziavano la ritirata.\
 Il `30 aprile` Hitler si suicidò insieme ad altri capi nazisti proprio mentre i Russi entravano a Berlino. Il suo successore firmò il `7 maggio` la `resa senza condizioni`.
 
+Se la guerra era ora finita in Europa lo stesso non si può dire per il Pacifico, dove il Giappone resisteva facendo anche ricorso ai *kamikaze*, ma niente poteva ormai ribaltare le sorti del conflitto. La resa non era però vicina, il nuovo presidente statunitense `Harry Truman` decise di piegare definitivamente il Giappone utilizzando la `bomba atomica`:
+- Il `6 agosto 1945` venne quasi completamente rasa al suolo `Hiroshima`
+- Il `9 agosto` fu il turno di `Nagasaki`
+
+Il Giappone si trovò costretto a firmare una `resa senza condizioni` il `2 settembre`.\
+Era dunque ora finita la seconda guerra mondiale, il cui bilancio conclusivo fu di circa `50 milioni di morti`, oltre a innumerevoli feriti e dispersi.
+
 ## Dalla guerra totale ai progetti di pace
 
 ## La guerra e la Resistenza in Italia dal 1943 al 1945
