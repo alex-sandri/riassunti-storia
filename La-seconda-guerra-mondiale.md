@@ -81,7 +81,8 @@ Gli Anglo-Americani vennero accolti come liberatori e fecero precipitare i già 
 La caduta definitiva del fascismo avvenne tra il `24` e il `25 luglio 1943` quando Mussolini venne messo in minoranza e fatto arrestare dal re.\
 L'incarico di formare un nuovo governo venne affidato al maresciallo `Pietro Badoglio`.
 
-Il `3 settembre` venne firmato l'`armistizio` con gli Alleati.
+Il `3 settembre` venne firmato l'`armistizio` con gli Alleati, ma né la popolazione né l'esercito ottennero informazioni sulla nuova situazione.\
+La Germania reagì a questo occupando l'Italia centrale e settentrionale che venne affidata a Mussolini, nel frattempo liberato dalla prigionia del *Gran Sasso*, il quale costituì la `Repubblica Sociale Italiana` con capitale a Salò. Cominciava ora la lotta per la liberazione.
 
 ## 1944-45: la vittoria degli Alleati
 
