@@ -58,6 +58,14 @@ Agli Ebrei era invece riservato il completo sterminio, per il quale vennero crea
 Sempre nel `1942` venne messa in atto la cosiddetta `soluzione finale`, un vero e proprio `genocidio` che portò alla morte circa 6 milioni di Ebrei. Questo massacro viene definito *Olocausto* o, come preferiscono dirlo gli Ebrei stessi, *Shoah*.\
 L'opposizione era fortemente proibita e per questo basti pensare alla `sollevazione del ghetto di Varsavia` dove, su 450.000 persone, i sopravvissuti furono solo 50.000.
 
+La resistenza al nazismo non tardò a svilupparsi:
+- In `Francia` guidata dal generale *de Gaulle*
+- In `Iugoslavia` i partigiani comunisti di *Tito* cacciarono i Tedeschi senza nessun aiuto esterno
+- Nella stessa `Germania` l'esercito organizzò un `attentato a Hitler`, che però fallì
+- In `Italia` la resistenza fu complessa e composta da contrasti politici profondi
+
+All'opposto della resistenza c'era il `collaborazionismo`, ovvero l'appoggio degli invasori da parte dei Paesi occupati, il cui esempio più clamoroso fu quello del norvegese `Vidkun Quisling`.
+
 ## 1942-43: la svolta
 
 ## 1944-45: la vittoria degli Alleati
