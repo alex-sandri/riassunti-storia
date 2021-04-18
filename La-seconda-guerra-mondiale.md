@@ -27,3 +27,18 @@ Nonostante Hitler fosse riuscito ad infliggere danni considerevoli ad alcune cit
 - Erano state compiute conquiste strategicamente importanti
 - L'Italia sebbene debole era al fianco di Hitler
 - Si erano rafforzati i legami con il `Giappone` con il `Patto Tripartito`
+
+## 1941: la guerra mondiale
+
+Nella `primavera` del `1941` la Germania fu costretta a intervenire a sostegno dell'Italia nel `Nord Africa` e nei `Balcani`. L'Italia ora dovette rinunciare ad avere un ruolo autonomo all'interno della guerra.
+
+In `giugno` Hitler, con il cosiddetto *piano Barbarossa*, invase la Russia in quanto:
+- Riteneva i popoli slavi inferiori
+- L'Unione Sovietica era la patria del comunismo
+- La Russia era ricca di materie prime
+
+Sebbene all'inizio la conquista, a cui partecipò anche l'Italia con il `CSIR` (Corpo di Spedizione Italiano in Russia), procedeva bene per Hitler con l'arrivo dell'inverno russo l'avanzata si arrestò e si passò anche qui ad una guerra di logoramento.
+
+La politica espansionistica del Giappone degli anni Trenta lo mise in contrasto con la Gran Bretagna, la Francia e gli Stati Uniti per il controllo del Sud-Est asiatico. Strinse perciò con le potenze dell'Asse il Patto Tripartito, mentre con l'Unione Sovietica strinse un patto di neutralità.\
+In `luglio`, approfittando della debolezza della Francia, il Giappone occupò l'*indocina francese*. Gli Stati Uniti di conseguenza bloccarono le esportazioni verso il Giappone, provvedimento pesantissimo per uno Stato povero di materie prime. Il Giappone allora entra in guerra e il `7 dicembre` attacca la base navale statunitense di `Pearl Harbor`.\
+Il giorno successivo gli Stati Uniti e la Gran Bretagna dichiararono guerra al Giappone, che venne sostenuto da Germania e Italia.
