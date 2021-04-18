@@ -91,6 +91,13 @@ Nel `1944` gli eserciti Alleati proseguirono la loro avanzata:
 - Nell'area del Pacifico gli Stati Uniti costrinsero progressivamente il Giappone ad abbandonare tutti i territori occupati
 - Sul fronte orientale l'Armata Rossa, dopo aver liberato il territorio russo dai nazisti, proseguì verso l'Europa centrale e i Balcani
 
+Sempre nello stesso anno per gli Alleati si aprì un nuovo fronte oltre a quello italiano: la Normandia.\
+Con l'*operazione Overlord* tra il `5` e il `6 giugno` sotto il comando del generale `Dwight Eisenhower` l'esercito americano effettuò lo `sbarco in Normandia`. Il vantaggio dato dal fatto che i Tedeschi si aspettavano lo sbarco a *Calais*, insieme alle truppe inviate da de Gaulle e al secondo sbarco effettuato in Provenza (*operazione Dragoon*) consentì agli Alleati di liberare completamente la Francia per la metà di settembre.
+
+Tra il `1944` e il `1945` la Germania fu continuamente sottoposta a bombardamenti da parte degli Alleati, ma questo non fermò Hitler che anzi ordinò la mobilitazione totale.\
+Nella primavera del `1945` però le truppe alleate riuscirono ad entrare in Germania, mentre l'Armata Rossa entrò in Austria e si spinse fino a Vienna. Negli stessi giorni l'Italia veniva liberata e i Tedeschi iniziavano la ritirata.\
+Il `30 aprile` Hitler si suicidò insieme ad altri capi nazisti proprio mentre i Russi entravano a Berlino. Il suo successore firmò il `7 maggio` la resa senza condizioni.
+
 ## Dalla guerra totale ai progetti di pace
 
 ## La guerra e la Resistenza in Italia dal 1943 al 1945
