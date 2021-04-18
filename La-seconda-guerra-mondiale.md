@@ -68,6 +68,21 @@ All'opposto della resistenza c'era il `collaborazionismo`, ovvero l'appoggio deg
 
 ## 1942-43: la svolta
 
+Tra il 1942 e il 1943, con l'entrata in guerra degli Stati Uniti, l'andamento del conflitto si spostò a vantaggio di questi e cominciarono anche le prime sconfitte per gli eserciti del Patto Tripartito.
+
+La superiorità degli Alleati si manifestò anche nell'area dell'Atlantico dove gli Stati Uniti riuscirono a difendere dai Tedeschi la propria flotta che portava rifornimenti alla Gran Bretagna nella `battaglia dell'Atlantico`.\
+Dopo questa vittoria i loro sforzi vennero diretti in Africa dove il generale inglese `Bernard Law Montgomery` guidò la controffensiva che culminò nella battaglia di *`El Alamein`*. Nel giro di qualche mese tutto il Nord Africa era nelle mani degli Alleati.
+
+Nel `giugno 1942` la Germania lanciò un'offensiva alla Russia con l'obiettivo di conquistare le regioni del Caucaso, ricche di petrolio. A questa impresa partecipò anche l'ARMIR (Armata Italiana in Russia) a sostegno del precedente CSIR ma, anche questa volta, male equipaggiata.\
+Nonostante gli iniziali successi da `luglio` cominciò la `battaglia di Stalingrado` che, dopo mesi di sanguinosi combattimenti, costrinse i Tedeschi alla resa.
+
+Dopo i successi americani in Africa ci si poteva ora rivolgere all'Italia. Il primo passo fu l'occupazione dell'isola di *Pantelleria*, un mese dopo sbarcarono in *Sicilia* e, nel giro di un mese, occuparono tutta l'isola.\
+Gli Anglo-Americani vennero accolti come liberatori e fecero precipitare i già pochi consensi al fascismo, diminuiti drasticamente dopo i vari insuccessi militari.\
+La caduta definitiva del fascismo avvenne tra il `24` e il `25 luglio 1943` quando Mussolini venne messo in minoranza e fatto arrestare dal re.\
+L'incarico di formare un nuovo governo venne affidato al maresciallo `Pietro Badoglio`.
+
+Il `3 settembre` venne firmato l'`armistizio` con gli Alleati.
+
 ## 1944-45: la vittoria degli Alleati
 
 ## Dalla guerra totale ai progetti di pace
