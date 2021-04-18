@@ -42,3 +42,9 @@ Sebbene all'inizio la conquista, a cui partecipò anche l'Italia con il `CSIR` (
 La politica espansionistica del Giappone degli anni Trenta lo mise in contrasto con la Gran Bretagna, la Francia e gli Stati Uniti per il controllo del Sud-Est asiatico. Strinse perciò con le potenze dell'Asse il Patto Tripartito, mentre con l'Unione Sovietica strinse un patto di neutralità.\
 In `luglio`, approfittando della debolezza della Francia, il Giappone occupò l'*indocina francese*. Gli Stati Uniti di conseguenza bloccarono le esportazioni verso il Giappone, provvedimento pesantissimo per uno Stato povero di materie prime. Il Giappone allora entra in guerra e il `7 dicembre` attacca la base navale statunitense di `Pearl Harbor`.\
 Il giorno successivo gli Stati Uniti e la Gran Bretagna dichiararono guerra al Giappone, che venne sostenuto da Germania e Italia.
+
+Dopo anni di isolazionismo il presidente `Roosevelt` (ora alla terza elezione) si impegnò in senso opposto:
+- Venne approvata una legge che garantiva a condizioni vantaggiose per quattro anni rifornimenti di materiale bellico ai Paesi antifascisti
+- Redazione della `Carta Atlantica` in cui si affermano i princìpi di collaborazione tra gli Stati e di autodeterminazione dei popoli
+
+L'attacco giapponese a Pearl Harbor indusse gli Stati Uniti ad abbandonare definitivamente l'isolazionismo.
