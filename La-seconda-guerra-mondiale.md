@@ -107,4 +107,20 @@ Era dunque ora finita la seconda guerra mondiale, il cui bilancio conclusivo fu 
 
 ## Dalla guerra totale ai progetti di pace
 
+Con la prima guerra mondiale si sperimentò un nuovo timo di conflitto: la `guerra totale`.\
+Al contrario della prima però la seconda coinvolse come mai prima d'ora la popolazione civile: non esisteva più un fronte.\
+Una volta finita la guerra molti Stati si ritrovarono distrutti dall'inflazione, che combinata con la distruzione fisica dei vari territori, portò inere popolazioni alla fame.
+
+La seconda guerra mondiale fu una `guerra tecnologica`, alcune novità furono:
+- Il `radar`
+- Uso su larga scala dei sottomarini e dei carri armati
+- Bombardamento aereo
+- `Bomba atomica`
+- Ampio ricorso alla manodopera femminile
+
+Questa fu anche una `guerra ideologica`, vennero cioè sostenute con vigore le *motivazioni ideologiche* dei vari Stati attraverso mezzi di comunicazione come la radio e il cinema.
+
+Ancora prima che finisse la guerra, nell'`agosto 1941`, gli Stati Uniti (con *Roosevelt*) e la Gran Bretagna (con *Churchill*) firmarono la `Carta Atlantica` che stabiliva in otto punti alcuni princìpi generali, simili ai Quattordici punti di Wilson, da applicare alla fine del conflitto.\
+Nel `gennaio 1942` 26 Paesi si unirono nelle `Nazioni Unite`.
+
 ## La guerra e la Resistenza in Italia dal 1943 al 1945
