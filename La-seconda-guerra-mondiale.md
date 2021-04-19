@@ -123,4 +123,19 @@ Questa fu anche una `guerra ideologica`, vennero cioè sostenute con vigore le *
 Ancora prima che finisse la guerra, nell'`agosto 1941`, gli Stati Uniti (con *Roosevelt*) e la Gran Bretagna (con *Churchill*) firmarono la `Carta Atlantica` che stabiliva in otto punti alcuni princìpi generali, simili ai Quattordici punti di Wilson, da applicare alla fine del conflitto.\
 Nel `gennaio 1942` 26 Paesi si unirono nelle `Nazioni Unite`.
 
+Verso la fine del 1943 la guerra era ormai a favore degli Alleati vennero perciò intensificati i contatti tra Gran Bretagna, Stati Uniti e Unione Sovietica. Vennero svolte diverse conferenze riguardo al futuro assetto del mondo:
+- `Conferenza di Teheran` (`novembre-dicembre 1943`):
+  - Sbarco in Normandia
+  - Creazione di un'organizzazione che garantisse la pace mondiale
+- `Conferenza di Yalta` (`febbraio 1945`):
+  - Divisione della Germania tra Gran Bretagna, Stati Uniti, Unione Sovietica e Francia
+  - Scioglimento dell'esercito tedesco
+  - Perseguimento giudiziario dei criminali nazisti
+  - Pagamento da parte della Germania dei danni di guerra
+  - Diritto per i Paesi liberati di autodeterminare il proprio futuro politico
+- `Conferenza di Potsdam` (`luglio-agosto 1945`):
+  - Riconosciuti territori a Polonia e Unione Sovietica
+
+Con quest'ultima conferenza cominciò a sgretolarsi la solidarietà tra Stati Uniti e Unione Sovietica, rivalità che esploderà nella cosiddetta *guerra fredda*.
+
 ## La guerra e la Resistenza in Italia dal 1943 al 1945
