@@ -182,3 +182,12 @@ Nel `novembre 1943` venne ordinato che tutti gli Ebrei venissero internati in ca
 I campi di concentramento più importanti erano:
 - Quello di `Fossoli`, realizzato inizialmente per rinchiudere i prigionieri di guerra
 - La `Risiera di San Sabba`, un complesso di magazzini di riso risalente all'epoca austro-ungarica
+
+Nel `1944` il numero di partigiani aumentò considerevolmente e la loro azione divenne particolarmente incisiva, in diverse zone vennero formate delle `repubbliche partigiane`.\
+Alcune città, come Firenze, vennero liberate senza l'intervento degli Alleati. Intanto continuavano le rappresaglie dei Tedeschi che portarono a stragi quali quella delle `Fosse Ardeatine` e quella di `Marzabotto`.
+
+Il momento più difficile per la resistenza fu l'inverno tra il 1944 e il 1945, la marcia delle truppe alleate si arrestò infatti sulla *linea gotica* e non continuò fino alla  tarda primavera.\
+Quando le operazioni ripresero in aprile, con un equipaggiamento ora migliorato, si riuscì a sfondare la linea gotica e vennero liberate città come *Genova* e *Milano* il `25 aprile`.\
+Mentre i Tedeschi si ritiravano anche `Mussolini` decise che non gli rimaneva che la fuga, ma il `28 aprile` venne riconosciuto e fucilato dai partigiani, insieme alla sua compagna venne poi appeso per i piedi a piazzale Loreto, a Milano.\
+Due giorni dopo si suicidò Hitler. Finiva così la guerra in Europa.\
+In alcune zone d'Italia però la lotta armata non finì subito e anzi andò avanti per anni, portandosi dietro una scia di esecuzioni sommarie che uccisero ulteriori migliaia di persone.
