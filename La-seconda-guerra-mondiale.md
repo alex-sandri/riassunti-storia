@@ -139,3 +139,46 @@ Verso la fine del 1943 la guerra era ormai a favore degli Alleati vennero perci�
 Con quest'ultima conferenza cominciò a sgretolarsi la solidarietà tra Stati Uniti e Unione Sovietica, rivalità che esploderà nella cosiddetta *guerra fredda*.
 
 ## La guerra e la Resistenza in Italia dal 1943 al 1945
+
+Dopo l'armistizio l'Italia era divisa politicamente in:
+- Centro-Nord: `Repubblica di Salò`, fondata da Mussolini e sostenuta dai Tedeschi
+- Sud: `Regno d'Italia`, appoggiato dagli Alleati
+
+Questa divisione portò confusione tra gli Italiani che non sapevano più a chi ubbidire.\
+Nacque dunque la `Resistenza`.
+
+Questo fu un fenomento molto complesso nel quale si intrecciarono diversi conflitti:
+- *guerra patriottica* per liberare il Paese dai Tedeschi
+- *guerra civile* tra i partigiani e i fascisti della Repubblica di Salò
+- *guerra di classe* condotta dai comunisti contro i sostenitori del fascismo
+
+Tra `settembre` e `dicembre 1943` si formarono diverse bande partigiane di cui facevano anche parte i cosiddetti *renitenti alla leva*, ovvero coloro che non avevano risposto alla chiamata alle armi della Repubblica.\
+Queste bande agivano con sabotaggi, azioni di disturbo e attentati a cui i Tedeschi rispondevano con feroci rappresaglie.\
+Alcuni gruppi tra i più importanti furono:
+- Le *Brigate Garibaldi*, costituite per lo più da comunisti
+- Le *Brigate Matteotti*, da socialisti
+- Le *Brigate del Popolo*, da democristiani
+
+Esistevano anche le cosiddette formazioni *autonome* che rifiutavano la sottomissione a qualsiasi partito, erano composte per la maggior parte da militari.
+
+Per coordinare l'azione dei partigiani venne costituito il `CLN` (`Comitato di Liberazione Nazionale`), al Nord si costituirono diversi CLN locali, il principale dei quali fu però quello di Milano: il `CLNAI` (Comitato di Liberazione Nazionale dell'Alta Italia).
+
+Gli esponenti del CLN erano molto divisi sul futuro dell'organizzazione politica italiana.\
+Comunisti e socialisti ritenevano la monarchia colpevole di gravi colpe, quali la presa del potere di Mussolini e l'entrata in guerra, ritenevano quindi opportuno la creazione di una Repubblica. Cattolici e liberali preferivano invece mantenere la monarchia, questa era anche la soluzione preferita degli Alleati.\
+L'allora segretario del Partito comunista `Palmiro Togliatti` dichiarò quindi che per il momento era necessario unire tutte le forze per liberare l'Italia, poi una volta finita la guerra si sarebbe deciso il futuro dell'Italia attraverso un referendum.\
+Questa proposta nota come `svolta di Salerno` permise di raggiungere un compromesso tra le varie tendenze presenti in Italia.\
+Il re accettò la proposta e nominò suo figlio `Umberto` provvisoriamente `Luogotenente Generale del Regno`.
+
+Nel `giugno 1944` Roma venne liberata, Badoglio si dimise e al suo posto andò `Ivanoe Bonomi`.\
+Gli obiettivi del nuovo governo erano:
+- La defascistizzazione dello Stato
+- L'aiuto ai resistenti del Nord
+- La massima autonomia amministrativa possibile dagli Alleati
+
+Questo piano non venne pienamente attuato per mancanza di una unità d'azione.\
+Nel frattempo la Repubblica di Salò dimostrava la sua debolezza, si reggeva infatti solo grazie al supporto dei nazisti.
+
+Nel `novembre 1943` venne ordinato che tutti gli Ebrei venissero internati in campi di concentramento nazionali, prima di essere mandati nei lager tedeschi. Si salvarono solo quelli residenti nelle regioni già liberate dagli Alleati.\
+I campi di concentramento più importanti erano:
+- Quello di `Fossoli`, realizzato inizialmente per rinchiudere i prigionieri di guerra
+- La `Risiera di San Sabba`, un complesso di magazzini di riso risalente all'epoca austro-ungarica
