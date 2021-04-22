@@ -109,7 +109,7 @@ Era dunque ora finita la seconda guerra mondiale, il cui bilancio conclusivo fu 
 
 Con la prima guerra mondiale si sperimentò un nuovo tipo di conflitto: la `guerra totale`.\
 Al contrario della prima però la seconda coinvolse come mai prima d'ora la popolazione civile: non esisteva più un fronte.\
-Una volta finita la guerra molti Stati si ritrovarono distrutti dall'inflazione, che combinata con la distruzione fisica dei vari territori, portò intere popolazioni alla fame.
+Una volta finita la guerra molti Stati si ritrovarono distrutti dall'inflazione che, combinata con la distruzione fisica dei vari territori, portò intere popolazioni alla fame.
 
 La seconda guerra mondiale fu una `guerra tecnologica`, alcune novità furono:
 - Il `radar`
