@@ -62,7 +62,7 @@ La resistenza al nazismo non tardò a svilupparsi:
 - In `Francia` guidata dal generale *de Gaulle*
 - In `Iugoslavia` i partigiani comunisti di *Tito* cacciarono i Tedeschi senza nessun aiuto esterno
 - Nella stessa `Germania` l'esercito organizzò un `attentato a Hitler`, che però fallì
-- In `Italia` la resistenza fu complessa e composta da contrasti politici profondi
+- [In `Italia` la resistenza fu complessa e composta da contrasti politici profondi][resistenza-in-italia]
 
 All'opposto della resistenza c'era il `collaborazionismo`, ovvero l'appoggio degli invasori da parte dei Paesi occupati, il cui esempio più clamoroso fu quello del norvegese `Vidkun Quisling`.
 
@@ -191,3 +191,5 @@ Quando le operazioni ripresero in aprile, con un equipaggiamento ora migliorato,
 Mentre i Tedeschi si ritiravano anche `Mussolini` decise che non gli rimaneva che la fuga, ma il `28 aprile` venne riconosciuto e fucilato dai partigiani, insieme alla sua compagna venne poi appeso per i piedi a piazzale Loreto, a Milano.\
 Due giorni dopo si suicidò Hitler. Finiva così la guerra in Europa.\
 In alcune zone d'Italia però la lotta armata non finì subito e anzi andò avanti per anni, portandosi dietro una scia di esecuzioni sommarie che uccisero ulteriori migliaia di persone.
+
+[resistenza-in-italia]: #la-guerra-e-la-resistenza-in-italia-dal-1943-al-1945
