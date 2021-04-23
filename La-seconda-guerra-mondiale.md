@@ -147,7 +147,7 @@ Dopo l'armistizio l'Italia era divisa politicamente in:
 Questa divisione portò confusione tra gli Italiani che non sapevano più a chi ubbidire.\
 Nacque dunque la `Resistenza`.
 
-Questo fu un fenomento molto complesso nel quale si intrecciarono diversi conflitti:
+Questo fu un fenomeno molto complesso nel quale si intrecciarono diversi conflitti:
 - *guerra patriottica* per liberare il Paese dai Tedeschi
 - *guerra civile* tra i partigiani e i fascisti della Repubblica di Salò
 - *guerra di classe* condotta dai comunisti contro i sostenitori del fascismo
