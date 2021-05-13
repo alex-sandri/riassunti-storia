@@ -80,7 +80,7 @@ La propaganda man mano che aumentava faceva crescere anche l'opposizione alla gu
 Conclusione del conflitto:
 - I fronti degli imperi centrali crollano con le battaglie della Marna e di Amiens da parte dei Francesi
 - La Bulgaria si arrende
-- L'Ungheria, la Cecoslovacchia e la Iugoslavia si dichiarano indipendenti all'Austria
+- L'Ungheria, la Cecoslovacchia e la Iugoslavia si dichiarano indipendenti dall'Austria
 - L'esercito austriaco si ritira dopo la sconfitta di Vittorio Veneto
 - A Villa Giusti venne firmato l'armistizio che siglava la vittoria dell'Italia
 - La Turchia si arrende
