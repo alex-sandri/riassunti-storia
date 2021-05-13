@@ -53,6 +53,14 @@ Dopo aver creato un clima di tensione per portare l'opinione pubblica su posizio
 
 ## Il genocidio degli Armeni
 
+Saliti al potere i Giovani Turchi, questi vedevano negli Armeni un popolo da perseguitare e, quando scoppiò la prima guerra mondiale, molti Armeni non vollero combattere contro i loro fratelli russi. Il governo decise quindi una eliminazione sistematica della popolazione armena.
+
+Vennero organizzate deportazioni verso i confini dell'Impero, lontano da sguardi indiscreti. Non tutti però arrivavano a destinazione, e chi arrivava non sarebbe durato a lungo.
+
+La stima dei morti è di circa un milione, ovvero la metà della popolazione armena al tempo.
+
+Il genocidio venne successivamente negato, giustificando la loro morte come una semplice conseguenza delle condizioni precarie di ogni cittadino in tempo di guerra.
+
 ## I trattati di pace
 
 I ministri dei Paesi vincitori si riunirono in una conferenza per la pace.
