@@ -47,6 +47,32 @@ Dopo aver creato un clima di tensione per portare l'opinione pubblica su posizio
 
 ## La grande guerra
 
+All'entrata in guerra l'esercito italiano non era ancora pronto a sostenere un conflitto.
+
+Guidato da `Luigi Cadorna`, che impose dure punizioni a qualunque mancanza.
+
+Per tutto il 1915 gli schieramenti rimasero pressoché immobili, anno delle quattro battaglie dell'Isonzo che ebbero come sola conseguenza migliaia di vittime.
+
+Gli austriaci con la `spedizione punitiva` riuscirono ad arrivare fino ad Asiago, ma dovettero ritirarsi per affrontare i Russi sull'altro fronte.
+
+Altri eventi:
+- Russia sconfitta ai Laghi Masuri
+- Serbia crollata dopo l'entrata in guerra della Bulgaria
+- Francia sconfitta a Verdun
+- Germania sconfitta a Somme (controffensiva francese)
+- Russia fa arretrare l'Austria
+- Gran Bretagna attua un blocco navale a danno della Germania
+- Rivolte arabe sostenute dagli Inglesi, ebbe un ruolo di primo piano il colonnello Lawrence
+
+La guerra sottomarina attuata dai Tedeschi per bloccare i rifornimenti ai nemici ed isolare la Gran Bretagna, finì per essere il motivo per cui gli Stati Uniti entrarono in guerra.
+
+La Russia decise di uscire dalla guerra dopo che il regime fu rovesciato e sostituito da una repubblica e, successivamente, subì un'invasione da parte dei Tedeschi che portò alla [rivoluzione][rivoluzione-russa].
+
+In seguito all'uscita della Russia l'Austria potè concentrare l'esercito sul fronte italiano che sfondò le linee italiane a `Caporetto`. Cadorna venne sostituito da `Armando Diaz` che bloccò gli Austriaci sul fiume Piave.
+
+La guerra non ebbe conseguenze solo per coloro che stavano al fronte, ma anche per i civili che si vedevano razionare il cibo, limitare la libertà personale e aumentare i carichi di lavoro.\
+Subirono una forte crescita le industrie siderurgiche, meccaniche, chimiche e tessili.
+
 ## L'inferno delle trincee
 
 Durante tutta la prima guerra mondiale vennero utilizzate le trincee, antichissimo sistema difensivo delle guerre di posizione.
@@ -107,5 +133,7 @@ L'Europa perse la centralità, infatti i veri vincitori furono gli Stati Uniti.
 Dopo la prima guerra mondiale venne istituita la Società delle Nazioni con lo scopo di regolare i rapporti internazionali ed evitare la guerra.
 
 Questa organizzazione non ebbe però molto successo, anche in quanto gli stessi che la avevano proposta, gli Stati Uniti, non ne fecero mai parte.
+
+[rivoluzione-russa]: La-rivoluzione-russa.md
 
 [gabriele-d-annunzio]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Gabriele-D-Annunzio.md
