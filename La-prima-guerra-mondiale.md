@@ -55,4 +55,22 @@ Dopo aver creato un clima di tensione per portare l'opinione pubblica su posizio
 
 ## I trattati di pace
 
+I ministri dei Paesi vincitori si riunirono in una conferenza per la pace.
+
+Il presidente degli Stati Uniti `Wilson` aveva proposto i `Quattordici punti` che avrebbero dovuto regolare i rapporti internazionali di lì in avanti secondo il principio di autodeterminazione dei popoli e la libertà dei mari.
+
+Prevalse invece la proposta punitiva francese nei confronti della Germania, ottenendo così i territori dell'Alsazia e della Lorena. La Germania dovette cedere anche altri territori oltre a pagare una sanzione per i danni di guerra.
+
+L'Italia ottenne dall'Austria il Trentino, l'Alto Adige, la Venezia Giulia e Trieste.
+
+Dopo i trattati di pace molti Paesi ebbero reazioni violente o comunque di delusione.
+
+L'Europa perse la centralità, infatti i veri vincitori furono gli Stati Uniti.
+
+### Società delle Nazioni
+
+Dopo la prima guerra mondiale venne istituita la Società delle Nazioni con lo scopo di regolare i rapporti internazionali ed evitare la guerra.
+
+Questa organizzazione non ebbe però molto successo, anche in quanto gli stessi che la avevano proposta, gli Stati Uniti, non ne fecero mai parte.
+
 [gabriele-d-annunzio]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Gabriele-D-Annunzio.md
