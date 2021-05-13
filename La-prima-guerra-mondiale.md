@@ -19,7 +19,7 @@
   - Tesi razziste sulla necessità di salvaguardare l'identità nazionale
   - Darwinismo applicato alle relazioni internazionali, cioè la guerra fra Stati come lotta per la sopravvivenza
 - `Occasionale`:
-  - Uccisione a Sarajevo dell'erede al trono d'Austria, l'arciduca Francesco Ferdinando, e di sua moglie. Approfittando della situazione l'Austria dichiarò guerra alla Serbia il 28 luglio, dopo che la Serbia aveva rifiutato le richieste avanzate dall'Austria
+  - Uccisione a Sarajevo dell'erede al trono d'Austria, l'arciduca Francesco Ferdinando, e di sua moglie. Approfittando della situazione l'Austria dichiarò guerra alla Serbia il 28 luglio, dopo che la Serbia aveva rifiutato le richieste avanzate
 
 Immediatamente dopo la dichiarazione di guerra dell'Austria si misero in moto le varie alleanze e si passò ad un conflitto europeo:
 - `29 luglio`: mobilitazione della Russia
