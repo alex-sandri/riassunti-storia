@@ -31,6 +31,20 @@ L'utilizzo dell'artiglieria rendeva inutili gli attacchi di fanteria, ma richied
 
 ## L'Italia in guerra
 
+Allo scoppio della guerra l'Italia decise di rimanere neutrale in quanto le clausole dell'Alleanza prevedevano solo guerre difensive.
+
+Si cominciò a parlare di un intervento contro l'Austria, che avrebbe consentito di ottenere Trento e Trieste. Si formarono così due schieramenti contrapposti:
+- `Neutralisti`: composti dalla maggior parte della popolazione e dei parlamentari
+- `Interventisti`: si dividevano in:
+  - `Interventisti di destra`: erano convinti che la violenza bellica fosse un segno di vitalità della nazione. Fra i sostenitori si distingueva [Gabriele d'Annunzio][gabriele-d-annunzio]. Avevano come obiettivo la liberazione di Trento e Trieste dal dominio austriaco.
+  - `Interventisti di sinistra`: secondo loro l'Italia si doveva alleare con l'Intesa. Fra i sostenitori si distingueva Benito Mussolini.
+
+Gli interventisti erano nel complesso una minoranza, ma avevano il supporto del re e di molti giornali.
+
+Il ministro degli Esteri `Sonnino` sottoscrisse in segreto il `Patto di Londra`, che prevedeva l'alleanza con l'Intesa e, in caso di vittoria, l'annessione all'Italia di Trento, Trieste, Sud Tirolo e altri territori.
+
+Dopo aver creato un clima di tensione per portare l'opinione pubblica su posizioni interventiste, con quelle che vennero definite le `radiose giornate`, l'Italia entrò in guerra contro l'Austria-Ungheria il `24 maggio 1915`.
+
 ## La grande guerra
 
 ## L'inferno delle trincee
@@ -40,3 +54,5 @@ L'utilizzo dell'artiglieria rendeva inutili gli attacchi di fanteria, ma richied
 ## Il genocidio degli Armeni
 
 ## I trattati di pace
+
+[gabriele-d-annunzio]: https://github.com/riassunti-italiano/blob/main/Gabriele-D-Annunzio.md
