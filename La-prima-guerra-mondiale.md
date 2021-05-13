@@ -70,8 +70,21 @@ La Russia decise di uscire dalla guerra dopo che il regime fu rovesciato e sosti
 
 In seguito all'uscita della Russia l'Austria potè concentrare l'esercito sul fronte italiano che sfondò le linee italiane a `Caporetto`. Cadorna venne sostituito da `Armando Diaz` che bloccò gli Austriaci sul fiume Piave.
 
-La guerra non ebbe conseguenze solo per coloro che stavano al fronte, ma anche per i civili che si vedevano razionare il cibo, limitare la libertà personale e aumentare i carichi di lavoro.\
+La guerra non ebbe conseguenze solo per coloro che stavano al fronte (`fronte esterno`), ma anche per i civili (`fronte interno`) che si vedevano razionare il cibo, limitare la libertà personale e aumentare i carichi di lavoro.\
 Subirono una forte crescita le industrie siderurgiche, meccaniche, chimiche e tessili.
+
+Per ottenere la vittoria finale i governi sottoposero le popolazioni alla mobilitazione totale, oltre ad una censura su tutto ciò che rivelava le condizioni reali dei soldati o su quelli che volevano la fine del conflitto, i cosiddetti disfattisti.\
+Vennero inoltre attuate enormi campagne di propaganda: dai manifesti alle cartoline, al cinema e persino ai bambini a scuola.\
+La propaganda man mano che aumentava faceva crescere anche l'opposizione alla guerra.
+
+Conclusione del conflitto:
+- I fronti degli imperi centrali crollano con le battaglie della Marna e di Amiens da parte dei Francesi
+- La Bulgaria si arrende
+- L'Ungheria, la Cecoslovacchia e la Iugoslavia si dichiarano indipendenti all'Austria
+- L'esercito austriaco si ritira dopo la sconfitta di Vittorio Veneto
+- A Villa Giusti venne firmato l'armistizio che siglava la vittoria dell'Italia
+- La Turchia si arrende
+- La Germania firma la resa con l'armistizio di Rethondes
 
 ## L'inferno delle trincee
 
