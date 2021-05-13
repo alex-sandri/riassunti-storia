@@ -49,6 +49,18 @@ Dopo aver creato un clima di tensione per portare l'opinione pubblica su posizio
 
 ## L'inferno delle trincee
 
+Durante tutta la prima guerra mondiale vennero utilizzate le trincee, antichissimo sistema difensivo delle guerre di posizione.
+
+I soldati erano costantemente esposti all'esterno senza un riparo dalle intemperie. Le condizioni igieniche erano pessime, infatti ben presto le trincee furono invase dai topi e frequenti erano anche le epidemie.
+
+La presenza della morte era una costante durante la guerra, con cui i soldati dovevano convivere e che, alla lunga, portò traumi e depressione fra di loro. Lo stato di angoscia tra l'ordine di assalto e l'effettiva esecuzione non faceva altro che peggiorare la situazione, in quanto molti sapevano che non ce la avrebbero fatta.\
+Quindi alcuni preferivano essere fucilati per diserzione o suicidarsi piuttosto che andare all'assalto.
+
+La guerra poteva rappresentare un gesto eroico e patriottico solo per i primi giorni per la maggior parte dei soldati.\
+Gli unici per cui questi sentimenti rimasero furono gruppi come le *Stormtruppen* (truppe d'assalto) tedesche o gli Arditi italiani, impiegati per le azioni più rischiose.
+
+La pressione psicologica era dunque il motivo per cui molti restavano a combattere.
+
 ## La tecnologia al servizio della guerra
 
 ### Gas
