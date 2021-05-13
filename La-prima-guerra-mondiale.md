@@ -51,6 +51,21 @@ Dopo aver creato un clima di tensione per portare l'opinione pubblica su posizio
 
 ## La tecnologia al servizio della guerra
 
+### Gas
+
+Inizialmente sotto forma di bombole che venivano aperte in direzione del vento e poi ordigni che venivano lanciati verso le trincee avversarie. Vennero utilizzati per primi dai Tedeschi.
+
+Gli eserciti si dotarono presto di maschere antigas che, insieme alla non piena affidabilità dei gas, gli resero un'arma sempre più inutile.
+
+### Altro
+
+Le `autoambulanze` e la `radiofonia` furono due esempi di sviluppi stimolati dalla guerra.
+
+Altri mezzi introdotto furono:
+- `Aerei`: anche se poco venivano utilizzati per osservazioni dall'alto o per bombardamenti
+- `Carro armato`: anche questo utilizzato di rado, fu preceduto dalle autoblindo, semplici autocarri rinforzati con una mitragliatrice
+- `Sottomarini`: introdotti dai Tedeschi e utilizzati per colpire le navi nemiche o quelle che portavano rifornimenti ai nemici, come quelle statunitensi
+
 ## Il genocidio degli Armeni
 
 Saliti al potere i Giovani Turchi, questi vedevano negli Armeni un popolo da perseguitare e, quando scoppiò la prima guerra mondiale, molti Armeni non vollero combattere contro i loro fratelli russi. Il governo decise quindi una eliminazione sistematica della popolazione armena.
