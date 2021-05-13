@@ -55,4 +55,4 @@ Dopo aver creato un clima di tensione per portare l'opinione pubblica su posizio
 
 ## I trattati di pace
 
-[gabriele-d-annunzio]: https://github.com/riassunti-italiano/blob/main/Gabriele-D-Annunzio.md
+[gabriele-d-annunzio]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Gabriele-D-Annunzio.md
