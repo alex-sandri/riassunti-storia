@@ -27,6 +27,24 @@ I socialisti russi fondarono il `Partito operaio socialdemocratico russo`, divis
 
 ## Tre rivoluzioni
 
+### 1905
+
+La guerra con il Giappone nel 1905 fece vivere alla Russia una grande crisi, che peggiorò ulteriormente le condizioni del popolo.
+
+Questo portò ad una pacifica processione a `San Pietroburgo` ma, davanti al Palazzo d'Inverno (residenza dello zar), l'esercito aprì il fuoco sui manifestanti.
+
+Le conseguenze furono rivolte e scioperi nelle fabbriche e nelle campagne, anche nella borghesia ora si formava un'opposizione allo zarismo.
+
+Venne fondato il `Partito Liberale Democratico Costituzionale`, venne eletto un Parlamento e, raggiunto il culmine della rivolta in ottobre, venne creato il `primo soviet dei lavoratori`, con a capo Trockij.
+
+### Febbraio 1917
+
+Nel febbraio del 1917 gli operai di Pietrogrado insorsero in massa. A loro si unì l'esercito che si rifiutò di obbedire allo zar.
+
+Senza nessun sostenitore lo zar fu costretto ad abdicare e nacque così la repubblica.
+
+Questa rivoluzione si concluse rapidamente e con pochissime vittime.
+
 ## La nascita dell'URSS
 
 ## L'URSS di Stalin
