@@ -75,6 +75,19 @@ Lenin scrisse poi un saggio dove chiedeva ai bolscevichi di creare una `dittatur
 
 ## La nascita dell'URSS
 
+I primi decreti che vennero approvati furono:
+- `Decreto sulla pace`: pace immediata senza annessioni territoriali
+- `Decreto sulla terra`: proprietà privata abolita
+
+Dopo le elezioni dell'`Assemblea Costituente`, sfavorevoli ai bolscevichi, questi dopo un solo giorno di attività la sciolsero.\
+Questo evento causò una emigrazione di massa e preoccupò i governi dell'Intesa.
+
+Ora la Russia doveva affrontare il problema della guerra, a questo proposito venne firmata la pace con i Tedeschi di `Brest-Litovsk`, che ebbe notevoli ripercussioni interne.\
+Questa pace consisteva in:
+- Cessione alla Germania delle regioni tra la Bielorussia e il Caucaso
+- Indipendenza della Finlandia e dell'Ucraina
+- Rinuncia ai Paesi Baltici e alla Polonia
+
 ## L'URSS di Stalin
 
 Con l'imminente morte di Lenin, nel partito si aprirono lotte per la successione, tra `Stalin` e `Trockij`.
