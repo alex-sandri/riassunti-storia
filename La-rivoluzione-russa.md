@@ -45,6 +45,16 @@ Nel `1927` si verificò nell'URSS una grande crisi economica, causata dal fatto 
 Questa industrializzazione forzata fu ottenuta comprimendo i consumi interni il più possibile. Mancava però personale nelle fabbriche che fosse qualificato, vennero quindi pagate persone provenienti dall'estero perché facessero da istruttori alle masse contadine ora in fabbrica. Per motivare gli operai venivano loro concessi premi o promozioni, venne anche introdotto lo `stachanovismo`, che aveva come fine il raggiungimento dei migliori risultati.\
 Vennero fatti il secondo e il terzo piano quinquennale, ma quest'ultimo venne interrotto a causa della [seconda guerra mondiale][seconda-guerra-mondiale].
 
+Durante questo periodo tutte le terre vennero confiscate e, di conseguenza, i contadini si ribellarono. Stalin decise quindi di eliminarli, dopo un processo sommario, oppure di deportarli in Siberia.
+
+Durante gli anni Trenta in Russia ogni singolo oppositore al regime di Stalin veniva eliminato, e chi non veniva giustiziato veniva deportato nei campi di lavoro detti `gulag`.
+
+L'URSS diventava ormai uno Stato totalitario:
+- Culto del capo
+- La storia veniva riscritta: gli errori e gli insuccessi venivano attribuiti a dei sabotatori
+
+Ma, accanto al terrore, miglioravano i vari servizi dello Stato.
+
 ## L'arcipelago gulag
 
 Diffusi soprattutto durante gli anni del regime di Stalin, venivano utilizzati per rinchiudere i prigionieri politici e gli oppositori.\
