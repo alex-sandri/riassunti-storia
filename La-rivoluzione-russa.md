@@ -88,6 +88,27 @@ Questa pace consisteva in:
 - Indipendenza della Finlandia e dell'Ucraina
 - Rinuncia ai Paesi Baltici e alla Polonia
 
+Dal 1918 la Russia, grazie all'appoggio delle potenze occidentali, dovette fronteggiare una guerra civile, tra le armate bianche fedeli allo zar e le armate rosse fedeli al governo bolscevico.\
+Si concluse con la vittoria di queste ultime e la morte dello zar e della sua famiglia.
+
+La Russia dovette poi affrontare la Polonia che, approfittando della guerra civile, cercò di riappropriarsi di alcuni territori.
+
+Venne creata la prima Costituzione sovietica, che prevedeva che il nuovo Stato fosse una repubblica federale, a cui si unirono altre province per formare l'URSS (Unione delle Repubbliche Socialiste Sovietiche).\
+Con questo i bolscevichi resero fuori legge tutti gli oppositori del regime e venne reintrodotta la pena di morte.
+
+A causa di una inflazione elevatissima, il governo fu costretto ad introdurre il cosiddetto `comunismo di guerra`, che prevedeva la nazionalizzazione della terra e il controllo totalitario sul commercio.\
+Questo portò a delle sommosse da parte degli stessi contadini che supportarono la rivoluzione.\
+Si andava affermando il centralismo di Lenin.
+
+Con il X Congresso del Partito comunista il comunismo di guerra venne rimpiazzato dalla `NEP` (Nuova Politica Economica), sintetizzabile in:
+- Permesso ai contadini di coltivare la terra per le loro necessità e vendere le eccedenze, dopo aver dato allo Stato una parte del raccolto
+- Commercio spicciolo legalizzato per stroncare il mercato nero
+- Lo Stato mantiene il controllo delle fabbriche più grandi
+
+Questa politica riuscì a portare l'Unione Sovietica alla stabilità.
+
+Venne poi proibito il frazionismo nel Partito, ovvero quando una decisione era presa era vincolante per tutti. L'URSS diventava sempre più uno Stato totalitario a partito unico.
+
 ## L'URSS di Stalin
 
 Con l'imminente morte di Lenin, nel partito si aprirono lotte per la successione, tra `Stalin` e `Trockij`.
