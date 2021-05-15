@@ -51,7 +51,22 @@ Dopo la rivoluzione di febbraio si formarono due centri di potere:
 
 Questo dualismo di poteri indebolì la Repubblica russa.
 
-Entrambi volevano continuare la guerra, ma per motivi diversi.
+Entrambi volevano continuare la guerra, ma per motivi diversi:
+- Il governo provvisorio pensava che la vittoria militare avrebbe rafforzato lo Stato e la borghesia
+- Il soviet sosteneva invece che bisognava sconfiggere la Germania e l'Austria per difendere la rivoluzione
+
+Mentre la soluzione dei problemi sociali ed economici per entrambi veniva rimandata alla fine della guerra.
+
+Di ritorno dal suo esilio in Svizzera, Lenin presentò ai bolscevichi le cosiddette `Tesi di Aprile`, che affermavano tre idee fondamentali:
+- Tutto il potere ai soviet
+- La pace
+- La terra ai contadini
+
+Questo era ciò che volevano sentire le masse da cui ottenne molti consensi ma si allontanò ancora di più da tutti gli altri gruppi socialisti.
+
+Dopo una fallimentare marcia su Pietrogrado nel settembre del 1917 i bolscevichi ottennero la maggioranza nei soviet di Pietrogrado e Mosca.
+
+Lenin scrisse poi un saggio dove chiedeva ai bolscevichi di creare una `dittatura democratica`, dittatura in quanto oppressiva e democratica in quanto rappresentante della maggioranza del popolo.
 
 > ### Ottobre 1917
 > Le condizioni critiche della Russia portarono i bolscevichi a creare la `Guardia Rossa` e organizzare la rivoluzione, guidata da Trockij. Il 25 ottobre venne conquistato il Palazzo d'Inverno.\
