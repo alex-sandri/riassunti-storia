@@ -32,3 +32,9 @@ I socialisti russi fondarono il `Partito operaio socialdemocratico russo`, divis
 ## L'URSS di Stalin
 
 ## L'arcipelago gulag
+
+Diffusi soprattutto durante gli anni del regime di Stalin, venivano utilizzati per rinchiudere i prigionieri politici e gli oppositori.\
+Inizialmente venivano posti lontano dalle città, come in Siberia, ma poi anche nelle vicinanze di Mosca.
+
+I prigionieri venivano condannati senza un regolare processo e le confessioni venivano estorte con la tortura e le minacce.\
+Il loro lavoro era il disboscamento, l'estrazione di minerali e la costruzione di infrastrutture. Il tutto al freddo, affamati e malati.
