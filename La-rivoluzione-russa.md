@@ -27,23 +27,36 @@ I socialisti russi fondarono il `Partito operaio socialdemocratico russo`, divis
 
 ## Tre rivoluzioni
 
-### 1905
+> ### 1905
+>
+> La guerra con il Giappone nel 1905 fece vivere alla Russia una grande crisi, che peggiorò ulteriormente le condizioni del popolo.
+>
+> Questo portò ad una pacifica processione a `San Pietroburgo` ma, davanti al Palazzo d'Inverno (residenza dello zar), l'esercito aprì il fuoco sui manifestanti.
+>
+> Le conseguenze furono rivolte e scioperi nelle fabbriche e nelle campagne, anche nella borghesia ora si formava un'opposizione allo zarismo.
+>
+> Venne fondato il `Partito Liberale Democratico Costituzionale`, venne eletto un Parlamento e, raggiunto il culmine della rivolta in ottobre, venne creato il `primo soviet dei lavoratori`, con a capo Trockij.
 
-La guerra con il Giappone nel 1905 fece vivere alla Russia una grande crisi, che peggiorò ulteriormente le condizioni del popolo.
+> ### Febbraio 1917
+>
+> Nel febbraio del 1917 gli operai di Pietrogrado insorsero in massa. A loro si unì l'esercito che si rifiutò di obbedire allo zar.
+>
+> Senza nessun sostenitore lo zar fu costretto ad abdicare e nacque così la repubblica.
+>
+> Questa rivoluzione si concluse rapidamente e con pochissime vittime.
 
-Questo portò ad una pacifica processione a `San Pietroburgo` ma, davanti al Palazzo d'Inverno (residenza dello zar), l'esercito aprì il fuoco sui manifestanti.
+Dopo la rivoluzione di febbraio si formarono due centri di potere:
+- `Governo provvisorio`: presieduto dal principe L'vov che formalmente aveva il potere
+- `Soviet di Pietrogrado`: formato da rappresentanti eletti nelle fabbriche e nell'esercito e dominato dai socialrivoluzionari e dai menscevichi. Questo svolgeva sempre più funzioni di direzione politica
 
-Le conseguenze furono rivolte e scioperi nelle fabbriche e nelle campagne, anche nella borghesia ora si formava un'opposizione allo zarismo.
+Questo dualismo di poteri indebolì la Repubblica russa.
 
-Venne fondato il `Partito Liberale Democratico Costituzionale`, venne eletto un Parlamento e, raggiunto il culmine della rivolta in ottobre, venne creato il `primo soviet dei lavoratori`, con a capo Trockij.
+Entrambi volevano continuare la guerra, ma per motivi diversi.
 
-### Febbraio 1917
-
-Nel febbraio del 1917 gli operai di Pietrogrado insorsero in massa. A loro si unì l'esercito che si rifiutò di obbedire allo zar.
-
-Senza nessun sostenitore lo zar fu costretto ad abdicare e nacque così la repubblica.
-
-Questa rivoluzione si concluse rapidamente e con pochissime vittime.
+> ### Ottobre 1917
+> Le condizioni critiche della Russia portarono i bolscevichi a creare la `Guardia Rossa` e organizzare la rivoluzione, guidata da Trockij. Il 25 ottobre venne conquistato il Palazzo d'Inverno.\
+> Questa fu una rivoluzione quasi senza spargimenti di sangue.\
+> Il giorno dopo Lenin diede inizio al vero e proprio `potere sovietico`.
 
 ## La nascita dell'URSS
 
