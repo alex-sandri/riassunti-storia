@@ -17,7 +17,7 @@ Gli intellettuali russi si dividevano in due categorie:
 Lo sviluppo industriale portò in molti ad avvicinarsi al marxismo a causa delle conseguenze sociali.\
 Si opponevano al populismo su quattro punti fondamentali:
 - Sviluppo indotto dal capitalismo
-- Rivoluzione democratico-liberale, e poi comunista
+- Rivoluzione democratico-liberale, e poi socialista
 - La rivoluzione deve partire dal proletariato
 - Coscienza rivoluzionaria e non il terrorismo come mezzo di lotta
 
