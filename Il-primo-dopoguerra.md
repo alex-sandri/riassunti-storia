@@ -27,7 +27,7 @@ La guerra aveva cambiato radicalmente la società, aveva segnato l'ingresso dell
 4. I contadini chiedevano la proprietà della terra che lavoravano
 5. Il ceto medio manifestava il proprio disagio economico avvicinandosi ai movimenti più autoritari
 
-La [prima-guerra-mondiale][prima-guerra-mondiale] influì pesantemente sul ruolo della donna, che si trovava ora a dover sostituire l'uomo nel mondo del lavoro.\
+La [prima guerra mondiale][prima-guerra-mondiale] influì pesantemente sul ruolo della donna, che si trovava ora a dover sostituire l'uomo nel mondo del lavoro.\
 Le loro condizioni migliorarono a tal punto da consentire alle donne di emanciparsi dalla tutela di padri e fratelli.\
 Questo processo di emancipazione portò all'ottenere il diritto di voto, in alcuni Paesi, già dalla fine della guerra.
 
