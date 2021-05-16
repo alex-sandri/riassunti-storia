@@ -48,7 +48,8 @@ Il movimento operaio chiedeva una società più equa e giusta, salari più alti 
 Tra il 1919 e il 1920 l'Europa fu toccata da continue lotte operaie per l'aumento dei salari e la riduzione della giornata lavorativa a otto ore: il cosiddetto `biennio rosso`.\
 Si organizzarono i consigli operai che dovevano rappresentare il proletariato.
 
-Durante il biennio rosso in molti Paesi europei si tentò di creare un governo comunista, ma questi tentativi fallirono nella totalità dei casi, e, nel caso italiano, lasciò spazio al fascismo.
+Durante il biennio rosso in molti Paesi europei si tentò di creare un governo comunista, ma questi tentativi fallirono nella totalità dei casi, e, nel caso italiano, lasciò spazio al [fascismo][fascismo].
 
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
 [rivoluzione-russa]: La-rivoluzione-russa.md
+[fascismo]: L-Italia-tra-le-due-guerre-il-fascismo.md
