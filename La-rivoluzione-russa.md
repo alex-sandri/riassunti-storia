@@ -115,7 +115,7 @@ Con l'imminente morte di Lenin, nel partito si aprirono lotte per la successione
 
 I due si differenziavano principalmente per:
 - Gestione del partito: Trockij denunciava il regime centralizzato e autoritario
-- Giudizio sulla NEP: Trockij sosteneva che questa favorisse i contadini e i commericianti a spese della classe operaia. Proponeva invece di accelerare l'industrializzazione, collettivizzare la terra e il controllo sull'economia da parte dello Stato.
+- Giudizio sulla NEP: Trockij sosteneva che questa favorisse i contadini e i commericianti a spese della classe operaia. Proponeva invece di accelerare l'industrializzazione, collettivizzare la terra e il controllo completo sull'economia da parte dello Stato.
 - Valutazione della situazione politica internazionale e interna: Trockij voleva esportare la rivoluzione in Occidente, la `rivoluzione permanente`, Stalin invece voleva inizialmente concentrarsi nell'URSS, il `socialismo in un solo Paese`.
 
 L'importanza di Stalin all'interno del partito (ne era diventato segretario generale) gli permise di essere il successore di Lenin. L'URSS stava venendo riconosciuta come Stato dai Paesi europei. Trockij e i suoi sostenitori furono espulsi dal partito.
