@@ -34,7 +34,7 @@ Questo processo di emancipazione portò all'ottenere il diritto di voto, in alcu
 Alla fine della guerra uno dei problemi più grandi fu il reinserimento dei reduci, che avevano rischiato la loro vita per la patria e non ricevevano nulla in cambio.\
 Si riunirono quindi in associazioni che chiedevano risarcimenti e pensioni, tra queste si distingueva la pericolosa `Federazione Arditi d'Italia`.
 
-L'insoddisfazione portò molti a volere un nuovo sistema politico che ponesse termine alla crisi. Le soluzioni proposte furono spesso rivoluzionarie o autoritarie, solo nei Paesi di antica tradizione liberale la democrazia resse, negli altri si aprì la strada della dittatura.
+L'insoddisfazione portò molti a volere un nuovo sistema politico che ponesse termine alla crisi. Le soluzioni proposte furono spesso rivoluzionarie o autoritarie, solo nei Paesi di antica tradizione liberale la democrazia liberale resse, negli altri si aprì la strada della dittatura.
 
 ## Il biennio rosso
 
