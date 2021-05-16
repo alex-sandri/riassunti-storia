@@ -38,4 +38,17 @@ L'insoddisfazione portò molti a volere un nuovo sistema politico che ponesse te
 
 ## Il biennio rosso
 
+Dopo la [rivoluzione bolscevica del 1917][rivoluzione-russa], si diffuse in Europa la volontà di `fare come in Russia`.\
+Venne perciò creata la `Terza Internazionale Comunista` (Comintern), che avrebbe dovuto coordinare e controllare il movimento comunista internazionale.\
+Negli anni immediatamente successivi si diffusero in molti Paesi europei i partiti comunisti.
+
+Negli anni successivi alla guerra partiti politici e sindacati si organizzarono e impegnarono nella difesa dei diritti dei lavoratori.\
+Il movimento operaio chiedeva una società più equa e giusta, salari più alti e case a prezzi accettabili.
+
+Tra il 1919 e il 1920 l'Europa fu toccata da continue lotte operaie per l'aumento dei salari e la riduzione della giornata lavorativa a otto ore: il cosiddetto `biennio rosso`.\
+Si organizzarono i consigli operai che dovevano rappresentare il proletariato.
+
+Durante il biennio rosso in molti Paesi europei si tentò di creare un governo comunista, ma questi tentativi fallirono nella totalità dei casi, e, nel caso italiano, lasciò spazio al fascismo.
+
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
+[rivoluzione-russa]: La-rivoluzione-russa.md
