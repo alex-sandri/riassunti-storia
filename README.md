@@ -2,7 +2,7 @@
 
 ## Indice
 
-- [Età giolittiana e *Belle époque*](Eta-giolittiana-e-belle-epoque.md)
+- [Età giolittiana e *Belle époque*](Eta-giolittiana-e-Belle-epoque.md)
 - [La prima guerra mondiale](La-prima-guerra-mondiale.md)
 - [La rivoluzione russa](La-rivoluzione-russa.md)
 - [Il primo dopoguerra](Il-primo-dopoguerra.md)
