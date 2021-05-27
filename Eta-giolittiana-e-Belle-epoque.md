@@ -19,6 +19,11 @@ In questo periodo si andò diffondendo la possibilità di `influenzare le masse`
 
 La storia era ora mossa dalle `opinioni` e dalle `credenze`: le masse erano diventate le `padrone della storia`.
 
+La `politica`, nella nuova società di massa, era mossa da sentimenti e passioni: la nuova `religione delle masse`.
+
+Le Bon sosteneva che per sedurre le masse bisognava innanzitutto comprendere che la società non si può cambiare in tempi brevi, bisogna comprendere lo spirito nazionale.\
+Queste lezioni vennero messe in pratica da [`Mussolini`][fascismo] e da `Hitler` con `grandi manifestazioni` e discorsi rivolti alle folle che miravano a colpire a livello emotivo più che alla ragione.
+
 ## I caratteri generali dell'età giolittiana
 
 ## Il doppio volto di Giolitti
@@ -42,4 +47,5 @@ Le varie lotte portarono all'`aumento dei salari`, che permise la diffusione al 
 
 ## La cultura italiana
 
+[fascismo]: L-Italia-tra-le-due-guerre-il-fascismo.md
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
