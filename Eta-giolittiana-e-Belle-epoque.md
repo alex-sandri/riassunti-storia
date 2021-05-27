@@ -45,6 +45,22 @@ Si formò il cosiddetto `triangolo industriale`, formato da Torino, Milano e Gen
 
 Nella Pianura Padana, grazie al miglioramento delle tecniche produttive, crebbe il settore agricolo.
 
+Questo sviluppo, economico e industriale, venne favorito da:
+- `Commesse statali` nel campo dei trasporti ferroviari
+- `Protezionismo`: tassando i prodotti esteri Giolitti favorì lo sviluppo delle industrie al Nord mentre danneggiò il Sud che si vide chiuse le porte dei mercati esteri dove vendere i propri prodotti tipici
+- Investimenti da parte delle grandi banche
+
+Il `livello medio di vita migliorò`, i cui segni furono visibili soprattutto nelle città:
+- Illuminazione elettrica
+- Trasporti urbani
+- `Acqua corrente`
+- `Gas`
+- Migliori condizioni igieniche
+
+Tutti questi miglioramenti ebbero però anche dei lati negativi, come il sovraffollamento delle città del "triangolo industriale", dove gli operai si trovarono costretti in quartieri malsani e degradati.
+
+Rimanevano un lusso il riscaldamento e i servizi igienici, questi ultimi erano solitamente condivisi tra più famiglie.
+
 ## Il doppio volto di Giolitti
 
 Il modo di far politica di Giolitti venne definito del `doppio volto`:
