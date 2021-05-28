@@ -85,6 +85,21 @@ Varò anche alcune `riforme` a vantaggio dei lavoratori che stabilirono:
 
 Le varie lotte portarono all'`aumento dei salari`, che permise la diffusione al Nord del benessere economico tipico della società di massa.
 
+Altri interventi di Giolitti furono:
+- `Statalizzazione delle ferrovie` (1905)
+- `Nazionalizzazione delle assicurazioni sulla vita` (1912): venne creato a questo proposito l'`INA` (Istituto Nazionale Assicurazioni), che avrebbe dovuto avere il monopolio del settore. Questo però non avvenne a causa dell'opposizione delle assicurazioni private
+
+Giolitti fallì però nel garantire una maggiore giustizia fiscale e nell'affrontare la `questione meridionale`, ovvero il divario tra Nord e Sud, che non fece altro che aumentare durante il suo governo.\
+Se si eccettua infatti la costruzione dell'`acquedotto pugliese` gli interventi diretti al Sud erano perlopiù sotto forma di "leggi speciali", il cui flusso di denaro che veniva generato alimentava la già presente `corruzione`.
+
+Al `Sud` erano inoltre proibiti gli `scioperi`, che venivano `repressi con la forza`, il Sud era, insomma, utile solo durante le elezioni e andava controllato attentamente per assicurarsi che venissero elette le persone fedeli a Giolitti.\
+Questo suo comportamento verso il Sud valse a Giolitti il titolo di `ministro della malavita`.
+
+I lavoratori del Sud, a causa della scarsa offerta di lavoro e della sovrabbondanza di manodopera, si videro diminuire drasticamente i salari, portando il Meridione in uno stato di povertà.\
+Così in molti decisero di partire verso l'estero e si riuscì, quindi, a ristabilire un equilibrio in quanto:
+- Chi lavorava all'estero mandava parte della propria paga (le `rimesse`) in Italia, aumentando così la ricchezza
+- Non presentandosi più il problema della sovrabbondanza di manodopera i lavoratori rimasti videro il proprio salario e potere contrattuale aumentare
+
 ## Tra successi e sconfitte
 
 ## La cultura italiana
