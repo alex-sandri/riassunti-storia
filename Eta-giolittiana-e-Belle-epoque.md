@@ -61,6 +61,11 @@ Tutti questi miglioramenti ebbero però anche dei lati negativi, come il sovraff
 
 Rimanevano un lusso il riscaldamento e i servizi igienici, questi ultimi erano solitamente condivisi tra più famiglie.
 
+In questo contesto storico, all'interno del `Partito socialista italiano`, si formarono due correnti:
+- `Riformisti`: guidati da `Filippo Turati`, ritenevano che si dovesse cambiare la società gradualmente attraverso le riforme.\
+  Per raggiungere questo obiettivo era necessario collaborare e partecipare alla vita politica
+- `Massimalisti`: guidati da `Benito Mussolini`, ritenevano che per cambiare la società si dovesse ricorrere alla rivoluzione, senza scendere a patti con il governo.
+
 ## Il doppio volto di Giolitti
 
 Il modo di far politica di Giolitti venne definito del `doppio volto`:
