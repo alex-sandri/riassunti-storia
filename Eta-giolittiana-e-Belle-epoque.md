@@ -64,7 +64,9 @@ Rimanevano un lusso il riscaldamento e i servizi igienici, questi ultimi erano s
 In questo contesto storico, all'interno del `Partito socialista italiano`, si formarono due correnti:
 - `Riformisti`: guidati da `Filippo Turati`, ritenevano che si dovesse cambiare la società gradualmente attraverso le riforme.\
   Per raggiungere questo obiettivo era necessario collaborare e partecipare alla vita politica
-- `Massimalisti`: guidati da `Benito Mussolini`, ritenevano che per cambiare la società si dovesse ricorrere alla rivoluzione, senza scendere a patti con il governo.
+- `Massimalisti`: guidati da `Benito Mussolini`, ritenevano che per cambiare la società si dovesse ricorrere alla rivoluzione, senza scendere a patti con il governo.\
+  Nel settembre 1904 i massimalisti proclamarono il `primo sciopero generale nazionale`. Giolitti per risposta indisse nuove elezioni alle quali trionfarono i liberali, per la paura della "minaccia rossa".\
+  Nel 1912 i massimalisti sostituirono i riformisti alla guida del partito e, nello stesso anno, `Mussolini` divenne direttore del giornale del partito: l'*`Avanti!`*
 
 ## Il doppio volto di Giolitti
 
