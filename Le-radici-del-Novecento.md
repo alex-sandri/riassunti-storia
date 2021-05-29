@@ -95,6 +95,21 @@ Questa atmosfera di crisi che andava contro l'ottimismo positivistico si è soli
 
 ## L'invenzione del complotto ebraico
 
+Un tipo particolare di razzismo è quello che attribuisce agli ebrei la volontà di comandare sulle razze superiori, tuttavia si riteneva che non potessero avere le qualità morali e fisiche per diventare una razza dominante e fosse loro necessario quindi ottenere questa posizione con l'inganno e con `attività segrete`.
+
+Vennero creati a questo scopo, all'inizio del Novecento, i *`Protocolli dei Savi di Sion`*, un libro che avrebbe dovuto contenere i piani di conquista del mondo degli Ebrei.
+
+Questo libro però non si tratta di altro che un `plagio` di un altro libro.\
+Sarebbe stato commissionato dalla `polizia segreta russa` per giustificare la politica antiebraica della Russia.
+
+Si diffuse molto facilmente grazie alla già esistente "cospirazione ebraica mondiale", che aveva precise funzioni:
+- `Esplicativa`: tutta la storia viene spiegata attraverso la demonizzazione di un eterno nemico, per così dare un senso alla complessità storica
+- `Difensiva`: rivelare i segreti dei nemici attraverso le loro stesse parole è il miglior modo di sconfiggerli
+- `Giustificatrice delle violenze`: giustificare la loro persecuzione
+- `Politica`: viene costruito il nemico assoluto, contro cui tutto è concesso
+
+Serviva, in fin dei conti, per trovare negli Ebrei la causa di ogni evento le cui reali cause siano indeterminabili o vaghe.
+
 ## Il sogno sionista
 
 [seconda-guerra-mondiale]: La-seconda-guerra-mondiale.md
