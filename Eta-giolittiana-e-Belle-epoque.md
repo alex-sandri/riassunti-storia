@@ -102,6 +102,19 @@ Così in molti decisero di partire verso l'estero e si riuscì, quindi, a ristab
 
 ## Tra successi e sconfitte
 
+Giolitti decise di riprendere la politica coloniale per tre motivi principali:
+- Voleva dimostrare ai nazionalisti che poteva aumentare il `prestigio internazionale` dell'Italia
+- Voleva assecondare i maggiori `gruppi industriali` e `finanziari`
+- Voleva accontentare l'`opinione pubblica`, che riteneva necessario avere nuove terre per dare lavoro a tutti gli emigranti
+
+Nel `1911`, dunque, l'Italia dichiarò guerra alla `Turchia` per conquistare la `Libia` ma, dopo i primi successi, la popolazione della Libia organizzò una forte resistenza.\
+Si decise perciò di cambiare tattica, ovvero attaccare direttamente la Turchia: venne inviata la marina ad occupare il `Dodecaneso` e, spaventati da una possibile invasione, i Turchi firmarono nel `1912` il `Trattato di Losanna`, con il quale la Libia veniva ceduta all'Italia.
+
+Le notevoli spese affrontate per la conquista non crearono però grandi opportunità per gli emigranti.\
+La Libia non era infatti la terra fertile e rigogliosa, con grandi ricchezze minerarie come promesso dalla propaganda: era uno `scatolone di sabbia`.\
+Solo le banche e l'industria militare ottennero dei vantaggi da questa operazione.\
+Inoltre la sovranità dell'Italia rimase limitata alla sola fascia costiera e, solo durante il [regime fascista][fascismo], ci si sarebbe spinti più all'interno.
+
 ## La cultura italiana
 
 [fascismo]: L-Italia-tra-le-due-guerre-il-fascismo.md
