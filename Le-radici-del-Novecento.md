@@ -59,6 +59,14 @@ Nel `1891` venne pubblicata l'enciclica *`Rerum Novarum`* che sosteneva:
 - L'`invito allo Stato a intervenire` per evitare scontri tra operai e padroni
 - La `condanna della lotta di classe`: esortata la collaborazione tra operai e padroni
 
+Negli ultimi anni dell'Ottocento emerse una tendenza politica definita *`democrazia cristiana`*, occorreva per i democratici cristiana creare un partito democratico che si ispirasse ai valori del cristianesimo.\
+Solo nel `1919` fu però abrogato il *non expedit*, che proibiva la costituzione di un partito da parte di cristiani, e venne fondato il *`Partito Popolare Italiano`* da `Luigi Sturzo`.
+
+Venne però condannato da Pio X il cosiddetto `modernismo`, che si proponeva di reinterpretare la dottrina cattolica in chiave moderna.
+
+Per ribellarsi ai salari minori a parità di lavoro, all'esclusione da funzioni dirigenziali e di responsabilità e alla mancanza del diritto di voto le donne, dapprima negli Stati Uniti e in Inghilterra, si organizzarono in movimenti detti delle `suffragette`.\
+Il movimento femminista mirava, insomma, alla completa parità tra uomo e donna.
+
 ## Nazionalismo, razzismo, irrazionalismo
 
 ## L'invenzione del complotto ebraico
