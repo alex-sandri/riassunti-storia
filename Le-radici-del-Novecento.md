@@ -38,6 +38,12 @@ Si erano formate quattro correnti di pensiero:
 - I `socialisti` sostenevano che una società più giusta dovesse nascere dalle lotte dei più oppressi: agricoltori e operai
 - La `Chiesa` condannava sia il socialismo sia il libero mercato
 
+Con l'avvento del Novecento in tutti i paesi europei sorsero i partiti socialisti, il primo a formarsi fu l'`SPD` (*es-pe-de*), il *Partito Socialdemocratico Tedesco* nel `1875`.\
+In `Italia` venne fondato nel `1892` il *Partito dei lavoratori italiani*, qualche anno dopo assunse però il nome di *Partito Socialista Italiano*.\
+In `Gran Bretagna` nacque nel `1906` il *Partito Laburista*.
+
+Tutti questi partiti facevano capo alla `Seconda Internazionale Socialista`, fondata nel `1889`.
+
 ## Nazionalismo, razzismo, irrazionalismo
 
 ## L'invenzione del complotto ebraico
