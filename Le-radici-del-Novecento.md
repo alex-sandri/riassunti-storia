@@ -21,6 +21,14 @@ Sorsero anche le `organizzazioni sindacali` a livello nazionale, sorpassando le 
 
 Queste organizzazioni utilizzavano lo `sciopero` come strumento per dare agli operai ciò che chiedevano, come l'aumento dei salari e la riduzione degli orari di lavoro.
 
+Oltre alla diffusione dell'illuminazione elettrica, dell'acqua potabile e delle automobili si diffusero i cosiddetti *`mass media`*, ovvero i mezzi di comunicazione di massa.\
+Fu proprio la `stampa quotidiana` e `periodica` a incrementare le vendite: nacquero infatti molte nuove testate e aumentarono i lettori.
+
+Assunse un ruolo importantissimo nell'economia il `settore terziario`.
+
+L'`istruzione` non venne più considerata un bene elitario ma un'opportunità da offrire a tutti i cittadini.\
+Finanziata e organizzata dallo Stato la scuola divenne obbligatoria e gratuita per contrastare l'analfabetismo.
+
 ## Il dibattito politico e sociale
 
 ## Nazionalismo, razzismo, irrazionalismo
