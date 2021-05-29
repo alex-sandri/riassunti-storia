@@ -115,6 +115,25 @@ La Libia non era infatti la terra fertile e rigogliosa, con grandi ricchezze min
 Solo le banche e l'industria militare ottennero dei vantaggi da questa operazione.\
 Inoltre la sovranità dell'Italia rimase limitata alla sola fascia costiera e, solo durante il [regime fascista][fascismo], ci si sarebbe spinti più all'interno.
 
+Nel `maggio 1912` venne introdotto il `suffragio universale maschile`, ovvero per tutti i cittadini maschi che avessero compiuto il trentesimo anno d'età.\
+Per poter votare già a ventuno anni occorreva invece aver adempiuto agli obblighi del servizio militare o saper leggere e scrivere.\
+Gli elettori erano ora il `24% della popolazione`, che comprendeva ora i due grandi movimenti di massa: i socialisti e i cattolici.
+
+Il *non expedit*, che proibiva ai cattolici di votare o essere votati nelle elezioni dello Stato, venne in parte ammorbidito da Pio X: i cattolici si recarono per la prima volta alle urne nel 1904.\
+Tuttavia la costituzione di un partito cattolico era ancora proibita, esistevano però varie associazioni cattoliche quali:
+- L'`Opera dei Congressi`, le cui attività spaziavano dall'assistenza caritativa all'animazione culturale
+- I sindacati cattolici
+- Le `cooperative bianche` (il bianco era il colore dei cattolici)
+- L'`Azione Cattolica`
+
+Nel `1913` venne stipulato il `Patto Gentiloni` che prevedeva che i cattolici votassero solo per i candidati liberali che avessero difeso la Chiesa, questo patto garantì a Giolitti di nuovo la maggioranza alle elezioni dello stesso anno.
+
+La guerra in Libia e l'economia che ritornava in uno stato di crisi costrinsero Giolitti a dare le dimissioni, nella speranza di essere richiamato come negli anni precedenti.\
+Come suo successore venne eletto `Antonio Salandra` che, al contrario di quello che avrebbe fatto Giolitti, quando scoppiarono dei disordini al Nord, la `settimana rossa`, inviò l'esercito a reprimerli.\
+Si ritornava perciò nel clima di tensione che aveva caratterizzato la fine del secolo precedente, non migliorava la situazione la crisi dei rapporti internazionali che sfociò nella [prima guerra mondiale][prima-guerra-mondiale].
+
+Era così finita l'età giolittiana.
+
 ## La cultura italiana
 
 [fascismo]: L-Italia-tra-le-due-guerre-il-fascismo.md
