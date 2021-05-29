@@ -31,6 +31,13 @@ Finanziata e organizzata dallo Stato la scuola divenne obbligatoria e gratuita p
 
 ## Il dibattito politico e sociale
 
+Il dibattito ideologico si spostò sui grandi problemi causati dalla rivoluzione industriale, sulla *questione sociale*.\
+Si erano formate quattro correnti di pensiero:
+- I `conservatori` ritenevano che tutte le agitazioni popolari dovessero essere represse con la forza e che la diffusione della scolarizzazione potesse compromettere i privilegi delle classi più potenti
+- I `liberali` esaltavano il valore della libertà e dell'iniziativa economica individuale, chiedendo allo Stato di astenersi dall'intervenire nell'economia
+- I `socialisti` sostenevano che una società più giusta dovesse nascere dalle lotte dei più oppressi: agricoltori e operai
+- La `Chiesa` condannava sia il socialismo sia il libero mercato
+
 ## Nazionalismo, razzismo, irrazionalismo
 
 ## L'invenzione del complotto ebraico
