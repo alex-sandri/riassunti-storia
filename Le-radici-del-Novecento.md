@@ -69,8 +69,34 @@ Il movimento femminista mirava, insomma, alla completa parità tra uomo e donna.
 
 ## Nazionalismo, razzismo, irrazionalismo
 
+### Nazionalismo
+
+L'idea di nazione che si era diffusa già dalla prima metà dell'Ottocento, divenne man mano sempre più reazionaria e militaresca.\
+Il `nazionalismo` si diffuse in Europa ma assumendo caratteristiche diverse:
+- `Nazionalismo panslavista russo`: sostenere l'espansione russa fino ad inglobare tutte le terre slave
+- `Nazionalismo francese`: lotta contro ogni diversità interna (specialmente gli Ebrei)
+- `Nazionalismo italiano`: rivendicazione delle terre irredente, come il Trentino
+- `Nazionalismo tedesco`: *pangermanesimo*, ovvero il dominio su tutte le terre di lingua tedesca, esaltazione della razza ariana
+
+Per affrontare il dilagare dell'antisemitismo in Europa venne fondata l'`Organizzazione Sionista Mondiale`, con lo scopo di dare una patria agli Ebrei in Palestina.
+
+### Razzismo
+
+Il razzismo consiste nel ritenere che esistano razze superiori ad altre, e che la razza superiore abbia il diritto-dovere di sottomettere le altre.\
+Anche se il razzismo sosteneva (a torto) di affondare le proprie radici nella scienza il suo successo fu legato a un'isteria collettiva che si diffuse in Europa tra Ottocento e Novecento.\
+Si diffuse grazie ai mezzi della società di massa.
+
+### Irrazionalismo
+
+In ambito culturale al [positivismo][positivismo] subentrò l'`irrazionalismo`, caratterizzato dalla volontà di andare al di là della scienza.\
+Venne sostenuto da scienziati come `Sigmund Freud`, i quali sostenevano che bisognasse affidarsi all'intuizione per comprendere a pieno la realtà.
+
+Questa atmosfera di crisi che andava contro l'ottimismo positivistico si è soliti a definirla `decadentismo`.
+
 ## L'invenzione del complotto ebraico
 
 ## Il sogno sionista
 
 [seconda-guerra-mondiale]: La-seconda-guerra-mondiale.md
+
+[positivismo]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Positivismo.md
