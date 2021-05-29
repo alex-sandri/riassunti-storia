@@ -42,7 +42,22 @@ Con l'avvento del Novecento in tutti i paesi europei sorsero i partiti socialist
 In `Italia` venne fondato nel `1892` il *Partito dei lavoratori italiani*, qualche anno dopo assunse però il nome di *Partito Socialista Italiano*.\
 In `Gran Bretagna` nacque nel `1906` il *Partito Laburista*.
 
-Tutti questi partiti facevano capo alla `Seconda Internazionale Socialista`, fondata nel `1889`.
+Tutti questi partiti facevano capo alla `Seconda Internazionale Socialista`, fondata nel `1889`.\
+Questa organizzazione stabilì la limitazione della `giornata lavorativa a otto ore` e la proclamazione di una giornata mondiale di lotta per il `primo maggio` di ogni anno.\
+Ambiva inoltre a creare una *federazione di partiti nazionali* autonomi e sovrani.\
+A dominare ideologicamente la Seconda Internazionale fu il marxismo, si delinearono però due tendenze:
+- Quella `revisionista` o `socialdemocratica`, che rifiutava la rivoluzione e sosteneva fosse invece necessaria un'azione democratica e riformista da parte della classe operaia
+- Quella `ortodossa` o `rivoluzionaria`, che sosteneva invece la raggiunta di una società senza classi attraverso una rivoluzione violenta
+
+In Francia all'interno del movimento operaio si formò una tendenza detta `sindacalismo rivoluzionario`.\
+Questo mirava all'addestramento delle masse operaie alla lotta, e lo sciopero non era altro cheil culmine della lotta.
+
+Papa `Leone XIII` cercò di formulare una proposta sociale coerente con la Chiesa.\
+Nel `1891` venne pubblicata l'enciclica *`Rerum Novarum`* che sosteneva:
+- La `denuncia degli eccessi del capitalismo`: viene condannato il liberismo
+- La `condanna delle teorie socialiste e collettivistiche`: sostiene il diritto alla proprietà privata
+- L'`invito allo Stato a intervenire` per evitare scontri tra operai e padroni
+- La `condanna della lotta di classe`: esortata la collaborazione tra operai e padroni
 
 ## Nazionalismo, razzismo, irrazionalismo
 
