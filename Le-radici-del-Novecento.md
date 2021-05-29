@@ -14,7 +14,7 @@ La società di massa è stata la conseguenza, in positivo e in negativo, della `
 
 Con la `terza rivoluzione industriale` (dopo la [seconda guerra mondiale][seconda-guerra-mondiale]) avrà luogo il fenomento della *globalizzazione* che, con la società di massa, fa parte dello stesso processo di uniformare e omogeneizzare le persone.
 
-Venne introdotto in quasi tutti i paesi dell'Europa nella prima parte del Novecento il `suffragio universale maschile`, in `Italia` nel [`1912`][eta-giolittiana].\
+Venne introdotto in quasi tutti i paesi dell'Europa nella prima parte del Novecento il `suffragio universale maschile`, in `Italia` nel `1912`.\
 Ora, dunque, i movimenti politici dovevano conquistare molti più elettori si andò perciò formando il modello del `partito politico di massa`.
 
 Sorsero anche le `organizzazioni sindacali` a livello nazionale, sorpassando le tradizionali associazioni di mestiere locali, un esempio sono le *Trade Unions* inglesi.
