@@ -52,6 +52,17 @@ Dopo l'occupazione delle terre, nel `1920` era ora il turno delle fabbriche: i s
 In `agosto` scattò l'occupazione delle fabbriche guidata dai sindacati comunisti: i lavoratori presero il controllo delle fabbriche e, in alcuni casi, tentarono anche di proseguire la produzione. Tuttavia questo movimento non fu in grado di estendersi ed era privo di idee chiare sul da farsi.\
 Tra i gruppi rivoluzionari si distinse quello fondato da `Antonio Gramsci`, il quale aveva più volte indicato agli operai lo strumento rivoluzionari dei `consigli di fabbrica`, concetto che si ispirava ai *soviet* russi.
 
+Nel `giugno 1920` fu richiamato al governo [`Giovanni Giolitti`][eta-giolittiana] che per interrompere le occupazioni degli stabilimenti fece da `mediatore` tra CGL e industriali.\
+Gli operai ottennero `aumenti salariali` e sgomberarono le fabbriche in `settembre`.\
+Questo fenomeno, ora risolto, aveva causato la diffusione della paura tra industriali e borghesia di una possibile rivoluzione socialista.\
+Cominciò, perciò, a diffondersi la richiesta di una soluzione rivoluzionaria, antisocialista e autoritaria.
+
+Nonostante il successo elettorale del socialismo, questo era molto diviso al suo interno.\
+Per i `massimalisti` la [rivoluzione russa del 1917][rivoluzione-russa-ottobre-1917] era il modello da seguire anche se la strategia per arrivarci non era ancora chiara.\
+I `riformisti` rifiutarono il metodo rivoluzionario ma non riuscirono a prevalere per proseguire con riforme sociali.\
+Al `Congresso di Livorno` del `gennaio 1921` le divergenze tra i due schieramenti si fecero sentire e causarono lo stacco dal Partito socialista della corrente guidata da Gramsci, che fondò il `Partito Comunista d'Italia`. Questo nuovo partito era ispirato al modello sovietico ed era formato da "rivoluzionari professionisti".\
+Tuttavia la speranza rivoluzionaria stava tramontando in tutta Europa.
+
 ## La marcia su Roma
 
 ## La dittatura fascista
@@ -140,6 +151,7 @@ Queste leggi vennero annunciare per la prima volta a Trieste nel 1938 e Mussolin
 
 [eta-giolittiana]: Eta-giolittiana-e-Belle-epoque.md
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
+[rivoluzione-russa-ottobre-1917]: La-rivoluzione-russa.md#ottobre-1917
 [seconda-guerra-mondiale]: La-seconda-guerra-mondiale.md
 
 [gabriele-d-annunzio]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Gabriele-D-Annunzio.md
