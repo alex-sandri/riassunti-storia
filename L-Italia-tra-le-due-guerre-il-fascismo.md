@@ -114,7 +114,7 @@ Se dal punto di vista economico l'Etiopia era un Paese povero, da un punto di vi
 
 La guerra d'Etiopia avvicinò Mussolini a Hitler che aveva supportato l'iniziativa di conquista italiana.\
 Nell'ottobre `1936` venne firmato il patto di amicizia detto `Asse Roma-Berlino`, con il quale Mussolini sperava di ottenere dalle altre potenze europee dei vantaggi in campo coloniale. Ma se Mussolini sperava di usare Hitler per il suo tornaconto, in realtà poi si rivelò tutto l'opposto fu infatti Mussolini a dover stare sotto al comando di Hitler.\
-L'Italia in questo periodo introdusse le `leggi razziali contro gli Ebrei`<sup id="fn-ref-4">[4](#fn-4)</sup>, già presenti in Germania. Questo fatto comportò l'inizio della crisi del regime che sarà ultimata con la seconda guerra mondiale.
+L'Italia in questo periodo introdusse le `leggi razziali contro gli Ebrei`<sup id="fn-ref-4">[4](#fn-4)</sup>, già presenti in Germania. Questo fatto comportò l'inizio della crisi del regime che sarà ultimata con la [seconda guerra mondiale][seconda-guerra-mondiale].
 
 ## L'Italia antifascista
 
@@ -140,5 +140,6 @@ Queste leggi vennero annunciare per la prima volta a Trieste nel 1938 e Mussolin
 
 [eta-giolittiana]: Eta-giolittiana-e-Belle-epoque.md
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
+[seconda-guerra-mondiale]: La-seconda-guerra-mondiale.md
 
 [gabriele-d-annunzio]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Gabriele-D-Annunzio.md
