@@ -112,6 +112,17 @@ Serviva, in fin dei conti, per trovare negli Ebrei la causa di ogni evento le cu
 
 ## Il sogno sionista
 
+La persecuzione degli Ebrei, specialmente in Russia, fu il motivo per cui nacquero varie organizzazioni che univano gli Ebrei di differenti Paesi.\
+Nel `1897` si tenne il primo congresso dell'`Organizzazione Sionista Mondiale`, dove venne deciso:
+1. La necessità di un'autonomia politica per gli Ebrei
+2. La necessità di agire in un tempo breve
+3. La necessità di coinvolgere la numerosa popolazione ebrea dell'Europa orientale
+
+L'Organizzazione Sionista Mondiale provò per alcuni anni ad ottenere il permesso dalla Turchia per stanziare gli Ebrei in Palestina, ma venne sempre respinta questa proposta.\
+Si pensò allora di cercare in altri luoghi questa terra, però in realtà una `colonizzazione` era già in atto. Era stato infatti creato il `Fondo nazionale ebraico` che aveva come scopo il finanziare l'acquisto di terreni in Palestina.\
+Nacquero così le prime colonie e anche il primo *`kibbutz`*, un villaggio organizzato ispirandosi al comunismo.\
+Tuttavia la maggior parte degli Ebrei scelse l'`America` e non la `Palestina`.
+
 [seconda-guerra-mondiale]: La-seconda-guerra-mondiale.md
 
 [positivismo]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Positivismo.md
