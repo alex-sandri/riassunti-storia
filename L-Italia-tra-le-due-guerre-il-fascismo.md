@@ -44,6 +44,14 @@ In campo sociale i fascisti proposero il salario minimo e la giornata lavorativa
 
 ## Il biennio rosso in Italia
 
+Nel `novembre 1919` venne utilizzato per la prima volta nelle elezioni il `sistema proporzionale`, voluto per una maggior democratizzazione della politica.\
+Questo nuovo sistema avvantaggiò i due partiti di massa: il Partito Socialista e il Partito Popolare.\
+La frammentazione politica che ne derivò non permise la formazione di maggioranze omogenee, l'unica alleanza che fu possibile era tra i liberali e i popolari che guidò il Paese fino all'avvento del fascismo.
+
+Dopo l'occupazione delle terre, nel `1920` era ora il turno delle fabbriche: i sindacati proclamarono uno sciopero bianco, ovvero gli operai entravano in fabbrica ma non lavoravano, e gli industriali furono costretti alla `chiusura degli stabilimenti`.\
+In `agosto` scattò l'occupazione delle fabbriche guidata dai sindacati comunisti: i lavoratori presero il controllo delle fabbriche e, in alcuni casi, tentarono anche di proseguire la produzione. Tuttavia questo movimento non fu in grado di estendersi ed era privo di idee chiare sul da farsi.\
+Tra i gruppi rivoluzionari si distinse quello fondato da `Antonio Gramsci`, il quale aveva più volte indicato agli operai lo strumento rivoluzionari dei `consigli di fabbrica`, concetto che si ispirava ai *soviet* russi.
+
 ## La marcia su Roma
 
 ## La dittatura fascista
