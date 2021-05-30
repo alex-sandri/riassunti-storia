@@ -2,6 +2,12 @@
 
 ## La crisi del dopoguerra
 
+Dopo la [prima guerra mondiale][prima-guerra-mondiale] l'Italia avrebbe dovuto ottenere la Dalmazia e cedere Fiume agli Austriaci ma, a causa di contrasti con il presidente americano `Wilson` che voleva favorire in tutti i modi la creazione del nuovo Stato iugoslavo, la delegazione italiana a *Versailles* fu costretta ad accettare le sue condizioni per non perdere quel poco che ancora le spettava.\
+Questa venne definita una `vittoria mutilata`.
+
+Il governo, accusato di non saper tutelare gli interessi nazionali, si trovò ad affrontare [`Gabriele d'Annunzio`][gabriele-d-annunzio] il quale fu l'artefice dell'occupazione della città di `Fiume` nel `settembre 1919`.
+Poco venne fatto per sedare la ribellione, e anche a causa di questo nel `1920` tornà al governo [`Giolitti`][eta-giolittiana] che, con il `Trattato di Rapallo`, stabilì che la Dalmazia sarebbe tornata alla Iugoslavia, l'Italia avrebbe in cambio ottenuto l'Istria e Fiume divenne uno Stato libero e indipendente.
+
 ## Il biennio rosso in Italia
 
 ## La marcia su Roma
@@ -89,3 +95,7 @@ Questa campagna propagandistica aveva come obiettivo lo scoraggiare il popolo ad
 <a id="fn-4">`4`</a>\
 Queste leggi vennero annunciare per la prima volta a Trieste nel 1938 e Mussolini stesso affermava che «coloro i quali fanno credere che noi abbiamo obbedito a indicazioni o peggio a suggestioni sono dei poveri deficienti», frase volta a negare una qualsiasi subordinazione da parte della Germania.
 [↩](#fn-ref-4)
+
+[prima-guerra-mondiale]: La-prima-guerra-mondiale.md
+
+[gabriele-d-annunzio]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Gabriele-D-Annunzio.md
