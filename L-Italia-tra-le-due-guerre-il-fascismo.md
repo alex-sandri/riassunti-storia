@@ -37,7 +37,10 @@ Nel `1919` venne fondato il *`Partito Popolare Italiano`* da `don Luigi Sturzo`,
 Il successo di questo partito fu aiutato dal cosiddetto *aconfessionalismo*, ovvero non serviva essere cristiani per poter aderire, bastava condividere il progetto politico.\
 Infine anche la paura da parte della Chiesa della diffusione del Partito socialista fu una ragione per cui questo partito venne appoggiato dalla stessa.
 
-Sempre nel 1919 ci fu la nascita del movimento dei *`Fasci di combattimento`*, fondato da `Benito Mussolini`.
+Sempre nel 1919 ci fu la nascita del movimento dei *`Fasci di combattimento`*, fondato da `Benito Mussolini`.\
+Inizialmente era un piccolo gruppo di sinistra dalle idee molto confuse che si batteva per `radicali riforme sociali`.\
+Il loro manifesto fu chiamato `programma di San Sepolcro`, dal nome della piazza milanese in cui venne fondato il movimento.\
+In campo sociale i fascisti proposero il salario minimo e la giornata lavorativa di otto ore fra le altre cose, in breve tempo però Mussolini rinunciò a questo programma e il movimento si cominciò a caratterizzare per l'`aggressività verbale dei suoi membri` e la `violenza` nei confronti di socialisti e liberali.
 
 ## Il biennio rosso in Italia
 
