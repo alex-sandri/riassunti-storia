@@ -96,6 +96,7 @@ Questa campagna propagandistica aveva come obiettivo lo scoraggiare il popolo ad
 Queste leggi vennero annunciare per la prima volta a Trieste nel 1938 e Mussolini stesso affermava che «coloro i quali fanno credere che noi abbiamo obbedito a indicazioni o peggio a suggestioni sono dei poveri deficienti», frase volta a negare una qualsiasi subordinazione da parte della Germania.
 [↩](#fn-ref-4)
 
+[eta-giolittiana]: Eta-giolittiana-e-Belle-epoque.md
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
 
 [gabriele-d-annunzio]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Gabriele-D-Annunzio.md
