@@ -136,5 +136,21 @@ Era così finita l'età giolittiana.
 
 ## La cultura italiana
 
+Durante l'età giolittiana si impose in Italia la `cultura di massa`.\
+L'Italia non rimase esclusa dalla grandi correnti culturali dell'epoca, basti pensare in letteratura a [Gabriele D'Annunzio][gabriele-d-annunzio].\
+Inoltre nacque in Italia il [`movimento futurista`][futurismo], che ebbe una rilevanza non solo culturale.
+
+Un altro personaggio che conobbe la fama durante l'età giolittiana fu `Cesare Lombroso` che creò l'`antropologia criminale`.\
+Per lui esistono due tipi di delinquenti:
+- `Delinquenti nati`
+- `Delinquenti d'occasione`, i quali possono essere recuperati in quanto sono stati portati al delitto da fattori esterni
+
+Queste sue teorie vennero subito dimenticate dopo la sua morte.\
+Infatti la `psichiatria` scartò questo suo approccio anche in quanto era fonte di `gravi pregiudizi`.\
+Tuttavia fu anche sostenitore della moderna teoria della `pena rieducativa` e anche di alternative al carcere per i casi meno gravi.
+
 [fascismo]: L-Italia-tra-le-due-guerre-il-fascismo.md
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
+
+[futurismo]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Futurismo.md
+[gabriele-d-annunzio]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Gabriele-D-Annunzio.md
