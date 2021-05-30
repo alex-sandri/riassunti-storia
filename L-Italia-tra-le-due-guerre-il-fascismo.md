@@ -25,6 +25,14 @@ Se durante la guerra il numero di occupati nelle grandi industrie crebbe moltiss
 Solo i pochi possessori delle grandi industrie, che videro nella guerra un'occasione, ottennero qualcosa.\
 In questo contesto si fecero sempre più `aspre` le `lotte sociali`, ora le masse operaie consapevoli del proprio potere si organizzarono in sindacati quali `CGL` (Confederazione Generale dei Lavoratori) e `CIL` (Confederazione Italiana dei Lavoratori).
 
+Gli `scioperi` si moltiplicarono con una crescita esponenziale di adesioni.\
+Significativa fu l'azione di occupazione dei terreni coltivati e non. In questo movimento si affacciò anche il cosiddetto `bolscevismo bianco` rappresentato da cattolici con idee non molto diverse da quelle socialiste. Vennero ad esempio instaurati all'interno delle aziende agricole i `consigli di cascina` che permettevano così ai contadini la gestione diretta delle loro terre.\
+I risultati di queste lotte furono:
+- `Aumenti salariali` per i braccianti
+- `Parziale redistribuzione` delle terre incolte occupate
+- `Giornata lavorativa` di `otto ore`
+- Gli aumenti salariali degli operai seguivano l'andamento dei prezzi, ma non per gli impiegati.
+
 ## Il biennio rosso in Italia
 
 ## La marcia su Roma
