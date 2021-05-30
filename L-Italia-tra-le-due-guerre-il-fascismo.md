@@ -8,6 +8,23 @@ Questa venne definita una `vittoria mutilata`.
 Il governo, accusato di non saper tutelare gli interessi nazionali, si trovò ad affrontare [`Gabriele d'Annunzio`][gabriele-d-annunzio] il quale fu l'artefice dell'occupazione della città di `Fiume` nel `settembre 1919`.
 Poco venne fatto per sedare la ribellione, e anche a causa di questo nel `1920` tornà al governo [`Giolitti`][eta-giolittiana] che, con il `Trattato di Rapallo`, stabilì che la Dalmazia sarebbe tornata alla Iugoslavia, l'Italia avrebbe in cambio ottenuto l'Istria e Fiume divenne uno Stato libero e indipendente.
 
+Le conseguenze sociali ed economiche della guerra furono pesanti:
+- Circa 1 milione tra caduti e invalidi
+- Il `debito pubblico` passò da circa 14 miliardi (1910) a circa 95 miliardi (1920) nel giro di dieci anni
+- `Svalutazione della lira` e `inflazione galoppante`
+
+Questa situazione fu particolarmente difficile per coloro che fino ad allora avevano costituito la struttura portante dello Stato italiano: la `piccola e media borghesia` e i `piccoli proprietari terrieri`.\
+Solo chi riuscì a difendere i propri salari, come gli operai, con le lotte sindacali non si vide diminuire il potere d'acquisto.\
+Si creò quindi un `risentimento` soprattutto tra chi aveva avuto ruoli di comando in guerra e si aspettava di ricevere qualcosa in cambio.
+
+Più volte durante la guerra, per incitare le masse rurali a resistere, era stata promessa la `terra ai contadini`.\
+Però questo non fu possibile in quanto la maggior parte dei proprietari non possedeva terreno sufficiente per coltivare il necessario per sopravvivere.\
+C'era quindi una gran `fame di terra da coltivare`, molti campi erano oramai improduttivi perché trascurati per troppo tempo: si lottava per una redistribuzione delle terre.
+
+Se durante la guerra il numero di occupati nelle grandi industrie crebbe moltissimo, alla fine la necessità di `riconversione` determinò una sempre crescente `disoccupazione`.\
+Solo i pochi possessori delle grandi industrie, che videro nella guerra un'occasione, ottennero qualcosa.\
+In questo contesto si fecero sempre più `aspre` le `lotte sociali`, ora le masse operaie consapevoli del proprio potere si organizzarono in sindacati quali `CGL` (Confederazione Generale dei Lavoratori) e `CIL` (Confederazione Italiana dei Lavoratori).
+
 ## Il biennio rosso in Italia
 
 ## La marcia su Roma
