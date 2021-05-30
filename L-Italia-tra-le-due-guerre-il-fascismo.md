@@ -33,6 +33,12 @@ I risultati di queste lotte furono:
 - `Giornata lavorativa` di `otto ore`
 - Gli aumenti salariali degli operai seguivano l'andamento dei prezzi, ma non per gli impiegati.
 
+Nel `1919` venne fondato il *`Partito Popolare Italiano`* da `don Luigi Sturzo`, che riuscì in poco tempo ad imporsi come partito di massa.\
+Il successo di questo partito fu aiutato dal cosiddetto *aconfessionalismo*, ovvero non serviva essere cristiani per poter aderire, bastava condividere il progetto politico.\
+Infine anche la paura da parte della Chiesa della diffusione del Partito socialista fu una ragione per cui questo partito venne appoggiato dalla stessa.
+
+Sempre nel 1919 ci fu la nascita del movimento dei *`Fasci di combattimento`*, fondato da `Benito Mussolini`.
+
 ## Il biennio rosso in Italia
 
 ## La marcia su Roma
