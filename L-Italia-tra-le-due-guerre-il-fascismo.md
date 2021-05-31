@@ -105,6 +105,23 @@ Il `16 novembre 1922` Mussolini tenne un discorso in Parlamento che precedette u
 
 Per risolvere i problemi legati alle violenze delle squadre fasciste creò la `Milizia Volontaria per la Sicurezza Nazionale`, legalizzando di fatto lo squadrismo.
 
+Sempre in questi anni Mussolini alternò un atteggiamento moderato, da garante dell'ordine e della pace, ad uno rivoluzionario.\
+Riuscì così a guadagnarsi sul piano internazionale il rispetto da parte di Paesi come Francia e Inghilterra anche perché stava aiutando a sconfiggere il pericolo comunista.
+
+Tra i vari provvedimenti assunti in questo periodo ci sono:
+- La [`riforma della scuola`][riforma-scuola-gentile]
+- La `legge Acerbo` che riformava il sistema elettorale in senso `maggioritario`, ovvero assegnando alla lista di maggioranza due terzi dei seggi
+
+La lista elettorale del 1924 era praticamente controllata dai fascisti, riuscirono infatti a vincere con il 65% dei voti e ottennero più di tre quarti dei seggi.
+
+Il `30 maggio` dello stesso anno il deputato `Giacomo Matteotti` pronunciò un discorso alla Camera in cui denunciava i brogli e le violenze compiute dai fascisti.\
+Il `10 giugno` venne rapito e ucciso. Seguì un crollo della popolarità di Mussolini e del suo partito ma, a causa del ridimensionamento dopo le ultime elezioni e di divisioni interne alle opposizioni, ne uscì indenne.\
+Si formò così la `secessione dell'Aventino`, sperando in un intervento del re che avesse ritirato la fiducia a Mussolini ma questo non avvenne.
+
+Dopo pochi mesi l'ondata antifascista cominciò a placarsi e Mussolini approfittò della situazione e il `3 gennaio 1925` con un discorso alla Camera si assunse la responsabilità di ciò che era avvenuto, gettando le basi per l'instaurazione della dittatura.\
+
+L'assassinio di Matteotti segnò, dunque, l'affermazione della `dittatura fascista`.
+
 ## L'Italia fascista
 
 Dopo l'affermazione della dittatura avvenuta all'inizio del `1925` vennero nello stesso anno approvate nuove leggi, le cosiddette `leggi fascistissime`, che trasformarono definitivamente il fascismo in una dittatura. Queste leggi stabilivano che:
@@ -193,3 +210,5 @@ Queste leggi vennero annunciare per la prima volta a Trieste nel 1938 e Mussolin
 [seconda-guerra-mondiale]: La-seconda-guerra-mondiale.md
 
 [gabriele-d-annunzio]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Gabriele-D-Annunzio.md
+
+[riforma-scuola-gentile]: https://it.wikipedia.org/wiki/Riforma_Gentile
