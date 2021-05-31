@@ -93,6 +93,18 @@ Il re rifiutò di fare intervenire l'esercito e anzi il `30 ottobre` diede a Mus
 
 ## La dittatura fascista
 
+Tra il `1922` e il `1924` Mussolini guidò un governo di coalizione.\
+Non avendo una presenza numerosa in Parlamento poteva comunque contare sul supporto degli apparati dello Stato.\
+I liberali ritenevano che una "cura fascista" potesse contrastare l'avanzata socialista.\
+Il `16 novembre 1922` Mussolini tenne un discorso in Parlamento che precedette una serie di decisioni:
+- Abbandonò la politica economica di Giolitti
+- Sciolse le amministrazioni comunali socialiste e popolari
+- Penalizzò le cooperative comuniste
+- Pose limiti alla libertà sindacale
+- Adottò una serie di misure per rivalutare la lira
+
+Per risolvere i problemi legati alle violenze delle squadre fasciste creò la `Milizia Volontaria per la Sicurezza Nazionale`, legalizzando di fatto lo squadrismo.
+
 ## L'Italia fascista
 
 Dopo l'affermazione della dittatura avvenuta all'inizio del `1925` vennero nello stesso anno approvate nuove leggi, le cosiddette `leggi fascistissime`, che trasformarono definitivamente il fascismo in una dittatura. Queste leggi stabilivano che:
