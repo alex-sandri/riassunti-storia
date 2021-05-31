@@ -79,6 +79,18 @@ Venne accantonato il programma di San Sepolcro e vennero costituite formazioni p
 Queste squadre dopo l'eccidio di Bologna aumentarono le spedizioni punitive verso le campagne dove devastavano le sedi delle leghe, le camere del lavoro, le case del popolo e i municipi. La violenza verso i socialisti mirava anche a svergognarli, ad esempio costringendoli a bere l'olio di ricino.\
 Il successo dello squadrismo fu garantito dall'indifferenza delle forze dell'ordine e dal supporto o neutralità della classe dirigente.
 
+La tolleranza verso il fascismo era dovuta soprattutto alla speranza che avevano in molti di liberarsi del movimento socialista, ma anche dei popolari.\
+Nel `1921` Giolitti indisse nuove elezioni accettando la composizione di `liste comuni` (i *blocchi nazionali*), le forze contrapposte a socialisti, comunisti e popolari, ovvero erano formate da liberali, gruppi di centro e fascisti.\
+Nel `novembre 1921` venne deciso da Mussolini di trasformare il movimento nel `Partito Nazionale Fascista` (`PNF`).
+
+Mussolini in meno di un anno riorganizzò il Partito fascista:
+- Abbandonò le posizioni repubblicane e si dichiarò favorevole alla monarchia
+- Accantonò la critica del capitalismo e sostenne l'opportunità di una politica economica liberista
+- Abbandonò l'anticlericalismo e attaccò il Partito popolare di don Sturzo
+
+Capendo che era giunto il suo momento decise di riunire il `24 ottobre 1922` a Napoli migliaia di camicie nere in vista della `marcia su Roma` per assumere il potere con la forza.\
+Il re rifiutò di fare intervenire l'esercito e anzi il `30 ottobre` diede a Mussolini l'incarico di formare il nuovo governo.
+
 ## La dittatura fascista
 
 ## L'Italia fascista
