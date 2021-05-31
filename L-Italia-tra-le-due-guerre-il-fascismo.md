@@ -65,6 +65,20 @@ Tuttavia la speranza rivoluzionaria stava tramontando in tutta Europa.
 
 ## La marcia su Roma
 
+Se gli operai erano rimasti delusi dei risultati delle lotte sociali nel biennio 1919-20, i contadini avevano conquistato miglioramenti salariali considerevoli e avevano creato anche una forte struttura organizzativa che controllava il mercato del lavoro.\
+Le associazioni di contadini contrattavano infatti direttamente con i vari proprietari il numero di giornate lavorative necessarie per poi distribuire il lavoro tra i propri iscritti.\
+Questo sistema però presentava delle divisioni interne tra i salariati che volevano la socializzazione della terra e i mezzadri che invece miravano a diventare proprietari terrieri.
+
+Il `21 novembre 1920` a `Bologna`, il giorno dell'insediamento del Consiglio comunale a `Palazzo d'Accursio`, quando il sindaco si affacciò sulla piazza partirono degli spari dalla folla e, gli incaricati alla sicurezza, presi di sorpresa risposero sparando alla folla provocando uan decina di morti innocenti.\
+Questo era l'inizio del `fascismo agrario`, fino ad ora il movimento fondato da Mussolini non aveva mai avuto un ruolo decisivo in politica.\
+Venne accantonato il programma di San Sepolcro e vennero costituite formazioni paramilitari, le `squadre d'azione`, per intimidire il movimento socialista. Lo squadrismo raccolse partecipanti soprattutto tra:
+- `Ex combattenti` che faticavano a reinserirsi
+- `Giovani`
+- `Piccola borghesia`
+
+Queste squadre dopo l'eccidio di Bologna aumentarono le spedizioni punitive verso le campagne dove devastavano le sedi delle leghe, le camere del lavoro, le case del popolo e i municipi. La violenza verso i socialisti mirava anche a svergognarli, ad esempio costringendoli a bere l'olio di ricino.\
+Il successo dello squadrismo fu garantito dall'indifferenza delle forze dell'ordine e dal supporto o neutralità della classe dirigente.
+
 ## La dittatura fascista
 
 ## L'Italia fascista
