@@ -184,6 +184,14 @@ L'Italia in questo periodo introdusse le `leggi razziali contro gli Ebrei`<sup i
 
 ## L'Italia antifascista
 
+A partire dal `1926` l'opposizione al fascismo divenne reato.\
+In molti decisero quindi di emigrare e coloro che decisero di rimanere in Italia rinunciarono a qualsiasi forma di opposizione politica. Molti intellettuali si ritirarono negli studi, un'importante eccezione fu il filosofo `Benedetto Croce`.\
+Stimato in tutta Europa era tollerato dal regime dato che non si voleva danneggiare la propria immagine internazionale ma anche perché non costituì mai un'opposizione con qualche efficacia politica. Si limitò solo a manifestare il dissenso attraverso il *`Manifesto degli intellettuali antifascisti`*.
+
+`Giustizia e Libertà` fu un movimento antifascista fondato a `Parigi` nel `1929` da un gruppo di profughi italiani, tra cui `Carlo Rosselli`.\
+Condussero la lotta al regime con metodi rivoluzionari cercando di trovare un equilibrio tra liberalismo e marxismo.\
+Il movimento si dissolse quando, nel 1940, la [Francia venne occupata dai Tedeschi][seconda-guerra-mondiale]. In molti appartententi al movimento si riunirono nella [Resistenza contro l'occupazione nazista][resistenza] fondando il `Partito d'Azione`.
+
 ---
 
 ### Note a piè di pagina
@@ -206,6 +214,7 @@ Queste leggi vennero annunciare per la prima volta a Trieste nel 1938 e Mussolin
 
 [eta-giolittiana]: Eta-giolittiana-e-Belle-epoque.md
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
+[resistenza]: La-seconda-guerra-mondiale.md#la-guerra-e-la-resistenza-in-italia-dal-1943-al-1945
 [rivoluzione-russa-ottobre-1917]: La-rivoluzione-russa.md#ottobre-1917
 [seconda-guerra-mondiale]: La-seconda-guerra-mondiale.md
 
