@@ -67,6 +67,10 @@ Il mondo era ormai diviso in due blocchi contrapposti:
 - Quello `occidentale`, guidato dagli Stati Uniti, caratterizzato da un'economia capitalista e da un'organizzazione politica liberale
 - Quello `comunista`, guidato dall'Unione Sovietica, caratterizzato da un'economia controllata dallo Stato e da un'organizzazione politica totalitaria
 
+Era l'inizio di una guerra combattuta con le armi della diplomazia, dell'economia e dell'ideologia: la `guerra fredda`.\
+Questa guerra rimase *fredda* anche a causa del cosiddetto `equilibrio del terrore`, dalla paura di una nuova guerra catastrofica.\
+Entrambe le superpotenze erano in gara per vedere chi riusciva a produrre le armi atomiche più potenti e più precise.
+
 ## La grande competizione
 
 ## La Comunità Europea
