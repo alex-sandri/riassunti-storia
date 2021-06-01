@@ -78,6 +78,10 @@ Il primo passe verso quest'unione fu nel `1951` la costituzione della `CECA` (Co
 Il successo della CECA spinse i governi a cercare una soluzione più generale: nel `1957` venne firmato da sei Stati europei (Francia, Italia, Germania federale, Belgio, Paesi Bassi e Lussemburgo) il `Trattato di Roma` che istituiva la `CEE` (Comunità Economica Europea).\
 Lo scopo era quello di creare il `MEC` (Mercato Comune Europeo), con il graduale abbattimento delle dogane per arrivare alla libera circolazione di persone e merci.
 
+USA e URSS si presentavano come i campioni di opposte ideologie a cui ogni altro Paese del mondo avrebbe dovuto decidere con chi schierarsi.\
+Molte nuove nazioni formate dopo la decolonizzazione vennero più o meno forzate nell'essere incluse in una o nell'altra sfera di influenza.\
+Tuttavia alcuni Stati decisero di rimanere neutrali. Alla `Conferenza di Bandung` nel `1955` parteciparono molti Paesi tra cui l'`India` e la `Iugoslavia`. Nacque così il `movimento dei non allineati`, cioè tutti quegli Stati che non si schieravano né con gli USA né con l'URSS.
+
 ## La Comunità Europea
 
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
