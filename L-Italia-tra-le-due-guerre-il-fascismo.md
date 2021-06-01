@@ -192,6 +192,15 @@ Stimato in tutta Europa era tollerato dal regime dato che non si voleva danneggi
 Condussero la lotta al regime con metodi rivoluzionari cercando di trovare un equilibrio tra liberalismo e marxismo.\
 Il movimento si dissolse quando, nel 1940, la [Francia venne occupata dai Tedeschi][seconda-guerra-mondiale]. In molti appartententi al movimento si riunirono nella [Resistenza contro l'occupazione nazista][resistenza] fondando il `Partito d'Azione`.
 
+Il Partito comunista fu la forza politica che meglio seppe organizzare l'opposizione in Italia.\
+La maggior parte dei condannati dal Tribunale speciale fascista erano infatti comunisti.\
+Il Partito stabilì come sede `Parigi`, sotto la guida di `Palmiro Togliatti`.\
+La divisione interna al Partito rese però l'opposizione poco efficace e, solo nel `1934`, l'Internazionale Comunista invitò a unire le forze per sconfiggere il nemico.
+
+Altri gruppi antifascisti erano composti da repubblicani e socialisti, come Filippo Turati e Giuseppe Saragat, e cattolici, come Alcide De Gasperi.\
+Anch'essi continuarono la propria attività in Francia, dove nel `1927` a `Parigi` fondarono la `Concentrazione antifascista`.\
+Questa organizzazione non riuscì ad agire in Italia ma gettò le basi per la [Resistenza][resistenza] che sarebbe sorta dopo l'8 settembre 1943.
+
 ---
 
 ### Note a piè di pagina
