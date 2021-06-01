@@ -73,6 +73,11 @@ Entrambe le superpotenze erano in gara per vedere chi riusciva a produrre le arm
 
 ## La grande competizione
 
+Il piano Marshall stimolò l'unione dell'Europa, per esempio abbattendo le barriere doganali per favorire la circolazione delle merci, di conseguenza ne avrebbero tratto beneficio il commercio internazionale e l'economia americana.\
+Il primo passe verso quest'unione fu nel `1951` la costituzione della `CECA` (Comunità Europea del Carbone e dell'Acciaio), con obiettivo il coordinamento della produzione e dei prezzi in un settore di grande importanza.\
+Il successo della CECA spinse i governi a cercare una soluzione più generale: nel `1957` venne firmato da sei Stati europei (Francia, Italia, Germania federale, Belgio, Paesi Bassi e Lussemburgo) il `Trattato di Roma` che istituiva la `CEE` (Comunità Economica Europea).\
+Lo scopo era quello di creare il `MEC` (Mercato Comune Europeo), con il graduale abbattimento delle dogane per arrivare alla libera circolazione di persone e merci.
+
 ## La Comunità Europea
 
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
