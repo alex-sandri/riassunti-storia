@@ -25,6 +25,20 @@ Ispirato al principio di solidarietà è il lavoro svolto dalle varie agenzie de
 - `FAO` (alimentazione e agricoltura), con sede a Roma
 - `UNESCO` (istruzione e cultura), con sede a Parigi
 
+Fra il luglio e l'ottobre `1946` si svolse a Parigi la *Conferenza per la pace*. Non fu tuttavia possibile trovare degli accordi per la divisione della Germania, venne cos' divisa in due parti corrispondenti ai territori occupati dagli eserciti:
+- A ovest nacque uno Stato democratico, la `Repubblica Federale Tedesca`
+- A est nacque uno Stato comunista, la `Repubblica Democratica Tedesca`
+
+Anche Berlino venne divisa in due:
+- `Berlino Est`, controllata dai Sovietici
+- `Berlino Ovest`, formata dalle tre zone della città controllate da Americani, Inglesi e Francesi
+
+L'`Austria` tornò a essere indipendente, ma fino al 1955 restò occupata da Sovietici, Inglesi, Francesi e Americani.\
+L'`Unione Sovietica` recuperò alcuni territori persi con la [prima guerra mondiale][prima-guerra-mondiale].\
+L'`Italia` perse tutte le colonie e cedette alla Iugoslavia la Dalmazia e l'Istria.\
+`Trieste` fu divisa in due zone, controllate da Anglo-Americani e Iugoslavia, tornò all'Italia nel `1954`.\
+Il `Giappone` restò occupato militarmente dagli Americani fino al `1951`.
+
 ## La divisione del mondo
 
 ## La grande competizione
