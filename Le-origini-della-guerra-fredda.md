@@ -39,6 +39,17 @@ L'`Italia` perse tutte le colonie e cedette alla Iugoslavia la Dalmazia e l'Istr
 `Trieste` fu divisa in due zone, controllate da Anglo-Americani e Iugoslavia, tornò all'Italia nel `1954`.\
 Il `Giappone` restò occupato militarmente dagli Americani fino al `1951`.
 
+Le occupazioni militari determinarono il tipo di Stato che sarebbe nato successivamente:
+- Dai territori Anglo-Americani Stati democratici
+- Dai territori dell'Armata Rossa Stati sotto l'influenza sovietica
+
+Tra il `1945` e il `1948` Stalin impose il sistema comunista a tutti i Paesi dell'Europa orientale, che divennero così `Stati satelliti` dell'Unione Sovietica.\
+In questo periodo viene fondato il *Cominform*, che avrebbe dovuto organizzare l'azione dei partiti comunisti europei.\
+L'Unione Sovietica riuscì ad ottenere notevoli vantaggi economici dai Paesi controllati alla fine della guerra:
+- Richiese il pagamento dei danni di guerra ai Paesi contro cui aveva combattuto
+- Requisì i beni appartenuti ai cittadini tedeschi e i beni confiscati agli Ebrei o ad altri cittadini
+- Impose il pagamento del trasporto delle truppe e del loro mantenimento
+
 ## La divisione del mondo
 
 ## La grande competizione
