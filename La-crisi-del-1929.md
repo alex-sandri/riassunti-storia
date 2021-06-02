@@ -47,6 +47,11 @@ Nonostante il numero sempre più grande di consumatori che aveva accesso a beni 
 In molti si erano perciò visti diminuire il proprio potere d'acquisto era difficile perciò assorbire la crescente produzione dell'industria nazionale, per esempio dei beni di consumo durevoli, che si prestano poco a un ricambio frequente.\
 Si arriverà a breve ad una `saturazione del mercato`: nessuno si preoccupava di una potenziale `crisi di sovrapproduzione` nonostante i vari segnali.
 
+La produzione industriale ebbe nell'estate 1929 un rallentamento generalizzato, eppure i titoli continuavano a salire: il valore non rispecchiava più lo stato economico delle aziende.\
+Le speculazioni subirono un netto calo nell'autunno dello stesso anno: in molti avevano il timore di un calo imminente, vennero perciò venduti tutti i titoli in possesso.\
+Il `24 ottobre`, il *`giovedì nero`* cominciò la vendita di massa delle azioni: non valevano ormai niente.\
+Molte fortune vennero polverizzate nell'arco di pochi giorni.
+
 ## Roosevelt e il *New Deal*
 
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
