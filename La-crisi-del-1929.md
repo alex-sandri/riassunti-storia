@@ -29,6 +29,13 @@ Visti i risultati disastrosi la legge venne abolita nel `1933`.
 
 ## Il *Big Crash*
 
+I repubblicani mantennero la presidenza lungo tutti gli anni Venti con un programma economico liberista.\
+Per favorire gli investimenti:
+- `Ridussero al minimo le imposte dirette` (che colpiscono i redditi) e aumentarono quelle indirette (che gravano sui consumi e toccano quindi ogni acquirente)
+- `Diminuirono la spesa pubblica`, rinunciando ai programmi di assistenza verso le classi più povere
+- `Mantennero basso il tasso di interesse`, questo rendeva più facile alle aziende l'accesso al credito e aumentava di conseguenza la circolazione monetaria
+- `Rinunciarono a qualsiasi forma di regolazione dell'economia`: le aziende si concentrarono i monopoli e oligopoli, fissando i prezzi e le quote di produzione, aggirando così i rischi della libera concorrenza
+
 ## Roosevelt e il *New Deal*
 
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
