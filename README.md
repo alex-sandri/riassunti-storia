@@ -8,5 +8,6 @@
 - [La rivoluzione russa](La-rivoluzione-russa.md)
 - [Il primo dopoguerra](Il-primo-dopoguerra.md)
 - [L'Italia tra le due guerre: il fascismo](L-Italia-tra-le-due-guerre-il-fascismo.md)
+- [La crisi del 1929](La-crisi-del-1929.md)
 - [La seconda guerra mondiale](La-seconda-guerra-mondiale.md)
 - [Le origini della guerra fredda](Le-origini-della-guerra-fredda.md)
