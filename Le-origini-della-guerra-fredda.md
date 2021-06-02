@@ -97,6 +97,28 @@ La guerra terminò nel `1953` con la riaffermazione del vecchio confine del 38°
 
 ## La Comunità Europea
 
+La ripresa economica dell'Europa occidentale venne accompagnata da una chiara perdita di potere da parte dei grandi Stati coloniali: Gran Bretagna e Francia.\
+La `Francia` subì questa trasformazionein modo più traumatico rispetto alla `Gran Bretagna`.
+
+Negli anni Cinquanta si verificò il cosiddetto `miracolo tedesco`:
+- Il prodotto nazionale crebbe anno dopo anno
+- La disoccupazione scese a livelli trascurabili
+- Il `marco` divenne la più forte moneta europea
+
+Questo fu dovuto principalmente grazie all'ampia disponibilità di manodopera e a una legge elettorale che penalizzava i piccoli partiti.\
+Durante il `Congresso di Bad Godesberg` venne deciso di abbandonare la teoria marxista in favori di un programma riformistico e democratico, il Partito comunista e i movimenti di ispirazione nazista vennero messi fuori legge.
+
+Mentre la Gran Bretagna si manteneva isolata rispetto al resto dell'Europa, Paesi come Francia, Germania e Italia abbandonarono le vecchie rivalità e scoprirono legami e necessità comuni, come auspicato dal piano Marshall.
+
+Vennero dunque elaborate tre ipotesi per un'Europa unita:
+1. `Ipotesi confederale`: i vari governi mantengono la sovranità a livello nazionale e controllano gli organismi comuni
+2. `Ipotesi funzionalista`: l'integrazione economica avrebbe portato all'unificazione politica, senza una limitazione della sovranità
+3. `Ipotesi federalista`: lo Stato nazionale avrebbe dovuto lasciare il posto ad una federazione europea e, successivamente, mondiale. Sostenitore di questa ipotesi era `Altiero Spinelli`, il quale aveva scritto il *Manifesto di Ventotene*
+
+Nonostante i federalisti italiani cercarono di spronare varie organizzazione alla convocazione di una Costituente, i loro tentativi fallirono in quanto:
+- Ritenevano che non si potesse giungere all'unità se non tramite un testo costituzionale (`radicalismo costituzionalista`)
+- Ritenevano impossibile realizzare la comunità partendo dalla cooperazione economica per arrivare all'unità politica
+
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
 [seconda-guerra-mondiale]: La-seconda-guerra-mondiale.md
 [societa-delle-nazioni]: La-prima-guerra-mondiale.md#società-delle-nazioni
