@@ -82,6 +82,19 @@ USA e URSS si presentavano come i campioni di opposte ideologie a cui ogni altro
 Molte nuove nazioni formate dopo la decolonizzazione vennero più o meno forzate nell'essere incluse in una o nell'altra sfera di influenza.\
 Tuttavia alcuni Stati decisero di rimanere neutrali. Alla `Conferenza di Bandung` nel `1955` parteciparono molti Paesi tra cui l'`India` e la `Iugoslavia`. Nacque così il `movimento dei non allineati`, cioè tutti quegli Stati che non si schieravano né con gli USA né con l'URSS.
 
+La prima grave crisi data dai contrasti USA-URSS durante la guerra fredda riguardò `Berlino`. Una parte era controllata dalle potenze occidentali, ma si trovava comunque interamente nella Germania comunista. Nel `giugno 1948` i Sovietici bloccarono tutte le vie d'accesso alla città nella speranza che gli Occidentali la abbandonassero.\
+Gli Americani allora cominciarono a rifornire la loro parte tramite un ponte aereo. Dopo circa un anno i Sovietici rimossero il blocco in quanto si era rivelato inutile.
+
+La seconda crisi esplose in Asia: la `guerra di Corea` (`1950-53`).\
+Alla fine della [seconda guerra mondiale][seconda-guerra-mondiale] la Corea era stata divisa in:
+- `Corea del Nord`, guidata da un governo comunista
+- `Corea del Sud`, alleata agli Americani
+
+Ma entrambe rivendicavano la sovranità della totalità del territorio nazionale.\
+Dopo alcuni incidenti di frontiera la Corea del Nord aggredì quella del Sud, intervenne quindi l'esercito Americano autorizzato dall'ONU. Quest'ultimo però sorpassò il confine a sua volta e, di conseguenza, la Cina inviò anch'essa un esercito in Corea.\
+Nel 1951 Truman decise di iniziare delle trattative.\
+La guerra terminò nel `1953` con la riaffermazione del vecchio confine del 38° parallelo.
+
 ## La Comunità Europea
 
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
