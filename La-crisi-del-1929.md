@@ -72,4 +72,21 @@ Il governo Roosevelt varò una serie di provvedimenti con questi obiettivi:
 - Creare grandi opere pubbliche per creare nuovi posti di lavoro
 - Garantire i sussidi ai disoccupati
 
+I disoccupati stavano diminuendo ma rimanevano ancora esclusi dai vari provvedimenti sociali i neri e le donne.\
+Fin dall'inizio della campagna elettorale Roosevelt aveva puntato sull'instaurazione di un rapporto di fiducia con i cittadini, creando una sorta di contatto familiare. Famosero divennero le `chiacchierate al caminetto`, conversazioni radiofoniche settimanali.\
+L'avere un contatto diretto con la popolazione e il suo carisma gli permisero di trionfare nuovamente alle elezioni presidenziali del `1936`.
+
+I risultati del *New Deal* furono:
+- Vennero gettate le basi del cosiddetto `Welfare State`, un sistema che assicurava ai cittadini dei diritti primari:
+  - Assistenza per chi si trovava in condizioni di povertà
+  - Accesso ad una pensione
+- `Espansione dell'amministrazione pubblica e della burocrazia`, dovuta alla nascita di nuove agenzie statali
+- Mutò il `rapporto tra lo Stato e l'economia`: non si parlava più di un'economia liberista, ma rimaneva comunque possibile l'iniziativa privata
+- Si modificò il `ruolo dei sindacati`: vennero resi dei legittimi e significativi interlocutori politici così da canalizzare il conflitto sociale ritenuto inevitabile da Roosevelt
+
+Tutto sommato i risultati strettamente economici non furono entusiasmanti.\
+I disoccupati rimasero sempre più o meno stabili, solo con la [seconda guerra mondiale][seconda-guerra-mondiale] grazie all'industria bellica a pieno regime diminuirono in misura decisiva.\
+Tuttavia l'età rooseveltiana venne percepita come un periodo di grandi speranze e ottimismo, in cui la politica aveva saputo dare risposte efficaci alla crisi economica e alle difficoltà dei cittadini.
+
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
+[seconda-guerra-mondiale]: La-seconda-guerra-mondiale.md
