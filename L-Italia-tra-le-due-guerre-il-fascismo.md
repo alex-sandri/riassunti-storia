@@ -167,7 +167,7 @@ Nel `1928` iniziò il progetto di `bonifica` delle zone paludose italiane. Quest
 
 Nel `1927` venne introdotta la `Carta del lavoro` che stabiliva l'obbligo per tutti i settori di organizzarsi in corporazioni composte da lavoratori e padroni e soggette ad un apposito ministero. Questa ideologia fu chiamata `corporativismo`, che inoltre prevedeva l'impossibilità di azioni sindacali da parte di socialisti, comunisti e cattolici. Questo però non funzionò mai e portò vantaggi solamente agli imprenditori che potevano tenere basso il costo del lavoro e influenzare le decisioni politiche.
 
-Per fronteggiare gli effetti della `crisi economica del 1929` lo Stato intervenne sempre più massicciamente durante gli Anni Trenta, creando l'`Istituto Mobiliare Italiano` (IMI) per sostenere le industrie in difficoltà e l'`Istituto per la Ricostruzione Industriale` (IRI) che divenne azionista di maggioranza di alcune banche e prese il controllo di alcune grandi aziende italiane.\
+Per fronteggiare gli effetti della [`crisi economica del 1929`][crisi-1929] lo Stato intervenne sempre più massicciamente durante gli Anni Trenta, creando l'`Istituto Mobiliare Italiano` (IMI) per sostenere le industrie in difficoltà e l'`Istituto per la Ricostruzione Industriale` (IRI) che divenne azionista di maggioranza di alcune banche e prese il controllo di alcune grandi aziende italiane.\
 Queste misure di risanamento dovevano essere provvisorie in attesa di privatizzare nuovamente le imprese, ma in realtà divenne un ente permanente dal 1937. Iniziò allora la moltiplicazione degli enti pubblici tuttora esistenti caratterizzati da una gestione pesantemente burocratica con scarsa efficienza, ma molto rilevante per quanto riguarda la forza economica e politica.
 
 Il regime fascista era stato caratterizzato sin dagli inizi da una forte componente nazionalista, presentandosi Mussolini come il condottiero (*duce*) che avrebbe risollevato l'Italia dalle penalizzazioni subite dopo la fine della prima guerra mondiale.\
@@ -221,6 +221,7 @@ Questa campagna propagandistica aveva come obiettivo lo scoraggiare il popolo ad
 Queste leggi vennero annunciare per la prima volta a Trieste nel 1938 e Mussolini stesso affermava che «coloro i quali fanno credere che noi abbiamo obbedito a indicazioni o peggio a suggestioni sono dei poveri deficienti», frase volta a negare una qualsiasi subordinazione da parte della Germania.
 [↩](#fn-ref-4)
 
+[crisi-1929]: La-crisi-del-1929.md
 [eta-giolittiana]: Eta-giolittiana-e-Belle-epoque.md
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
 [resistenza]: La-seconda-guerra-mondiale.md#la-guerra-e-la-resistenza-in-italia-dal-1943-al-1945
