@@ -52,6 +52,10 @@ Le speculazioni subirono un netto calo nell'autunno dello stesso anno: in molti 
 Il `24 ottobre`, il *`giovedì nero`* cominciò la vendita di massa delle azioni: non valevano ormai niente.\
 Molte fortune vennero polverizzate nell'arco di pochi giorni.
 
+Molte `banche` dovettero chiudere scatenando il panico. Temendo l'azzeramentodei propri depositi molti si affrettarono a ritirarli causando così una `diminuzione della liquidità`. Le aziende non potendo più accedere al credito per gli investimenti furono costrette a ridurre la produzione, a tagliare i salari e a licenziare.\
+Nel `1932` il numero di disoccupati raggiunse i `14 milioni`, la disponibilità finanziaria delle famiglie subì una caduta verticale, dovuta anche all'impossibilità di accedere ai mutui e realizzare acquisti a rate.\
+La diminuzione della domanda comportò un'ulteriore contrazione della produzione industriale.
+
 ## Roosevelt e il *New Deal*
 
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
