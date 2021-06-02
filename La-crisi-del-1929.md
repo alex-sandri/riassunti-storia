@@ -58,4 +58,18 @@ La diminuzione della domanda comportò un'ulteriore contrazione della produzione
 
 ## Roosevelt e il *New Deal*
 
+Nel `1932` il candidato democratico `Franklin Delano Roosevelt` impostò la propria campagna promettendo di essere più attento alle esigenze e alle speranze della gente comune, al contrario di `Hoover`, che era legato ai ceti più abbienti, ritenuti responsabili della crisi finanziaria.\
+La sua vittoria fu netta: `22,8 milioni di voti` contro i 15,7 di Hoover.
+
+Venne costituito un *brain trust*, un gruppo di ricercatori e specialisti con il compito di approntare un programma che permettesse l'uscita dalla crisi: bisognava `rilanciare gli investimenti delle aziende e i consumi dei cittadini`.\
+Venne deciso un `intervento da parte dello Stato`, abbandonando la politica liberista, mirando ad aumentare il reddito pro capite, e aumentare di conseguenza la domanda: il *`New Deal`*.
+
+Il fondamento teorico dell'intervento statale nell'economia risale all'economista inglese `John Maynard Keynes`, la cui teoria influenzò le decisioni del *brain trust* anche se non fu direttamente coinvolto.
+
+Il governo Roosevelt varò una serie di provvedimenti con questi obiettivi:
+- Svalutazione del dollaro per favorire le esportazioni
+- Rendere più equo il sistema fiscale
+- Creare grandi opere pubbliche per creare nuovi posti di lavoro
+- Garantire i sussidi ai disoccupati
+
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
