@@ -36,6 +36,17 @@ Per favorire gli investimenti:
 - `Mantennero basso il tasso di interesse`, questo rendeva più facile alle aziende l'accesso al credito e aumentava di conseguenza la circolazione monetaria
 - `Rinunciarono a qualsiasi forma di regolazione dell'economia`: le aziende si concentrarono i monopoli e oligopoli, fissando i prezzi e le quote di produzione, aggirando così i rischi della libera concorrenza
 
+Nel corso degli anni Venti il numero e il prezzo dei titoli trattati negli Stati Uniti crebbero a una velocità impressionante: tra il `1927 e il 1929 il valore delle azioni raddoppiò`.\
+Il miraggio di guadagni facili e rapidi rese l'investimento in Borsa un fenomeno di massa. I piccoli risparmiatori acquistavano le azioni per rivenderle poco dopo incassando la differenza, non essendo interessati a investimenti a lungo termine. L'acquisto delle azioni era assai semplice bastava comprarne qualcuna e il resto si prendeva a prestito, dando in garanzia le azioni stesse.
+
+Nonostante il numero sempre più grande di consumatori che aveva accesso a beni che fino a poco prima erano considerati di lusso, rimanevano comunque molte fasce sociali in condizioni di `povertà` e sofferenza:
+- Milioni di acricoltori si dovevano confrontare con un calo inarrestabile dei prezzi
+- I salari degli operai non crescevano di pari passo con i profitti della produzione
+- Il potere dei sindacati era venuto meno all'inizio degli anni Venti, non potendo così essere tutelati nelle rivendicazioni sindacali
+
+In molti si erano perciò visti diminuire il proprio potere d'acquisto era difficile perciò assorbire la crescente produzione dell'industria nazionale, per esempio dei beni di consumo durevoli, che si prestano poco a un ricambio frequente.\
+Si arriverà a breve ad una `saturazione del mercato`: nessuno si preoccupava di una potenziale `crisi di sovrapproduzione` nonostante i vari segnali.
+
 ## Roosevelt e il *New Deal*
 
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
