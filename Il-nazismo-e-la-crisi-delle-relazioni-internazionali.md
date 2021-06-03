@@ -58,6 +58,11 @@ In questo modo la Germania sarebbe stata in grado di pagare le riparazioni e i d
 Già dal `1925` si poterono vedere i primi risultati positivi: la produzione superava addirittura quella dell'anteguerra.\
 A rovinare il tutto ci pensò la [`depressione americana del 1929`][crisi-del-1929] che causò la ricomparsa della crisi, anche peggiore della precedente.
 
+Nel 1925 l'economia tedesca sembrava aver superato il peggio, nello stesso periodo anche i rapporti internazionali si stavano stabilizzando: nell'`ottobre 1925` vennero firmati gli `Accordi di Locarno` (Germania, Francia, Inghilterra, Italia, Belgio e Polonia), con questo accordo la Germania cedeva l'Alsazia e la Lorena e accettava la smilitarizzazione della Renania ma non dava garanzie per le frontiere orientali.\
+Questo fu un successo diplomatico, confermato dalla decisione di ammettere la Germania nella `Società delle Nazioni`. La Germania si riavvicinò anche alla Russia con vari accordi diplomatici e commerciali.
+
+A confermare questo spirito di collaborazione pacifica (*spirito di Locarno*) venne firmato un nuovo accordo: il `Patto Briand-Kellogg`, entrato in vigore nel luglio `1929`, che coinvolgeva tutte le principali nazioni del mondo (tra cui Germania, Italia e Giappone) e stabiliva la risoluzione di tutti i contrasti tramite vie diplomatiche, rinunciando così alla guerra.
+
 ## La fine della Repubblica di Weimar
 
 ## Il nazismo
