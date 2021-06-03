@@ -54,6 +54,10 @@ L'aiuto decisivo alla politica di Stresemann arrivò da un economista americano 
 - La Germania non avrebbe pagato le riparazioni fino a quando la produzione industriale non fosse stata in grado di riprendersi
 - A questo scopo dovevano essere forniti capitali alla Germania sotto forma di investimenti e prestiti agevolati
 
+In questo modo la Germania sarebbe stata in grado di pagare le riparazioni e i debiti. Gli Stati Uniti avrebbero avuto un modo di allocare capitali eccedenti investendoli in Germania con grandi profitti.\
+Già dal `1925` si poterono vedere i primi risultati positivi: la produzione superava addirittura quella dell'anteguerra.\
+A rovinare il tutto ci pensò la [`depressione americana del 1929`][crisi-del-1929] che causò la ricomparsa della crisi, che fu anche peggio della precedente.
+
 ## La fine della Repubblica di Weimar
 
 ## Il nazismo
@@ -67,3 +71,5 @@ L'aiuto decisivo alla politica di Stresemann arrivò da un economista americano 
 ## La guerra civile spagnola
 
 ## Verso la guerra
+
+[crisi-del-1929]: La-crisi-del-1929.md
