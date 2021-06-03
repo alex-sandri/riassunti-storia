@@ -41,6 +41,19 @@ Gli anni tra il 1919 e il 1923 furono segnati da tensioni sociali e politiche. I
 Il più attivo di questi gruppi era il `Partito Nazionalsocialista Tedesco dei Lavoratori` (`NSDAP`), fondato nel `1920` da `Adolf Hitler`.\
 A Monaco nel novembre 1923 si verificò un nuovo tentativo di colpo di Stato, il cosiddetto <code><i>putsch</i> di Monaco</code>. I responsabili del complotto, tra cui Hitler, furono arrestati e venne ristabilito l'ordine.
 
+La sempre più ampia diffusione degli estremismi rendeva urgente l'esigenza di guidare la Germania fuori dalla crisi.\
+Nel `1923` si assunse questo compito `Gustav Stresemann` che formò un governo di coalizione con i seguenti obiettivi:
+- Risanare l'economia
+- Riaprire il dialogo con le potenze straniere sulla questione delle riparazioni
+
+Il primo intervento fu la `riforma monetaria` che sostituì il vecchio marco con il *Rentenmark* (marco di rendita, equivalente a mille miliardi di vecchi marchi).\
+Il governo tentò anche di risolvere il conflitto con la Francia e pose fine alla resistenza nella Ruhr.\
+Vennero infine represse le opposizioni estremistiche di destra e di sinistra.
+
+L'aiuto decisivo alla politica di Stresemann arrivò da un economista americano che elaborò un `piano di risanamento`, che venne approvato nel `1924`:
+- La Germania non avrebbe pagato le riparazioni fino a quando la produzione industriale non fosse stata in grado di riprendersi
+- A questo scopo dovevano essere forniti capitali alla Germania sotto forma di investimenti e prestiti agevolati
+
 ## La fine della Repubblica di Weimar
 
 ## Il nazismo
