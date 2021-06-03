@@ -33,6 +33,14 @@ Un altro problema era quello delle `riparazioni`, fissate nella cifra di `132 mi
 
 ## Dalla crisi economica alla stabilità
 
+Le condizioni di pace imposte alla Germania generarono una profonda crisi economica.\
+Nel `1923` la Francia, con l'occasione del mancato pagamento di una rata delle riparazioni, occupò militarmente la zona industriale della `Ruhr`. I Tedeschi risposero con la *resistenza passiva*: lavoratori e imprenditori lasciarono le fabbriche rifiutandosi di collaborare con gli invasori.\
+Per garantire un sostegno a questi la banca tedesca stampò carta moneta in quantità sempre più crescente, arrivando al `novembre 1923` quando il cambio dollaro-marco fu di `1 dollaro per 4200 miliardi di marchi`: il marco era carta straccia. La popolazione venne portata a livelli di povertà assurdi.
+
+Gli anni tra il 1919 e il 1923 furono segnati da tensioni sociali e politiche. In questo clima crebbero le adesioni ai movimenti di estrema destra, gruppi che propagandavano un nazionalismo con componente razzista (spesso antisemita) e il risentimento per la pace "ingiusta".\
+Il più attivo di questi gruppi era il `Partito Nazionalsocialista Tedesco dei Lavoratori` (`NSDAP`), fondato nel `1920` da `Adolf Hitler`.\
+A Monaco nel novembre 1923 si verificò un nuovo tentativo di colpo di Stato, il cosiddetto <code><i>putsch</i> di Monaco</code>. I responsabili del complotto, tra cui Hitler, furono arrestati e venne ristabilito l'ordine.
+
 ## La fine della Repubblica di Weimar
 
 ## Il nazismo
