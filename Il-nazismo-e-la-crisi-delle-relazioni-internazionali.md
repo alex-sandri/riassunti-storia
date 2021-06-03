@@ -27,6 +27,10 @@ Dalla cittadina di `Weimar` nel giro di un mese l'Assemblea diede al Paese la `C
 Questa Costituzione, con i suoi tratti presidenzialisti, creò i presupposti per interpretazioni autoritarie del ruolo presidenziale.\
 Questo si avverò solo quindici anni più tardi quando Hitler cancellò la democrazia in Germania.
 
+Nello stesso periodo si andavano ultimando i trattati di pace alla Conferenza di Parigi. Qui, a `Versailles`, nel giugno `1919` venne stabilito che la Germania era l'unica responsabile della guerra e di tutte le sue conseguenze.\
+L'umiliazione del Trattato di Versailles rafforzò, nonostante il nuovo sistema cercasse di lavorare per la pace, il nazionalismo tedesco.\
+Un altro problema era quello delle `riparazioni`, fissate nella cifra di `132 miliardi di marchi oro`.
+
 ## Dalla crisi economica alla stabilità
 
 ## La fine della Repubblica di Weimar
