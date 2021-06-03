@@ -56,7 +56,7 @@ L'aiuto decisivo alla politica di Stresemann arrivò da un economista americano 
 
 In questo modo la Germania sarebbe stata in grado di pagare le riparazioni e i debiti. Gli Stati Uniti avrebbero avuto un modo di allocare capitali eccedenti investendoli in Germania con grandi profitti.\
 Già dal `1925` si poterono vedere i primi risultati positivi: la produzione superava addirittura quella dell'anteguerra.\
-A rovinare il tutto ci pensò la [`depressione americana del 1929`][crisi-del-1929] che causò la ricomparsa della crisi, che fu anche peggio della precedente.
+A rovinare il tutto ci pensò la [`depressione americana del 1929`][crisi-del-1929] che causò la ricomparsa della crisi, anche peggiore della precedente.
 
 ## La fine della Repubblica di Weimar
 
