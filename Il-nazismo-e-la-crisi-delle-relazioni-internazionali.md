@@ -65,6 +65,28 @@ A confermare questo spirito di collaborazione pacifica (*spirito di Locarno*) ve
 
 ## La fine della Repubblica di Weimar
 
+Nonstante la Germania fosse in condizioni di stabilità economica, restavano alcuni problemi:
+- La ripresa era determinata solamente dai finanziamenti esteri
+- Il nazionalismo continuava la sua diffusione
+- I ceti medi erano costretti a sacrifici economici non indifferenti
+- Le forze politiche democratiche non riuscivano a trovare un accordo
+
+Con le elezioni successive e le ulteriori divisioni interne si andò solo confermando la crisi in cui era ora la Repubblica.
+
+La situazione peggiorò nel [`novembre 1929`][crisi-del-1929] il crollo di Wall Street si fece sentire anche in Germania:
+- I crediti statunitensi cessarono
+- I disoccupati aumentarono di milioni l'anno
+- La produzione industriale calò del 50% nel giro di tre anni
+- Le piccole industrie e gli artigiani furono costretti a chiudere
+- L'inflazione tornava a crescere, rovinando i piccoli risparmiatori
+
+Cominciava a farsi strada l'ipotesi di una svolta politica e, seppur con motivazioni diverse, destra e sinistra volevano abbattere la democrazia:
+- La destra voleva una dittatura
+- La sinistra una rivoluzione socialista
+
+La fine della Repubblica di Weimar si stava avvicinando anche grazie all'eccessivo sfruttamento dell'`articolo 48`, che consentiva al presidente di evitare il Parlamento per emanare disegni di legge in casi eccezionali: il *Reichstag* era sempre più inutile.\
+Nel `1930` questo venne sciolto e vennero indette nuove elezioni, avvenute in un clima di continue lotte tra comunisti e nazisti e i risultati furono il risultato della radicalizzazione politica di quegli anni: vinse il Partito nazionalsocialista di Hitler.
+
 ## Il nazismo
 
 ## Il Terzo Reich
