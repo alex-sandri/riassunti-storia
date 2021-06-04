@@ -123,6 +123,14 @@ Con l'intento di affossare la Repubblica nel `1931` Hitler unì le forze con i c
 
 ## Il Terzo Reich
 
+Hitler andò al governo il `28 gennaio 1933` e cominciò subito la rimozione dall'amministrazione pubblica di ogni soggetto poco fidato. Inoltre decine di giornali accusati di fomentare disordini vennero soppressi e le SA si accanirono contro la sinistra. Quando scoppiò un `incendio` che distrusse il *`Reichstag`*, anche se probabilmente furono gli stessi nazisti, vennero accusati i comunisti. Hitler ora aveva una scusa per lottare contro di loro e introdurre delle `misure eccezionali`, questo significò la sospensione dei diritti garantiti dalla Costituzione cosicché potessero essere arrestati i capi comunisti.\
+Vennero fissate nuove `elezioni` il 5 marzo alle quali, seppur non rispettando le aspettative, ottennero la vittoria con la maggioranza assoluta.\
+Iniziava così `legalmente` la `nazificazione` dello Stato.
+
+In soli sei mesi Hitler riuscì a edificare uno Stato totalitario.\
+Alla prima seduta del Parlamento, il `23 marzo 1933`, chiese l'approvazione di una legge che gli assegnasse `pieni poteri`. Iniziava così la `dittatura` del *führer*.\
+Una legge successiva rese la Germania uno Stato a `partito unico`. I sindacati vennero soppressi e sostituiti da un'organizzazione corporativa, il *Fronte del lavoro*, controllata dallo Stato. Ogni istituzione, tra cui la scuola, venne *nazificata*. Venne creata una polizia segreta, la `Gestapo`, controllata da Himmler, capo delle `SS`, la milizia con il compito di stroncare le opposizioni. Il criterio di legalità divenne la volontà del *führer*.
+
 ## Economia e società
 
 ## Gli anni Trenta: nazionalismo, autoritarismo e dittature. La politica estera di Hitler
