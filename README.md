@@ -12,3 +12,7 @@
 - [Il nazismo e la crisi delle relazioni internazionali](Il-nazismo-e-la-crisi-delle-relazioni-internazionali.md)
 - [La seconda guerra mondiale](La-seconda-guerra-mondiale.md)
 - [Le origini della guerra fredda](Le-origini-della-guerra-fredda.md)
+
+---
+
+***Nota**: questi riassunti sono basati sul libro [ERODOTO MAGAZINE 5](https://www.amazon.it/s?k=ISBN+978-88-350-4780-3).*
