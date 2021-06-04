@@ -135,6 +135,11 @@ Eliminate le opposizioni esterne, Hitler affrontò il problema del dissenso inte
 
 Con la morte del presidente Hindenburg il `2 agosto 1934` Hitler assunse subito le funzioni di presidente: era ufficialmente il *führer* e il capo del *Terzo Reich*.
 
+Il nazismo non incontrò mai durante la sua ascesa forti resistenze. L'opposizione era sempre debole e repressa con la forza, i nemici dello Stato venivano rinchiusi in campi di concentramento, i *lager*, controllati dalle SS, e qui gradualmente annientati.\
+Inizialmente la repressione colpì i comunisti, poi venne estesa agli altri partiti. Complessivamente circa un quarto dei parlamentari vennero uccisi.\
+Per ragioni politiche o razziali anche molti intellettuali, come *Sigmund Freud* e *Albert Einstein*, furono costretti a emigrare. I loro libri vennero bruciati a Berlino e le loro idee vennero giudicate degenerate.\
+La maggior parte degli emigrati andava negli Stati Uniti o in Sud America.
+
 ## Economia e società
 
 ## Gli anni Trenta: nazionalismo, autoritarismo e dittature. La politica estera di Hitler
