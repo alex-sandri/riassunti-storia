@@ -87,6 +87,12 @@ Cominciava a farsi strada l'ipotesi di una svolta politica e, seppur con motivaz
 La fine della Repubblica di Weimar si stava avvicinando anche grazie all'eccessivo sfruttamento dell'`articolo 48`, che consentiva al presidente di evitare il Parlamento per emanare disegni di legge in casi eccezionali: il *Reichstag* era sempre più inutile.\
 Nel `1930` questo venne sciolto e vennero indette nuove elezioni, avvenute in un clima di continue lotte tra comunisti e nazisti e i risultati furono il risultato della radicalizzazione politica di quegli anni: vinse il Partito nazionalsocialista di Hitler.
 
+Tra il 1930 e il 1932 la popolazione tedesca ben tre volte, nessun governo durava molto. Nello stesso periodo si rafforzavano invece sempre più i nazisti.\
+Alle elezioni del `luglio 1932` i nazisti ottennero il `37,4%` dei voti: la `grande industria`, gli `agrari` e l'`esercito` appoggiavano tutti questo partito, considerato l'unico che potesse portare la Germania fuori dalla crisi.\
+Così il `30 gennaio 1933` venne affidato a `Hitler` l'incarico di formare un nuovo governo.
+
+Era finita la Repubblica di Weimar.
+
 ## Il nazismo
 
 ## Il Terzo Reich
