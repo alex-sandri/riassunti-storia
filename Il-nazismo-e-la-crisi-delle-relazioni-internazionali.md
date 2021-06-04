@@ -116,6 +116,11 @@ Voleva creare una società gerarchica e, al vertice di ogni settore della societ
 Al vertice assoluto risiedeva l'autorità stessa: Adolf Hitler, che si presentava come l'uomo che avrebbe guidato la Germania alla conquista dello `spazio vitale`, necessario per lo sviluppo e la prosperità del *Reich*.\
 L'obiettivo principale si trovava a est, oveero la distruzione dell'URSS e lo sfruttamento della razza slava. La forza militare diventava il mezzo supremo per la costruzione della nuova Germania.
 
+All'inizio il Partito nazista era solo un piccolo gruppo, poco credibile all'elettorato tedesco. Così nel `1924` Hitler decise di dare al partito una veste legalitaria, cosicché aumentassero i consensi. Utilizzò comunque la violenza, con le `SA` (truppe d'assalto), per colpire i comunisti. Si basò inoltre su una `propaganda` incentrata su temi come la nazione, la razza, la grandezza tedesca e la punizione dei nemici.\
+Fu la [crisi del 1929][crisi-del-1929] a far avvicinare molti a questo tipo di partiti, ritenuti più determinati e decisi rispetto a quelli tradizionali.\
+I nuovi sostenitori erano tutti appartenenti ai ceti rovinati dalla crisi, di cui i giovani, ormai senza prospettive, venivano spesso reclutati nelle SA.\
+Con l'intento di affossare la Repubblica nel `1931` Hitler unì le forze con i conservatori in un fronte reazionario, il Fronte di Harzburg. Riuscì così, grazie al volto della destra legale, a conquistare la simpatia dei grandi capitalisti tedeschi, degli agrari e dell'esercito.
+
 ## Il Terzo Reich
 
 ## Economia e società
