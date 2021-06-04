@@ -95,6 +95,10 @@ Era finita la Repubblica di Weimar.
 
 ## Il nazismo
 
+Il *Partito Nazionalsocialista Tedesco dei Lavoratori* (NSDAP) nacque a Monaco nel `1920`, nel clima di delusione per i risultati della [prima guerra mondiale][prima-guerra-mondiale].\
+Secondo questi la perdita non fu dettata dalla maggior potenza delle forze dell'Intesa ma a dei sabotaggi interni da parte di marxisti e pacifisti.\
+Un altro aspetto era anche l'anticapitalismo: i capitalisti dovevano rinunciare allo sfruttamento illimitato degli operai. Veniva proposto il `corporativismo`, si doveva collaborare tra *capi e seguito*, come rimedio ai conflitti sociali. Nei fatti, però, questo significò piegare gli operai alla volontà della grande industria.
+
 ## Il Terzo Reich
 
 ## Economia e società
