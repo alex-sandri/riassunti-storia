@@ -99,6 +99,23 @@ Il *Partito Nazionalsocialista Tedesco dei Lavoratori* (NSDAP) nacque a Monaco n
 Secondo questi la perdita non fu dettata dalla maggior potenza delle forze dell'Intesa ma a dei sabotaggi interni da parte di marxisti e pacifisti.\
 Un altro aspetto era anche l'anticapitalismo: i capitalisti dovevano rinunciare allo sfruttamento illimitato degli operai. Veniva proposto il `corporativismo`, si doveva collaborare tra *capi e seguito*, come rimedio ai conflitti sociali. Nei fatti, però, questo significò piegare gli operai alla volontà della grande industria.
 
+Faceva parte dell'ideologia nazista il concetto di `purezza della razza` tedesca, il mito dell'`arianesimo`.\
+La razza ariana veniva considerata la stirpe eletta e godeva del diritto-dovere di sottomettere le razze inferiori, purificando così la comunità tedesca. Facevano parte di questi *sottouomini* gli Ebrei, gli zingari, i portatori di handicap, gli omosessuali e i malati di mente.\
+L'`antisemitismo` e il `razzismo` erano quindi un nuovo e delirante progetto politico. Venne indotta la popolazione alla lotta tramite i nuovi mezzi di comunicazione di massa, lo scopo non era però avere adesioni basandosi sul pensiero razionale, ma giocando sull'emotività del popolo.\
+Tutto questo doveva essere sotto la guida infallibile del *führer* (capo supremo).
+
+Prima dell'attività politica Hitler viveva di lavoretti senza prospettive, era infatti un pittore mediocre.\
+Fu la guerra a renderlo un piccolo eroe, convincendolo di poter rendere grande la Germania dopo la sconfitta.\
+Nel dopoguerra cominciò a frequentare un gruppo di estrema destra, che poi rifondò con il suo partito.\
+Nel 1923, durante la carcerazione per il *putsch* di Monaco, scrisse il *Mein Kampf* (La mia battaglia), base teorica del nazismo i cui punti principali erano:
+- `Lotta contro il liberalismo` e il disprezzo per la democrazia
+- `Lotta al marxismo`
+- `Lotta contro gli Ebrei`, accusati di controllare e sfruttare l'economia tedesca
+
+Voleva creare una società gerarchica e, al vertice di ogni settore della società, dell'economia o della politica, doveva esservi un capo: il `Führerprinzip` (Il principio del capo).\
+Al vertice assoluto risiedeva l'autorità stessa: Adolf Hitler, che si presentava come l'uomo che avrebbe guidato la Germania alla conquista dello `spazio vitale`, necessario per lo sviluppo e la prosperità del *Reich*.\
+L'obiettivo principale si trovava a est, oveero la distruzione dell'URSS e lo sfruttamento della razza slava. La forza militare diventava il mezzo supremo per la costruzione della nuova Germania.
+
 ## Il Terzo Reich
 
 ## Economia e società
