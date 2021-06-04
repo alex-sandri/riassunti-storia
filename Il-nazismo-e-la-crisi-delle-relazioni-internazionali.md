@@ -73,7 +73,7 @@ Nonstante la Germania fosse in condizioni di stabilità economica, restavano alc
 
 Con le elezioni successive e le ulteriori divisioni interne si andò solo confermando la crisi in cui era ora la Repubblica.
 
-La situazione peggiorò nel [`novembre 1929`][crisi-del-1929] il crollo di Wall Street si fece sentire anche in Germania:
+La situazione peggiorò nel `novembre 1929` quando il [crollo di Wall Street][crisi-del-1929] si fece sentire anche in Germania:
 - I crediti statunitensi cessarono
 - I disoccupati aumentarono di milioni l'anno
 - La produzione industriale calò del 50% nel giro di tre anni
