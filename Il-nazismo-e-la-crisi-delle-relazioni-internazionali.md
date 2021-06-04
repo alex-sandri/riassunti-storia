@@ -131,6 +131,10 @@ In soli sei mesi Hitler riuscì a edificare uno Stato totalitario.\
 Alla prima seduta del Parlamento, il `23 marzo 1933`, chiese l'approvazione di una legge che gli assegnasse `pieni poteri`. Iniziava così la `dittatura` del *führer*.\
 Una legge successiva rese la Germania uno Stato a `partito unico`. I sindacati vennero soppressi e sostituiti da un'organizzazione corporativa, il *Fronte del lavoro*, controllata dallo Stato. Ogni istituzione, tra cui la scuola, venne *nazificata*. Venne creata una polizia segreta, la `Gestapo`, controllata da Himmler, capo delle `SS`, la milizia con il compito di stroncare le opposizioni. Il criterio di legalità divenne la volontà del *führer*.
 
+Eliminate le opposizioni esterne, Hitler affrontò il problema del dissenso interno al partito. Rimaneva infatti una parte che rimaneva fedele alle idee delle origini, rappresentata soprattutto dalle SA. Nella notte del `30 giugno 1934`, la `notte dei lunghi coltelli`, le SS e la Gestapo uccisero moltissimi rappresentanti delle SA per un totale di oltre mille vittime.
+
+Con la morte del presidente Hindenburg il `2 agosto 1934` Hitler assunse subito le funzioni di presidente: era ufficialmente il *führer* e il capo del *Terzo Reich*.
+
 ## Economia e società
 
 ## Gli anni Trenta: nazionalismo, autoritarismo e dittature. La politica estera di Hitler
