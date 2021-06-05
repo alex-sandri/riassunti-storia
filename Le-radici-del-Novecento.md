@@ -125,4 +125,4 @@ Tuttavia la maggior parte degli Ebrei scelse l'`America` e non la `Palestina`.
 
 [seconda-guerra-mondiale]: La-seconda-guerra-mondiale.md
 
-[positivismo]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Positivismo.md
+[positivismo]: https://italiano.alexsandri.com/Positivismo
