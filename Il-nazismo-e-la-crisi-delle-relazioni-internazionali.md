@@ -168,6 +168,11 @@ Il consenso arrivò principalmente dai successi di Hitler in politica estera, da
 
 Nel `settore agricolo` il mercato e il consumo vennero sottoposti al controllo della *Corporazione alimentare del Reich*, con l'obiettivo di raggiungere l'`autosufficienza alimentare`, questo venne favorito tramite una legge che prevedeva che le terre fino a 125 ettari restavano proprietà della famiglia per sempre. Tuttavia quest'obiettivo non venne mai raggiunto.
 
+Gli sforzi maggiori furono rivolti al `settore industriale`, risollevato grazie alla politica di `riarmo`.\
+Dal `1935` fu reintrodotta la leva obbligatoria e dal `1936` le commesse militari garantirono un forte incremento della produzione industriale.
+Successivamente, grazie al *piano quadriennale* per l'economia, vennero avviati imponenti lavori pubblici, come autostrade e canali, che permisero di raggiungere la `piena occupazione` nel `1938`.\
+Tutta la produzione era finalizzata all'autosufficienza, garantendo ai capitalisti ingenti guadagni e li legava al regime in un rapporto di reciproco sostegno.
+
 ## Gli anni Trenta: nazionalismo, autoritarismo e dittature. La politica estera di Hitler
 
 ## La guerra civile spagnola
