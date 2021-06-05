@@ -16,3 +16,7 @@
 ---
 
 ***Nota**: questi riassunti sono basati sul libro [Erodoto Magazine 5](https://www.amazon.it/s?k=ISBN+978-88-350-4780-3).*
+
+---
+
+&copy; 2021 - Alex Sandri
