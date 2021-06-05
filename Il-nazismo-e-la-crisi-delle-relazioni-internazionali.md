@@ -39,7 +39,7 @@ Per garantire un sostegno a questi la banca tedesca stampò carta moneta in quan
 
 Gli anni tra il 1919 e il 1923 furono segnati da tensioni sociali e politiche. In questo clima crebbero le adesioni ai movimenti di estrema destra, gruppi che propagandavano un nazionalismo con componente razzista (spesso antisemita) e il risentimento per la pace "ingiusta".\
 Il più attivo di questi gruppi era il `Partito Nazionalsocialista Tedesco dei Lavoratori` (`NSDAP`), fondato nel `1920` da `Adolf Hitler`.\
-A Monaco nel novembre 1923 si verificò un nuovo tentativo di colpo di Stato, il cosiddetto <code>*putsch* di Monaco</code>. I responsabili del complotto, tra cui Hitler, furono arrestati e venne ristabilito l'ordine.
+A Monaco nel novembre 1923 si verificò un nuovo tentativo di colpo di Stato, il cosiddetto <code><i>putsch</i> di Monaco</code>. I responsabili del complotto, tra cui Hitler, furono arrestati e venne ristabilito l'ordine.
 
 La sempre più ampia diffusione degli estremismi rendeva urgente l'esigenza di guidare la Germania fuori dalla crisi.\
 Nel `1923` si assunse questo compito `Gustav Stresemann` che formò un governo di coalizione con i seguenti obiettivi:
