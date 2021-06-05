@@ -166,3 +166,4 @@ Faceva, insomma, dei campi di sterminio parte integrante della sua politica, qua
 ## Verso la guerra
 
 [crisi-del-1929]: La-crisi-del-1929.md
+[seconda-guerra-mondiale]: La-seconda-guerra-mondiale.md
