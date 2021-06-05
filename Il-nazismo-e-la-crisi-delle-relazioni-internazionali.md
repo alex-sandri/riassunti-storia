@@ -183,7 +183,14 @@ Il tempo libero era gestito dalla *Kraft durch Freude* (forza attraverso la gioi
 
 ## Gli anni Trenta: nazionalismo, autoritarismo e dittature. La politica estera di Hitler
 
+Il successo di Hitler aprì la strada alla diffusione di `movimenti di estrema destra` ispirati al nazismo, per esempio in `Spagna` con la dittatura di *Francisco Franco* o in `Giappone` con *Hirohito*.
+
+Dopo la [crisi del 1929][crisi-del-1929] l'obiettivo del governo nazista era diventato assorbire la disoccupazione e rilanciare l'economia: per questo serviva il progetto espansionistico di Hitler.\
+Hitler intendeva conquistare lo `spazio vitale` necessario al popolo tedesco per imporre un *nuovo ordine* europeo con la *Grande Germania* a dominarlo.
+
 ## La guerra civile spagnola
+
+*NON VERRÀ RIASSUNTA*
 
 ## Verso la guerra
 
