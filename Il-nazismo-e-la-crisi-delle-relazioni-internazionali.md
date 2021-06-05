@@ -166,6 +166,8 @@ Il consenso arrivò principalmente dai successi di Hitler in politica estera, da
 
 ## Economia e società
 
+Nel `settore agricolo` il mercato e il consumo vennero sottoposti al controllo della *Corporazione alimentare del Reich*, con l'obiettivo di raggiungere l'`autosufficienza alimentare`, questo venne favorito tramite una legge che prevedeva che le terre fino a 125 ettari restavano proprietà della famiglia per sempre. Tuttavia quest'obiettivo non venne mai raggiunto.
+
 ## Gli anni Trenta: nazionalismo, autoritarismo e dittature. La politica estera di Hitler
 
 ## La guerra civile spagnola
