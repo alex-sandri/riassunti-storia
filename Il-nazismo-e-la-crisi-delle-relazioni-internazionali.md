@@ -173,6 +173,14 @@ Dal `1935` fu reintrodotta la leva obbligatoria e dal `1936` le commesse militar
 Successivamente, grazie al *piano quadriennale* per l'economia, vennero avviati imponenti lavori pubblici, come autostrade e canali, che permisero di raggiungere la `piena occupazione` nel `1938`.\
 Tutta la produzione era finalizzata all'autosufficienza, garantendo ai capitalisti ingenti guadagni e li legava al regime in un rapporto di reciproco sostegno.
 
+Il successo della politica economica dipese dal totale controllo sul mondo del lavoro. Vennero a questo scopo varate, tra il `1934` e il `1935` delle leggi che:
+- `Impedirono la libertà di scelta del posto di lavoro`: al lavoratore veniva assegnato un posto dalle autorità senza la possibilità di rifiutare
+- Istituirono il `servizio di lavoro obbligatorio` per i giovani tra i 18 e i 25 anni, garantendo alle autorità manodopera a basso costo per lavori di pubblico interesse
+
+Venne esercitato il controllo anche sulla società e sulla `famiglia`: vennero fatte iniziative a sostegno della natalità e delle giovani coppie.\
+La scuola veniva impartita l'ideologia della forza, per fare dei maschi dei soldati forti e robusti e delle femmine delle madri sane e prolifiche.\
+Il tempo libero era gestito dalla *Kraft durch Freude* (forza attraverso la gioia), che si occupava di organizzare, tra le altre cose, manifestazioni sportive e rappresentazioni teatrali, ma soprattutto di diffondere l'ideologia nazista.
+
 ## Gli anni Trenta: nazionalismo, autoritarismo e dittature. La politica estera di Hitler
 
 ## La guerra civile spagnola
