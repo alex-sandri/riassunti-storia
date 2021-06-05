@@ -152,5 +152,5 @@ Tuttavia fu anche sostenitore della moderna teoria della `pena rieducativa` e an
 [fascismo]: L-Italia-tra-le-due-guerre-il-fascismo.md
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
 
-[futurismo]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Futurismo.md
-[gabriele-d-annunzio]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Gabriele-D-Annunzio.md
+[futurismo]: https://italiano.alexsandri.com/Futurismo
+[gabriele-d-annunzio]: https://italiano.alexsandri.com/Gabriele-D-Annunzio
