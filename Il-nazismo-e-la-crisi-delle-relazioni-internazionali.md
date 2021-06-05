@@ -195,6 +195,11 @@ Le continue violazioni dei trattati internazionali da parte della Germania venne
 
 Consapevole dell'impotenza della Società delle Nazioni, nel `1936` Hitler si alleò con l'Italia fascista con un accordo, l'`Asse Roma-Berlino`, esteso un'anno dopo al Giappone per costituire l'`Asse Roma-Berlino-Tokyo`.
 
+L'Unione Sovietica, preoccupata dalla politica estera della Germania e del Giappone, cercò di difendersi entrando nella Società delle Nazioni e stringendo un patto di alleanza con la `Francia`.\
+Stalin uscì quindi dalla sua politica di isolamento per combattere i fascismo in un `unico fronte`, alleandosi con i partiti democratici e costituendo i cosiddetti `Fronti popolari` nei diversi Paesi.\
+Tuttavia questo non fermò l'avanzare del nazismo in Europa, infatti Paesi come la `Francia` e la `Gran Bretagna` adottarono una politica di *`appeasement`*, per mantenere la pace ad ogni costo.\
+In `Spagna` questa svolta democratica non venne accettata dalla destra militarista, cominciò quindi una lunga guerra civile.
+
 ## La guerra civile spagnola
 
 *NON VERRÀ RIASSUNTA*
