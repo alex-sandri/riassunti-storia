@@ -228,6 +228,6 @@ Queste leggi vennero annunciare per la prima volta a Trieste nel 1938 e Mussolin
 [rivoluzione-russa-ottobre-1917]: La-rivoluzione-russa.md#ottobre-1917
 [seconda-guerra-mondiale]: La-seconda-guerra-mondiale.md
 
-[gabriele-d-annunzio]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Gabriele-D-Annunzio.md
+[gabriele-d-annunzio]: https://italiano.alexsandri.com/Gabriele-D-Annunzio
 
 [riforma-scuola-gentile]: https://it.wikipedia.org/wiki/Riforma_Gentile
