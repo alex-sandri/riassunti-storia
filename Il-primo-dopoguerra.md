@@ -50,6 +50,14 @@ Si organizzarono i consigli operai che dovevano rappresentare il proletariato.
 
 Durante il biennio rosso in molti Paesi europei si tentò di creare un governo comunista, ma questi tentativi fallirono nella totalità dei casi, e, nel caso italiano, lasciò spazio al [fascismo][fascismo].
 
+## Dittature, democrazie e nazionalismo
+
+*NON VERRÀ RIASSUNTA*
+
+## Le colonie e i movimenti indipendentisti
+
+*NON VERRÀ RIASSUNTA*
+
 [prima-guerra-mondiale]: La-prima-guerra-mondiale.md
 [rivoluzione-russa]: La-rivoluzione-russa.md
 [fascismo]: L-Italia-tra-le-due-guerre-il-fascismo.md
