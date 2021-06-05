@@ -188,6 +188,13 @@ Il successo di Hitler aprì la strada alla diffusione di `movimenti di estrema d
 Dopo la [crisi del 1929][crisi-del-1929] l'obiettivo del governo nazista era diventato assorbire la disoccupazione e rilanciare l'economia: per questo serviva il progetto espansionistico di Hitler.\
 Hitler intendeva conquistare lo `spazio vitale` necessario al popolo tedesco per imporre un *nuovo ordine* europeo con la *Grande Germania* a dominarlo. Per questo motivo andò contro le limitazioni imposte dal Trattato di Versailles e uscì dalla Società delle Nazioni. Avviò dunque il `riarmo` e indirizzò l'intera economia tedesca alla produzione bellica. Nel `1935` reintrodusse il reclutamento obbligatorio e costruì una flotta navale.
 
+Il primo passo per la politica espansionistica fu, nel `1934` la tentata annessione dell'`Austria` ma fallì in quanto si opposero Francia, Gran Bretagna e Italia, che schierò anche delle truppe al confine.\
+Successivamente, tramite plebiscito popolare, la regione della `Saar`, ceduta alla Francia dopo Versailles, ritornò sotto il controllo della Germania.
+
+Le continue violazioni dei trattati internazionali da parte della Germania vennero discusse nella `Conferenza di Stresa` da Francia, Gran Bretagna e Italia, che però si limitarono solo a condannare le azioni di Hitler, senza intervenire direttamente. Questo di fatto lasciò campo libero a Hitler che occupò nel `1936` la `Renania` con il suo esercito, regione che secondo il Trattato di Versailles doveva rimanere smilitarizzata.
+
+Consapevole dell'impotenza della Società delle Nazioni, nel `1936` Hitler si alleò con l'Italia fascista con un accordo, l'`Asse Roma-Berlino`, esteso un'anno dopo al Giappone per costituire l'`Asse Roma-Berlino-Tokyo`.
+
 ## La guerra civile spagnola
 
 *NON VERRÀ RIASSUNTA*
