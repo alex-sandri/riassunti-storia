@@ -216,5 +216,12 @@ Nel `1939` l'`Italia` si mostrò favorevole alla politica aggressiva di Hitler: 
 
 Il `22 maggio` dello stesso anno venne rafforzato il legame tra Italia e Germania con il `Patto d'acciaio`, che stabiliva il reciproco aiuto in caso di guerra, sia offensiva che difensiva.
 
+Nella prospettiva di iniziare una guerra, Hitler voleva garantirsi la neutralità dell'Unione Sovietica, un'intervento di Stalin in caso di attacco alla Polonia sarebbe potuto essere pericoloso.\
+Il `23 agosto 1939` venne firmato il `Patto Molotov-Ribbentrop`, un `patto di non aggressione` della durata di dieci anni che stabiliva:
+- Come sarebbe stata spartita la `Polonia` tra le due potenze
+- La spartizione della `regione baltica`
+
+Con questo patto tutto era pronto per l'`invasione della Polonia` (`1 settembre 1939`): l'inizio della [seconda guerra mondiale][seconda-guerra-mondiale].
+
 [crisi-del-1929]: La-crisi-del-1929.md
 [seconda-guerra-mondiale]: La-seconda-guerra-mondiale.md
