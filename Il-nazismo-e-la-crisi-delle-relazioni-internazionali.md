@@ -155,7 +155,14 @@ La persecuzione degli Ebrei si articolò in tre fasi:
 
 Il nazismo non assunse mai il carattere di un'utopia positiva: non venne mai prospettato un futuro di pace e solidarietà, ma solo una società basata sullo *sfruttamento* e sulla *sopraffazione*.\
 Hitler aveva in mente una società senza dissenso politico e "pura", ovvero senza Ebrei e persone con handicap vari o malattie mentali, o comunque persone ritenute inferiori.\
-Faceva, insomma, dei campi di sterminio parte integrante della sua politica, quasi un qualcosa di *ordinario*. Basti pensare che il primo campo di concentramento, quello di `Dachau`, fu istituito poche settimane dopo l'ascesa al potere di Hitler nel `1933`. Per raggiungere la *razza padrona germanica* i nazisti dovevano intervenire direttamente sull patrimonio genetico, estirpando la *materia* biologicamente inferiore.
+Faceva, insomma, dei campi di sterminio parte integrante della sua politica, quasi un qualcosa di *ordinario*. Basti pensare che il primo campo di concentramento, quello di `Dachau`, fu istituito poche settimane dopo l'ascesa al potere di Hitler nel `1933`. Per raggiungere la *razza padrona germanica* i nazisti dovevano intervenire direttamente sull patrimonio genetico, estirpando la *materia* biologicamente inferiore.\
+Nel 1933 venne iniziata la sterilizzazione *`eugenetica`*, cioè consentendo la riproduzione tra soggetti portatori di caratteri geneticamente favorevoli. A questo scopo vennero forzati in dieci anni circa 30.000 aborti a donne tedesche.\
+A questo si aggiunse l'*Operazione Eutanasia*, uno sterminio di massa attraverso il monossido di carbonio che coinvolse circa 80.000 cittadini tedeschi giudicati irrecuperabili o infermi. Le proteste però in questo caso fecero interrompere l'operazione dopo un'anno circa.
+
+La politica repressiva fu costantemente accompagnata da una vasta propaganda, affidata a `Joseph Goebbels`, spesso legata alla diffusione del mito della razza pura e dell'uomo bello e sano.\
+Vennero utilizzati i nuovi mezzi di comunicazione di massa come la radio e il cinema. A questo si aggiungeva una rigorosa censura sui giornali, il controllo della formazione scolastica e l'inquadramento della gioventù in organizzazioni naziste come la *Gioventù hitleriana*.
+
+Il consenso arrivò principalmente dai successi di Hitler in politica estera, dalla diminuzione drastica della disoccupazione e dalla fine della crisi economica, tramite la costruzione di grandi opere pubbliche e la politica di riarmo.
 
 ## Economia e società
 
