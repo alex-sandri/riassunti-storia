@@ -149,4 +149,4 @@ Questa organizzazione non ebbe però molto successo, anche in quanto gli stessi 
 
 [rivoluzione-russa]: La-rivoluzione-russa.md
 
-[gabriele-d-annunzio]: https://github.com/alex-sandri/riassunti-italiano/blob/main/Gabriele-D-Annunzio.md
+[gabriele-d-annunzio]: https://italiano.alexsandri.com/Gabriele-D-Annunzio
