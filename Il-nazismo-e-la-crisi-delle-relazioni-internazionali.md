@@ -206,5 +206,15 @@ In `Spagna` questa svolta democratica non venne accettata dalla destra militaris
 
 ## Verso la guerra
 
+Il tentativo di `annessione` dell'`Austria`, fallito nel 1934, andò a buon fine nel marzo `1938`, preceduto da una campagna filonazista.\
+Successivamente Hitler conquistò la regione cecoslovacca dei `Sudeti`, dove risiedeva la maggior parte del sistema difensivo.\
+Per evitare una guerra viene chiesto a Mussolini di mediare un accordo tra Germania e Cecoslovacchia. Così nel settembre `1938` Mussolini, Hitler, Chamberlain (premier britannico) e Daladier (Primo ministro francese) si incontrarono nella `Conferenza di Monaco`. Qui, dato che Mussolini era già alleato della Germania, venne approvata l'annessione dei Sudeti alla Germania e, volendo evitare la guerra, Francia e Inghilterra furono costretti ad accettare, dietro la promessa che il resto della Cecoslovacchia sarebbe rimasto indipendente.
+
+Nel `marzo 1939`, non rispettando gli accordi presi, i nazisti completarono lo smembramento della Cecoslovacchia: la `Boemia` e la `Moravia`.\
+Il `21` dello `stesso mese` la Germania chiese alla Polonia la città di `Danzica` e il `corridoio polacco`. Ora la Francia e la Gran Bretagna, stanche della politica di Hitler, si dichiararono pronte alla guerra pur di difendere i Polacchi.\
+Nel `1939` l'`Italia` si mostrò favorevole alla politica aggressiva di Hitler: in `aprile` le truppe italiane occuparono l'`Albania`.
+
+Il `22 maggio` dello stesso anno venne rafforzato il legame tra Italia e Germania con il `Patto d'acciaio`, che stabiliva il reciproco aiuto in caso di guerra, sia offensiva che difensiva.
+
 [crisi-del-1929]: La-crisi-del-1929.md
 [seconda-guerra-mondiale]: La-seconda-guerra-mondiale.md
