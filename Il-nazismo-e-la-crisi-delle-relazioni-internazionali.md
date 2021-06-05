@@ -153,6 +153,10 @@ La persecuzione degli Ebrei si articolò in tre fasi:
    1. `1941`: uccisione sul posto degli Ebrei durante l'invasione dell'URSS
    2. `1942`: deportazione nei *lager*, la cosiddetta `soluzione finale della questione ebraica`. La popolazione ebraica europea venne stimata sugli 11 milioni, circa `6 milioni` sarebbero poi effettivamente `morti in campi di sterminio`.
 
+Il nazismo non assunse mai il carattere di un'utopia positiva: non venne mai prospettato un futuro di pace e solidarietà, ma solo una società basata sullo *sfruttamento* e sulla *sopraffazione*.\
+Hitler aveva in mente una società senza dissenso politico e "pura", ovvero senza Ebrei e persone con handicap vari o malattie mentali, o comunque persone ritenute inferiori.\
+Faceva, insomma, dei campi di sterminio parte integrante della sua politica, quasi un qualcosa di *ordinario*. Basti pensare che il primo campo di concentramento, quello di `Dachau`, fu istituito poche settimane dopo l'ascesa al potere di Hitler nel `1933`. Per raggiungere la *razza padrona germanica* i nazisti dovevano intervenire direttamente sull patrimonio genetico, estirpando la *materia* biologicamente inferiore.
+
 ## Economia e società
 
 ## Gli anni Trenta: nazionalismo, autoritarismo e dittature. La politica estera di Hitler
