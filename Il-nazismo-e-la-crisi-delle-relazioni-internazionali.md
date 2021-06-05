@@ -140,6 +140,19 @@ Inizialmente la repressione colpì i comunisti, poi venne estesa agli altri part
 Per ragioni politiche o razziali anche molti intellettuali, come *Sigmund Freud* e *Albert Einstein*, furono costretti a emigrare. I loro libri vennero bruciati a Berlino e le loro idee vennero giudicate degenerate.\
 La maggior parte degli emigrati andava negli Stati Uniti o in Sud America.
 
+La Chiesa cattolica firmò il `20 luglio 1933` un `Concordato` con lo Stato tedesco che garantiva la libertà nel culto e nell'organizzazione ecclesiastica. I cattolici quindi non si opposero al regime, almeno fino al `1937` quando, dopo alcune azioni del *führer* che ledevano la Chiesa e i princìpi del cristianesimo, Pio XI condannò il governo tedesco per la violazione del Concordato, per il razzismo e per la divinizzazione dello Stato e del suo capo. Da allora cominciarono le persecuzioni ai cattolici.\
+La Chiesa protestante, invece, si piegò al regime prestando giuramento al *führer* nel 1938.
+
+La persecuzione degli Ebrei si articolò in tre fasi:
+1. Dal `1933` al `1935` venne scatenata una `violenta propaganda` per diffondere tra i Tedeschi l'ostilitàà verso la comunità ebraica.\
+   Vennero boicottati i negozi degli Ebrei, per esempio contrassegnandoli con la stella di David.\
+   Il `7 aprile 1933` venne disposto il licenziamento di tutti i dipendenti della pubblica amministrazione non ariani, ovvero chiunque discendesse da genitori o nonni non ariani
+2. Nel `1935` venne legalizzata la persecuzione: il `15 settembre` vennero emanate le `leggi di Norimberga` che di fatto escludevano gli Ebrei dalla vita tedesca, per questo molti decisero di emigrare.\
+   Tra il `9` e il `10 novembre 1938`, la cosiddetta `notte dei cristalli`, vennero infrante le vetrine dei negozi degli Ebrei, distrutte le sinagoghe, incendiate le abitazioni e arrestati, feriti e uccisi Ebrei in tutta la Germania. Da allora fu solo un crescendo di violenze con un'opinione pubblica sostanzialmente indifferente
+3. Lo `sterminio` venne attuato quando la [seconda guerra mondiale][seconda-guerra-mondiale] era già cominciata e si articolò in due parti:
+   1. `1941`: uccisione sul posto degli Ebrei durante l'invasione dell'URSS
+   2. `1942`: deportazione nei *lager*, la cosiddetta `soluzione finale della questione ebraica`. La popolazione ebraica europea venne stimata sugli 11 milioni, circa `6 milioni` sarebbero poi effettivamente `morti in campi di sterminio`.
+
 ## Economia e società
 
 ## Gli anni Trenta: nazionalismo, autoritarismo e dittature. La politica estera di Hitler
