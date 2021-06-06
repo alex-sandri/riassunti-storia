@@ -1,5 +1,7 @@
 # Riassunti Storia
 
+Riassunti del programma di Storia di quinta superiore
+
 ## Indice
 
 - [Le radici del Novecento](Le-radici-del-Novecento.md)
