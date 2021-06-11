@@ -5,7 +5,7 @@
 La Russia dell'Ottocento era conservatrice e multinazionale.\
 Ogni tipo di opposizione al regime zarista era vietata e solo il 5% della popolazione (aristocrazia, esercito, Chiesa e burocrazia imperiale) deteneva una qualche tipologia di potere.
 
-Le campagne erano molto arretrate, vigeva ancora la servitù della gleba e le rivolte contadine errano molto frequenti.\
+Le campagne erano molto arretrate, vigeva ancora la servitù della gleba e le rivolte contadine erano molto frequenti.\
 Le riforme attuate per eliminare la servitù della gleba non fecero altro che peggiorare la situazione.
 
 La Russia conobbe un boom industriale verso la fine del XIX secolo grazie all'appoggio dei capitali stranieri e alle iniziative dello Stato.
