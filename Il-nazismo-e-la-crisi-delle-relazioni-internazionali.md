@@ -178,7 +178,7 @@ Il successo della politica economica dipese dal totale controllo sul mondo del l
 - Istituirono il `servizio di lavoro obbligatorio` per i giovani tra i 18 e i 25 anni, garantendo alle autorità manodopera a basso costo per lavori di pubblico interesse
 
 Venne esercitato il controllo anche sulla società e sulla `famiglia`: vennero fatte iniziative a sostegno della natalità e delle giovani coppie.\
-La scuola veniva impartita l'ideologia della forza, per fare dei maschi dei soldati forti e robusti e delle femmine delle madri sane e prolifiche.\
+A scuola veniva impartita l'ideologia della forza, per fare dei maschi dei soldati forti e robusti e delle femmine delle madri sane e prolifiche.\
 Il tempo libero era gestito dalla *Kraft durch Freude* (forza attraverso la gioia), che si occupava di organizzare, tra le altre cose, manifestazioni sportive e rappresentazioni teatrali, ma soprattutto di diffondere l'ideologia nazista.
 
 ## Gli anni Trenta: nazionalismo, autoritarismo e dittature. La politica estera di Hitler
