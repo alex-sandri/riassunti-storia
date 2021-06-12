@@ -34,7 +34,7 @@ Per favorire gli investimenti:
 - `Ridussero al minimo le imposte dirette` (che colpiscono i redditi) e aumentarono quelle indirette (che gravano sui consumi e toccano quindi ogni acquirente)
 - `Diminuirono la spesa pubblica`, rinunciando ai programmi di assistenza verso le classi più povere
 - `Mantennero basso il tasso di interesse`, questo rendeva più facile alle aziende l'accesso al credito e aumentava di conseguenza la circolazione monetaria
-- `Rinunciarono a qualsiasi forma di regolazione dell'economia`: le aziende si concentrarono i monopoli e oligopoli, fissando i prezzi e le quote di produzione, aggirando così i rischi della libera concorrenza
+- `Rinunciarono a qualsiasi forma di regolazione dell'economia`: le aziende si concentrarono in monopoli e oligopoli, fissando i prezzi e le quote di produzione, aggirando così i rischi della libera concorrenza
 
 Nel corso degli anni Venti il numero e il prezzo dei titoli trattati negli Stati Uniti crebbero a una velocità impressionante: tra il `1927 e il 1929 il valore delle azioni raddoppiò`.\
 Il miraggio di guadagni facili e rapidi rese l'investimento in Borsa un fenomeno di massa. I piccoli risparmiatori acquistavano le azioni per rivenderle poco dopo incassando la differenza, non essendo interessati a investimenti a lungo termine. L'acquisto delle azioni era assai semplice bastava comprarne qualcuna e il resto si prendeva a prestito, dando in garanzia le azioni stesse.
