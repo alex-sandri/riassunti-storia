@@ -98,7 +98,7 @@ La guerra terminò nel `1953` con la riaffermazione del vecchio confine del 38°
 ## La Comunità Europea
 
 La ripresa economica dell'Europa occidentale venne accompagnata da una chiara perdita di potere da parte dei grandi Stati coloniali: Gran Bretagna e Francia.\
-La `Francia` subì questa trasformazionein modo più traumatico rispetto alla `Gran Bretagna`.
+La `Francia` subì questa trasformazione in modo più traumatico rispetto alla `Gran Bretagna`.
 
 Negli anni Cinquanta si verificò il cosiddetto `miracolo tedesco`:
 - Il prodotto nazionale crebbe anno dopo anno
