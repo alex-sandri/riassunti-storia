@@ -50,7 +50,7 @@ La frammentazione politica che ne derivò non permise la formazione di maggioran
 
 Dopo l'occupazione delle terre, nel `1920` era ora il turno delle fabbriche: i sindacati proclamarono uno sciopero bianco, ovvero gli operai entravano in fabbrica ma non lavoravano, e gli industriali furono costretti alla `chiusura degli stabilimenti`.\
 In `agosto` scattò l'occupazione delle fabbriche guidata dai sindacati comunisti: i lavoratori presero il controllo delle fabbriche e, in alcuni casi, tentarono anche di proseguire la produzione. Tuttavia questo movimento non fu in grado di estendersi ed era privo di idee chiare sul da farsi.\
-Tra i gruppi rivoluzionari si distinse quello fondato da `Antonio Gramsci`, il quale aveva più volte indicato agli operai lo strumento rivoluzionari dei `consigli di fabbrica`, concetto che si ispirava ai *soviet* russi.
+Tra i gruppi rivoluzionari si distinse quello fondato da `Antonio Gramsci`, il quale aveva più volte indicato agli operai lo strumento rivoluzionario dei `consigli di fabbrica`, concetto che si ispirava ai *soviet* russi.
 
 Nel `giugno 1920` fu richiamato al governo [`Giovanni Giolitti`][eta-giolittiana] che per interrompere le occupazioni degli stabilimenti fece da `mediatore` tra CGL e industriali.\
 Gli operai ottennero `aumenti salariali` e sgomberarono le fabbriche in `settembre`.\
