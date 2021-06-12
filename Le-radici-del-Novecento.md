@@ -50,7 +50,7 @@ A dominare ideologicamente la Seconda Internazionale fu il marxismo, si delinear
 - Quella `ortodossa` o `rivoluzionaria`, che sosteneva invece la raggiunta di una società senza classi attraverso una rivoluzione violenta
 
 In Francia all'interno del movimento operaio si formò una tendenza detta `sindacalismo rivoluzionario`.\
-Questo mirava all'addestramento delle masse operaie alla lotta, e lo sciopero non era altro cheil culmine della lotta.
+Questo mirava all'addestramento delle masse operaie alla lotta, e lo sciopero non era altro che il culmine della lotta.
 
 Papa `Leone XIII` cercò di formulare una proposta sociale coerente con la Chiesa.\
 Nel `1891` venne pubblicata l'enciclica *`Rerum Novarum`* che sosteneva:
