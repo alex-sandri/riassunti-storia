@@ -39,7 +39,7 @@ Questo periodo coincise più o meno con il decollo della rivoluzione industriale
 - Nell'industria `siderurgica`
 - Nell'industria `elettrica`
 - Nell'industria `meccanica` (nascita della FIAT)
-- Nel settore tessile si viluppò particolarmente l'industria del `cotone`
+- Nel settore tessile si sviluppò particolarmente l'industria del `cotone`
 
 Si formò il cosiddetto `triangolo industriale`, formato da Torino, Milano e Genova.
 
