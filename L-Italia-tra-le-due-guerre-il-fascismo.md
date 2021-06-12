@@ -154,7 +154,7 @@ Data la difficoltà che Mussolini avrebbe incontrato nel governare contro la Chi
 - L'Italia s'impegnava a versare al Vaticano un indennizzo per la perdita dello Stato pontificio
 - La religione cattolica diventava religione di Stato e veniva insegnata nelle scuole, venne riconosciuto il matrimonio religioso. Infine la Chiesa ottenne alcune libertà amministrative dei propri beni e della nomina dei vescovi, che però dovevano giurare fedeltà allo Stato
 
-Questi patti vennero giudicati in modo positivo da parte di `Pio XI`, anche se poi se ne sarebbe dovuto pentire. Invece `Don Luigi Sturzo` commentò invece che a Mussolini tornava comodo il supporto della Chiesa, ma di una Chiesa che serva e che aiuti.\
+Questi patti vennero giudicati in modo positivo da parte di `Pio XI`, anche se poi se ne sarebbe dovuto pentire. `Don Luigi Sturzo` commentò invece che a Mussolini tornava comodo il supporto della Chiesa, ma di una Chiesa che serva e che aiuti.\
 Nel `1931`, infatti, il regime provò a togliere all'*Azione Cattolica* il compito di educare i giovani, ma questo tentativo fallì.
 
 Se nella prima fase del regime fascista la politica adottata era di tipo liberista, dal `1926` Mussolini decise di cambiare modalità: venne cambiato il ministro delle Finanze e venne fissato l'obiettivo di `stabilizzare la lira` attraverso il `protezionismo` e l'intervento dello Stato nell'economia. Questo obiettivo anche conosciuto come *`Quota 90`*<sup id="fn-ref-2">[2](#fn-2)</sup> venne raggiunto in poco più di un anno tramite la riduzione dei salari e delle importazioni.
