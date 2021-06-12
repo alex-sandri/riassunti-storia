@@ -25,7 +25,7 @@ Ispirato al principio di solidarietà è il lavoro svolto dalle varie agenzie de
 - `FAO` (alimentazione e agricoltura), con sede a Roma
 - `UNESCO` (istruzione e cultura), con sede a Parigi
 
-Fra il luglio e l'ottobre `1946` si svolse a Parigi la *Conferenza per la pace*. Non fu tuttavia possibile trovare degli accordi per la divisione della Germania, venne cos' divisa in due parti corrispondenti ai territori occupati dagli eserciti:
+Fra il luglio e l'ottobre `1946` si svolse a Parigi la *Conferenza per la pace*. Non fu tuttavia possibile trovare degli accordi per la divisione della Germania, venne così divisa in due parti corrispondenti ai territori occupati dagli eserciti:
 - A ovest nacque uno Stato democratico, la `Repubblica Federale Tedesca`
 - A est nacque uno Stato comunista, la `Repubblica Democratica Tedesca`
 
