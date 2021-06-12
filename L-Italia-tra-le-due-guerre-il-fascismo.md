@@ -118,7 +118,7 @@ Il `30 maggio` dello stesso anno il deputato `Giacomo Matteotti` pronunciò un d
 Il `10 giugno` venne rapito e ucciso. Seguì un crollo della popolarità di Mussolini e del suo partito ma, a causa del ridimensionamento dopo le ultime elezioni e di divisioni interne alle opposizioni, ne uscì indenne.\
 Si formò così la `secessione dell'Aventino`, sperando in un intervento del re che avesse ritirato la fiducia a Mussolini ma questo non avvenne.
 
-Dopo pochi mesi l'ondata antifascista cominciò a placarsi e Mussolini approfittò della situazione e il `3 gennaio 1925` con un discorso alla Camera si assunse la responsabilità di ciò che era avvenuto, gettando le basi per l'instaurazione della dittatura.\
+Dopo pochi mesi l'ondata antifascista cominciò a placarsi e Mussolini approfittò della situazione e il `3 gennaio 1925` con un discorso alla Camera si assunse la responsabilità di ciò che era avvenuto, gettando le basi per l'instaurazione della dittatura.
 
 L'assassinio di Matteotti segnò, dunque, l'affermazione della `dittatura fascista`.
 
