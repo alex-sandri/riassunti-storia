@@ -144,7 +144,7 @@ La Chiesa cattolica firmò il `20 luglio 1933` un `Concordato` con lo Stato tede
 La Chiesa protestante, invece, si piegò al regime prestando giuramento al *führer* nel 1938.
 
 La persecuzione degli Ebrei si articolò in tre fasi:
-1. Dal `1933` al `1935` venne scatenata una `violenta propaganda` per diffondere tra i Tedeschi l'ostilitàà verso la comunità ebraica.\
+1. Dal `1933` al `1935` venne scatenata una `violenta propaganda` per diffondere tra i Tedeschi l'ostilità verso la comunità ebraica.\
    Vennero boicottati i negozi degli Ebrei, per esempio contrassegnandoli con la stella di David.\
    Il `7 aprile 1933` venne disposto il licenziamento di tutti i dipendenti della pubblica amministrazione non ariani, ovvero chiunque discendesse da genitori o nonni non ariani
 2. Nel `1935` venne legalizzata la persecuzione: il `15 settembre` vennero emanate le `leggi di Norimberga` che di fatto escludevano gli Ebrei dalla vita tedesca, per questo molti decisero di emigrare.\
