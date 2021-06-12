@@ -106,7 +106,7 @@ Negli anni Cinquanta si verificò il cosiddetto `miracolo tedesco`:
 - Il `marco` divenne la più forte moneta europea
 
 Questo fu dovuto principalmente grazie all'ampia disponibilità di manodopera e a una legge elettorale che penalizzava i piccoli partiti.\
-Durante il `Congresso di Bad Godesberg` venne deciso di abbandonare la teoria marxista in favori di un programma riformistico e democratico, il Partito comunista e i movimenti di ispirazione nazista vennero messi fuori legge.
+Durante il `Congresso di Bad Godesberg` venne deciso di abbandonare la teoria marxista a favore di un programma riformistico e democratico, il Partito comunista e i movimenti di ispirazione nazista vennero messi fuori legge.
 
 Mentre la Gran Bretagna si manteneva isolata rispetto al resto dell'Europa, Paesi come Francia, Germania e Italia abbandonarono le vecchie rivalità e scoprirono legami e necessità comuni, come auspicato dal piano Marshall.
 
