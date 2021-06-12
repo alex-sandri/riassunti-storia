@@ -32,7 +32,7 @@ Grazie all'esperienza acquisita ricoprendo varie variche amministrative statali,
 
 Nel `1903` divenne Primo ministro, dopo le dimissioni di Zanardelli.
 
-L'influenza che esercitò sulla politica italiana fu così forte che il periodo che va dal 1910 al 1914 viene comunemente definito `età giolittiana`.\
+L'influenza che esercitò sulla politica italiana fu così forte che il periodo che va dal 1901 al 1914 viene comunemente definito `età giolittiana`.\
 Tuttavia non fu sempre presente al governo, in quanto in momenti di crisi cedeva il potere ad amici o avversari politici e, una volta dimostrata la loro incapacità, tornava al potere più forte di prima.
 
 Questo periodo coincise più o meno con il decollo della rivoluzione industriale in Italia, i progressi più grandi si ebbero:
