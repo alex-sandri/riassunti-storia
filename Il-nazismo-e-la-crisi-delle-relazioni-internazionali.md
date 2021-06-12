@@ -224,4 +224,5 @@ Il `23 agosto 1939` venne firmato il `Patto Molotov-Ribbentrop`, un `patto di no
 Con questo patto tutto era pronto per l'`invasione della Polonia` (`1 settembre 1939`): l'inizio della [seconda guerra mondiale][seconda-guerra-mondiale].
 
 [crisi-del-1929]: La-crisi-del-1929.md
+[prima-guerra-mondiale]: La-prima-guerra-mondiale.md
 [seconda-guerra-mondiale]: La-seconda-guerra-mondiale.md
