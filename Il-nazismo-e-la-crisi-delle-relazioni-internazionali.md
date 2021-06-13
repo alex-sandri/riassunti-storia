@@ -116,7 +116,7 @@ Voleva creare una società gerarchica e, al vertice di ogni settore della societ
 Al vertice assoluto risiedeva l'autorità stessa: Adolf Hitler, che si presentava come l'uomo che avrebbe guidato la Germania alla conquista dello `spazio vitale`, necessario per lo sviluppo e la prosperità del *Reich*.\
 L'obiettivo principale si trovava a est, ovvero la distruzione dell'URSS e lo sfruttamento della razza slava. La forza militare diventava il mezzo supremo per la costruzione della nuova Germania.
 
-All'inizio il Partito nazista era solo un piccolo gruppo, poco credibile all'elettorato tedesco. Così nel `1924` Hitler decise di dare al partito una veste legalitaria, cosicché aumentassero i consensi. Utilizzò comunque la violenza, con le `SA` (truppe d'assalto), per colpire i comunisti. Si basò inoltre su una `propaganda` incentrata su temi come la nazione, la razza, la grandezza tedesca e la punizione dei nemici.\
+All'inizio il Partito nazista era solo un piccolo gruppo, poco credibile all'elettorato tedesco. Così nel `1924` Hitler decise di dare al partito una veste legalitaria, cosicché aumentassero i consensi. Utilizzò comunque la violenza, con le `SA` (truppe d'assalto), per colpire i comunisti. Si basò inoltre su una `propaganda` incentrata su temi come la nazione, la razza, la grandezza tedesca e la punizione dei nemici.
 
 Fu la [crisi del 1929][crisi-del-1929] a far avvicinare molti a questo tipo di partiti, ritenuti più determinati e decisi rispetto a quelli tradizionali.\
 I nuovi sostenitori erano tutti appartenenti ai ceti rovinati dalla crisi, di cui i giovani, ormai senza prospettive, venivano spesso reclutati nelle SA.\
@@ -139,7 +139,7 @@ Eliminate le opposizioni esterne, Hitler affrontò il problema del dissenso inte
 
 Con la morte del presidente Hindenburg il `2 agosto 1934` Hitler assunse subito le funzioni di presidente: era ufficialmente il *führer* e il capo del *Terzo Reich*.
 
-Il nazismo non incontrò mai durante la sua ascesa forti resistenze. L'opposizione era sempre debole e repressa con la forza, i nemici dello Stato venivano rinchiusi in campi di concentramento, i *lager*, controllati dalle SS e ,qui, gradualmente annientati.\
+Il nazismo non incontrò mai durante la sua ascesa forti resistenze. L'opposizione era sempre debole e repressa con la forza, i nemici dello Stato venivano rinchiusi in campi di concentramento, i *lager*, controllati dalle SS e, qui, gradualmente annientati.\
 Inizialmente la repressione colpì i comunisti, poi venne estesa agli altri partiti. Complessivamente circa un quarto dei parlamentari vennero uccisi.\
 Per ragioni politiche o razziali anche molti intellettuali, come *Sigmund Freud* e *Albert Einstein*, furono costretti a emigrare. I loro libri vennero bruciati a Berlino e le loro idee vennero giudicate degenerate.\
 La maggior parte degli emigrati andava negli Stati Uniti o in Sud America.
