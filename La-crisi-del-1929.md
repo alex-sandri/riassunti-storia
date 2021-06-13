@@ -3,13 +3,12 @@
 ## Gli *anni ruggenti*
 
 Tra il `1922` e il `1928` gli Stati Uniti conobbero una crescita economica senza precedenti nella loro storia. La produzione industriale salì del `64%`.\
-Era il risultato della `produzione di massa` dal settore automobilistico a quello tessile, alimentare ecc.\
+Era il risultato della `produzione di massa`, dal settore automobilistico a quello tessile, alimentare ecc.\
 Per assorbire questa produzione era necessario creare `consumatori di massa`, questo fu possibile attraverso:
 - La diffusione della pubblicità
 - La diffusione dei grandi magazzini
 - La possibilità di pagamenti rateali
 
-Alla fine degli anni Venti circolava `un'automobile ogni 5 abitanti`.\
 Di grande rilievo fu anche la diffusione della `radio` e dell'`energia elettrica`.\
 Questi anni di diffusione del benessere, distrazioni e divertimenti, per dimenticare la [guerra appena conclusa][prima-guerra-mondiale], passarono alla storia come `i ruggenti anni Venti`.
 
@@ -33,7 +32,7 @@ I repubblicani mantennero la presidenza lungo tutti gli anni Venti con un progra
 Per favorire gli investimenti:
 - `Ridussero al minimo le imposte dirette` (che colpiscono i redditi) e aumentarono quelle indirette (che gravano sui consumi e toccano quindi ogni acquirente)
 - `Diminuirono la spesa pubblica`, rinunciando ai programmi di assistenza verso le classi più povere
-- `Mantennero basso il tasso di interesse`, questo rendeva più facile alle aziende l'accesso al credito e aumentava di conseguenza la circolazione monetaria
+- `Mantennero basso il tasso di interesse`: questo rendeva più facile alle aziende l'accesso al credito e aumentava di conseguenza la circolazione monetaria
 - `Rinunciarono a qualsiasi forma di regolazione dell'economia`: le aziende si concentrarono in monopoli e oligopoli, fissando i prezzi e le quote di produzione, aggirando così i rischi della libera concorrenza
 
 Nel corso degli anni Venti il numero e il prezzo dei titoli trattati negli Stati Uniti crebbero a una velocità impressionante: tra il `1927 e il 1929 il valore delle azioni raddoppiò`.\
@@ -52,7 +51,7 @@ Le speculazioni subirono un netto calo nell'autunno dello stesso anno: in molti 
 Il `24 ottobre`, il *`giovedì nero`* cominciò la vendita di massa delle azioni: non valevano ormai niente.\
 Molte fortune vennero polverizzate nell'arco di pochi giorni.
 
-Molte `banche` dovettero chiudere scatenando il panico. Temendo l'azzeramentodei propri depositi molti si affrettarono a ritirarli causando così una `diminuzione della liquidità`. Le aziende non potendo più accedere al credito per gli investimenti furono costrette a ridurre la produzione, a tagliare i salari e a licenziare.\
+Molte `banche` dovettero chiudere scatenando il panico. Temendo l'azzeramento dei propri depositi molti si affrettarono a ritirarli causando così una `diminuzione della liquidità`. Le aziende non potendo più accedere al credito per gli investimenti furono costrette a ridurre la produzione, a tagliare i salari e a licenziare.\
 Nel `1932` il numero di disoccupati raggiunse i `14 milioni`, la disponibilità finanziaria delle famiglie subì una caduta verticale, dovuta anche all'impossibilità di accedere ai mutui e realizzare acquisti a rate.\
 La diminuzione della domanda comportò un'ulteriore contrazione della produzione industriale.
 
@@ -62,7 +61,7 @@ Nel `1932` il candidato democratico `Franklin Delano Roosevelt` impostò la prop
 La sua vittoria fu netta: `22,8 milioni di voti` contro i 15,7 di Hoover.
 
 Venne costituito un *brain trust*, un gruppo di ricercatori e specialisti con il compito di approntare un programma che permettesse l'uscita dalla crisi: bisognava `rilanciare gli investimenti delle aziende e i consumi dei cittadini`.\
-Venne deciso un `intervento da parte dello Stato`, abbandonando la politica liberista, mirando ad aumentare il reddito pro capite, e aumentare di conseguenza la domanda: il *`New Deal`*.
+Venne deciso un `intervento da parte dello Stato`, abbandonando la politica liberista, mirando ad aumentare il reddito pro capite e aumentare di conseguenza la domanda: il *`New Deal`*.
 
 Il fondamento teorico dell'intervento statale nell'economia risale all'economista inglese `John Maynard Keynes`, la cui teoria influenzò le decisioni del *brain trust* anche se non fu direttamente coinvolto.
 
@@ -72,8 +71,8 @@ Il governo Roosevelt varò una serie di provvedimenti con questi obiettivi:
 - Creare grandi opere pubbliche per creare nuovi posti di lavoro
 - Garantire i sussidi ai disoccupati
 
-I disoccupati stavano diminuendo ma rimanevano ancora esclusi dai vari provvedimenti sociali i neri e le donne.\
-Fin dall'inizio della campagna elettorale Roosevelt aveva puntato sull'instaurazione di un rapporto di fiducia con i cittadini, creando una sorta di contatto familiare. Famosero divennero le `chiacchierate al caminetto`, conversazioni radiofoniche settimanali.\
+I disoccupati stavano diminuendo, ma rimanevano ancora esclusi dai vari provvedimenti sociali i neri e le donne.\
+Fin dall'inizio della campagna elettorale Roosevelt aveva puntato sull'instaurazione di un rapporto di fiducia con i cittadini, creando una sorta di contatto familiare. Famose divennero le `chiacchierate al caminetto`, conversazioni radiofoniche settimanali.\
 L'avere un contatto diretto con la popolazione e il suo carisma gli permisero di trionfare nuovamente alle elezioni presidenziali del `1936`.
 
 I risultati del *New Deal* furono:
