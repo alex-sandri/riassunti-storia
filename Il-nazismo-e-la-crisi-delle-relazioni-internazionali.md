@@ -114,28 +114,32 @@ Nel 1923, durante la carcerazione per il *putsch* di Monaco, scrisse il *Mein Ka
 
 Voleva creare una società gerarchica e, al vertice di ogni settore della società, dell'economia o della politica, doveva esservi un capo: il `Führerprinzip` (Il principio del capo).\
 Al vertice assoluto risiedeva l'autorità stessa: Adolf Hitler, che si presentava come l'uomo che avrebbe guidato la Germania alla conquista dello `spazio vitale`, necessario per lo sviluppo e la prosperità del *Reich*.\
-L'obiettivo principale si trovava a est, oveero la distruzione dell'URSS e lo sfruttamento della razza slava. La forza militare diventava il mezzo supremo per la costruzione della nuova Germania.
+L'obiettivo principale si trovava a est, ovvero la distruzione dell'URSS e lo sfruttamento della razza slava. La forza militare diventava il mezzo supremo per la costruzione della nuova Germania.
 
 All'inizio il Partito nazista era solo un piccolo gruppo, poco credibile all'elettorato tedesco. Così nel `1924` Hitler decise di dare al partito una veste legalitaria, cosicché aumentassero i consensi. Utilizzò comunque la violenza, con le `SA` (truppe d'assalto), per colpire i comunisti. Si basò inoltre su una `propaganda` incentrata su temi come la nazione, la razza, la grandezza tedesca e la punizione dei nemici.\
+
 Fu la [crisi del 1929][crisi-del-1929] a far avvicinare molti a questo tipo di partiti, ritenuti più determinati e decisi rispetto a quelli tradizionali.\
 I nuovi sostenitori erano tutti appartenenti ai ceti rovinati dalla crisi, di cui i giovani, ormai senza prospettive, venivano spesso reclutati nelle SA.\
 Con l'intento di affossare la Repubblica nel `1931` Hitler unì le forze con i conservatori in un fronte reazionario, il Fronte di Harzburg. Riuscì così, grazie al volto della destra legale, a conquistare la simpatia dei grandi capitalisti tedeschi, degli agrari e dell'esercito.
 
 ## Il Terzo Reich
 
-Hitler andò al governo il `28 gennaio 1933` e cominciò subito la rimozione dall'amministrazione pubblica di ogni soggetto poco fidato. Inoltre decine di giornali accusati di fomentare disordini vennero soppressi e le SA si accanirono contro la sinistra. Quando scoppiò un `incendio` che distrusse il *`Reichstag`*, anche se probabilmente furono gli stessi nazisti, vennero accusati i comunisti. Hitler ora aveva una scusa per lottare contro di loro e introdurre delle `misure eccezionali`, questo significò la sospensione dei diritti garantiti dalla Costituzione cosicché potessero essere arrestati i capi comunisti.\
-Vennero fissate nuove `elezioni` il 5 marzo alle quali, seppur non rispettando le aspettative, ottennero la vittoria con la maggioranza assoluta.\
+Hitler andò al governo il `28 gennaio 1933` e cominciò subito la rimozione dall'amministrazione pubblica di ogni soggetto poco fidato. Inoltre decine di giornali accusati di fomentare disordini vennero soppressi e le SA si accanirono contro la sinistra.
+
+Un evento fondamentale da ricordare è l'`Incendio del Reichstag`. Al giorno d'oggi si sa che sono stati con grande probabilità gli stessi nazisti ad accendere la miccia, ma sul momento furono accusati i comunisti.
+
+Dopo l'incendio, venne dichiarato uno stato di emergenza e vennero quindi fissate nuove `elezioni` il 5 marzo, nelle quali, seppur non rispettando le aspettative, ottennero la vittoria con la maggioranza assoluta, iniziando quindi un'accentramento di potere nelle mani di Hitler e il suo partito.\
 Iniziava così `legalmente` la `nazificazione` dello Stato.
 
 In soli sei mesi Hitler riuscì a edificare uno Stato totalitario.\
-Alla prima seduta del Parlamento, il `23 marzo 1933`, chiese l'approvazione di una legge che gli assegnasse `pieni poteri`. Iniziava così la `dittatura` del *führer*.\
+Alla prima seduta del Parlamento, svoltasi il `23 marzo 1933`, Hitler ottenne l'approvazione di una legge che gli assegnava `pieni poteri`, iniziando così la `dittatura` del *führer*.\
 Una legge successiva rese la Germania uno Stato a `partito unico`. I sindacati vennero soppressi e sostituiti da un'organizzazione corporativa, il *Fronte del lavoro*, controllata dallo Stato. Ogni istituzione, tra cui la scuola, venne *nazificata*. Venne creata una polizia segreta, la `Gestapo`, controllata da Himmler, capo delle `SS`, la milizia con il compito di stroncare le opposizioni. Il criterio di legalità divenne la volontà del *führer*.
 
 Eliminate le opposizioni esterne, Hitler affrontò il problema del dissenso interno al partito. Rimaneva infatti una parte che rimaneva fedele alle idee delle origini, rappresentata soprattutto dalle SA. Nella notte del `30 giugno 1934`, la `notte dei lunghi coltelli`, le SS e la Gestapo uccisero moltissimi rappresentanti delle SA per un totale di oltre mille vittime.
 
 Con la morte del presidente Hindenburg il `2 agosto 1934` Hitler assunse subito le funzioni di presidente: era ufficialmente il *führer* e il capo del *Terzo Reich*.
 
-Il nazismo non incontrò mai durante la sua ascesa forti resistenze. L'opposizione era sempre debole e repressa con la forza, i nemici dello Stato venivano rinchiusi in campi di concentramento, i *lager*, controllati dalle SS, e qui gradualmente annientati.\
+Il nazismo non incontrò mai durante la sua ascesa forti resistenze. L'opposizione era sempre debole e repressa con la forza, i nemici dello Stato venivano rinchiusi in campi di concentramento, i *lager*, controllati dalle SS e ,qui, gradualmente annientati.\
 Inizialmente la repressione colpì i comunisti, poi venne estesa agli altri partiti. Complessivamente circa un quarto dei parlamentari vennero uccisi.\
 Per ragioni politiche o razziali anche molti intellettuali, come *Sigmund Freud* e *Albert Einstein*, furono costretti a emigrare. I loro libri vennero bruciati a Berlino e le loro idee vennero giudicate degenerate.\
 La maggior parte degli emigrati andava negli Stati Uniti o in Sud America.
@@ -177,9 +181,7 @@ Il successo della politica economica dipese dal totale controllo sul mondo del l
 - `Impedirono la libertà di scelta del posto di lavoro`: al lavoratore veniva assegnato un posto dalle autorità senza la possibilità di rifiutare
 - Istituirono il `servizio di lavoro obbligatorio` per i giovani tra i 18 e i 25 anni, garantendo alle autorità manodopera a basso costo per lavori di pubblico interesse
 
-Venne esercitato il controllo anche sulla società e sulla `famiglia`: vennero fatte iniziative a sostegno della natalità e delle giovani coppie.\
-A scuola veniva impartita l'ideologia della forza, per fare dei maschi dei soldati forti e robusti e delle femmine delle madri sane e prolifiche.\
-Il tempo libero era gestito dalla *Kraft durch Freude* (forza attraverso la gioia), che si occupava di organizzare, tra le altre cose, manifestazioni sportive e rappresentazioni teatrali, ma soprattutto di diffondere l'ideologia nazista.
+Venne esercitato il controllo anche sulla società e sulla `famiglia`.
 
 ## Gli anni Trenta: nazionalismo, autoritarismo e dittature. La politica estera di Hitler
 
