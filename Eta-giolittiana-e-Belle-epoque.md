@@ -18,11 +18,11 @@ Tuttavia aumentavano anche le rivalità tra i vari Stati europei.
 
 In questo periodo si andò diffondendo la possibilità di `influenzare le masse`. Venne infatti pubblicato il saggio *Psicologia delle folle*, di `Gustave Le Bon`, che cominciò ad analizzarne e capirne il comportamento, spesso irrazionale, il quale darà ispirazione ai più grandi dittatori della storia (vedi [`Stalin`][rivoluzione-russa]/[`Hitler`][nazismo]/Mao Zedong/[`Mussolini`][fascismo]...).
 
-La storia era ora mossa da `opinioni` e da `credenze`: le masse erano diventate le `padrone della storia` (**Società di Massa**).
+La storia era ora mossa da `opinioni` e da `credenze`: le masse erano diventate le `padrone della storia` (la `Società di Massa`).
 
 La `politica`, nella nuova società di massa, era mossa da sentimenti e passioni: la nuova `religione delle masse`;
 
-Infatti, come successivamente verrà dimostrato dagli esempi sopracitati, prima di applicare cambiamenti sostanzili alla società, hanno dovuto ottenere il `consenso` della gente. Infatti il **politico era quasi diventato un'attore**, con gesture, posture e discorsi mirati a influenzare più il cuore delle persone che le loro menti, basandosi suoi loro desideri e sulle loro necessità (vedi Lenin con la distribuzione delle terre o Hitler con le sue riforme per riportare la Germania al suo antico "splendore").
+Infatti, come successivamente verrà dimostrato dagli esempi sopracitati, prima di applicare cambiamenti sostanziali alla società, hanno dovuto ottenere il `consenso` della gente. Infatti il `politico era quasi diventato un'attore`, con gesti, posture e discorsi mirati a influenzare più il cuore delle persone che le loro menti, basandosi suoi loro desideri e sulle loro necessità (vedi Lenin con la distribuzione delle terre o Hitler con le sue riforme per riportare la Germania al suo antico "splendore").
 
 
 ## I caratteri generali dell'età giolittiana
