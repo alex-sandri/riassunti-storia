@@ -16,7 +16,7 @@ Era anche un periodo che si pensava avrebbe garantito `pace` e `benessere`.
 
 Tuttavia aumentavano anche le rivalità tra i vari Stati europei.
 
-In questo periodo si andò diffondendo la possibilità di `influenzare le masse`. Venne infatti pubblicato il saggio *Psicologia delle folle*, di `Gustave Le Bon`, che cominciò ad analizzarne e capirne il comportamento, spesso irrazionale, il quale darà ispirazione ai più grandi dittatori della storia (vedi [`Stalin`][rivoluzione-russa]/[`Hitler`][nazismo]/Mao Zedong/[`Mussolini`][fascismo]...).
+In questo periodo si andò diffondendo la possibilità di `influenzare le masse`. Venne infatti pubblicato il saggio *Psicologia delle folle*, di `Gustave Le Bon`, che cominciò ad analizzarne e capirne il comportamento, spesso irrazionale, il quale darà ispirazione ai più grandi dittatori della storia (vedi [`Stalin`][rivoluzione-russa], [`Hitler`][nazismo], Mao Zedong, [`Mussolini`][fascismo], ...).
 
 La storia era ora mossa da `opinioni` e da `credenze`: le masse erano diventate le `padrone della storia` (la `Società di Massa`).
 
@@ -156,4 +156,3 @@ Tuttavia fu anche sostenitore della moderna teoria della `pena rieducativa` e an
 [futurismo]: https://italiano.alexsandri.com/Futurismo
 [gabriele-d-annunzio]: https://italiano.alexsandri.com/Gabriele-D-Annunzio
 [nazismo]: Il-nazismo-e-la-crisi-delle-relazioni-internazionali.md
-
