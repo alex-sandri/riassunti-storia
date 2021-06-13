@@ -21,7 +21,6 @@ Queste condizioni resero l'Europa dipendente dagli Stati Uniti.
 ## Il disagio sociale
 
 La guerra aveva cambiato radicalmente la società, aveva segnato l'ingresso delle masse nella Storia:
-
 1. I sindacati e i partiti, consapevoli della loro forza, si organizzarono
 2. I reduci di guerra chiesero un riconoscimento al loro impegno e un reinserimento nella società
 3. Gli operai volevano aumenti di salario e più potere nelle fabbriche
