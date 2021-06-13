@@ -2,7 +2,7 @@
 
 ## La crisi del dopoguerra
 
-Dopo la [prima guerra mondiale][prima-guerra-mondiale] l'Italia avrebbe dovuto ottenere la Dalmazia e cedere Fiume agli Austriaci ma, a causa di contrasti con il presidente americano `Wilson` che voleva favorire in tutti i modi la creazione del nuovo Stato iugoslavo, la delegazione italiana a *Versailles* fu costretta ad accettare le sue condizioni per non perdere quel poco che ancora le spettava.\
+Dopo la [prima guerra mondiale][prima-guerra-mondiale] l'Italia avrebbe dovuto ottenere la Dalmazia e cedere Fiume agli Austriaci ma, a causa di contrasti con il presidente americano `Wilson` che voleva favorire in tutti i modi la creazione del nuovo Stato Iugoslavo, la delegazione italiana a *Versailles* fu costretta ad accettare le sue condizioni per non perdere quel poco che ancora le spettava.\
 Questa venne definita una `vittoria mutilata`.
 
 Il governo, accusato di non saper tutelare gli interessi nazionali, si trovò ad affrontare [`Gabriele d'Annunzio`][gabriele-d-annunzio] il quale fu l'artefice dell'occupazione della città di `Fiume` nel `settembre 1919`.
@@ -14,11 +14,11 @@ Le conseguenze sociali ed economiche della guerra furono pesanti:
 - `Svalutazione della lira` e `inflazione galoppante`
 
 Questa situazione fu particolarmente difficile per coloro che fino ad allora avevano costituito la struttura portante dello Stato italiano: la `piccola e media borghesia` e i `piccoli proprietari terrieri`.\
-Solo chi riuscì a difendere i propri salari, come gli operai, con le lotte sindacali non si vide diminuire il potere d'acquisto.\
-Si creò quindi un `risentimento` soprattutto tra chi aveva avuto ruoli di comando in guerra e si aspettava di ricevere qualcosa in cambio.
+Solo chi riuscì a difendere i propri salari, come gli operai, con le lotte sindacali non vide diminuire il proprio potere d'acquisto.\
+Si creò quindi un `risentimento` soprattutto tra chi aveva avuto ruoli di comando in guerra e tra chi si aspettava di ricevere qualcosa in cambio.
 
 Più volte durante la guerra, per incitare le masse rurali a resistere, era stata promessa la `terra ai contadini`.\
-Però questo non fu possibile in quanto la maggior parte dei proprietari non possedeva terreno sufficiente per coltivare il necessario per sopravvivere.\
+Però questa promessa non fu mantenuta in quanto la maggior parte dei proprietari non possedeva terreno sufficiente per coltivare il necessario per sopravvivere.\
 C'era quindi una gran `fame di terra da coltivare`, molti campi erano oramai improduttivi perché trascurati per troppo tempo: si lottava per una redistribuzione delle terre.
 
 Se durante la guerra il numero di occupati nelle grandi industrie crebbe moltissimo, alla fine la necessità di `riconversione` determinò una sempre crescente `disoccupazione`.\
@@ -33,7 +33,7 @@ I risultati di queste lotte furono:
 - `Giornata lavorativa` di `otto ore`
 - Gli aumenti salariali degli operai seguivano l'andamento dei prezzi, ma non per gli impiegati.
 
-Nel `1919` venne fondato il *`Partito Popolare Italiano`* da `don Luigi Sturzo`, che riuscì in poco tempo ad imporsi come partito di massa.\
+Nel `1919` venne fondato il *`Partito Popolare Italiano`* da `Don Luigi Sturzo`, che riuscì in poco tempo ad imporsi come partito di massa.\
 Il successo di questo partito fu aiutato dal cosiddetto *aconfessionalismo*, ovvero non serviva essere cristiani per poter aderire, bastava condividere il progetto politico.\
 Infine anche la paura da parte della Chiesa della diffusione del Partito socialista fu una ragione per cui questo partito venne appoggiato dalla stessa.
 
@@ -46,7 +46,7 @@ In campo sociale i fascisti proposero il salario minimo e la giornata lavorativa
 
 Nel `novembre 1919` venne utilizzato per la prima volta nelle elezioni il `sistema proporzionale`, voluto per una maggior democratizzazione della politica.\
 Questo nuovo sistema avvantaggiò i due partiti di massa: il Partito Socialista e il Partito Popolare.\
-La frammentazione politica che ne derivò non permise la formazione di maggioranze omogenee, l'unica alleanza che fu possibile era tra i liberali e i popolari che guidò il Paese fino all'avvento del fascismo.
+La frammentazione politica che ne derivò non permise la formazione di maggioranze omogenee, l'unica alleanza che fu possibile realizzare era quella tra i liberali e i popolari, i quali guidarono il Paese fino all'avvento del fascismo.
 
 Dopo l'occupazione delle terre, nel `1920` era ora il turno delle fabbriche: i sindacati proclamarono uno sciopero bianco, ovvero gli operai entravano in fabbrica ma non lavoravano, e gli industriali furono costretti alla `chiusura degli stabilimenti`.\
 In `agosto` scattò l'occupazione delle fabbriche guidata dai sindacati comunisti: i lavoratori presero il controllo delle fabbriche e, in alcuni casi, tentarono anche di proseguire la produzione. Tuttavia questo movimento non fu in grado di estendersi ed era privo di idee chiare sul da farsi.\
@@ -89,7 +89,7 @@ Mussolini in meno di un anno riorganizzò il Partito fascista:
 - Abbandonò l'anticlericalismo e attaccò il Partito popolare di don Sturzo
 
 Capendo che era giunto il suo momento decise di riunire il `24 ottobre 1922` a Napoli migliaia di camicie nere in vista della `marcia su Roma` per assumere il potere con la forza.\
-Il re rifiutò di fare intervenire l'esercito e anzi il `30 ottobre` diede a Mussolini l'incarico di formare il nuovo governo.
+Il re, accondiscendente all'avanzata di Mussolini, il `30 ottobre` gli diede l'incarico di formare il nuovo governo.
 
 ## La dittatura fascista
 
@@ -130,7 +130,7 @@ Dopo l'affermazione della dittatura avvenuta all'inizio del `1925` vennero nello
 - I cittadini erano soggetti a controlli di polizia da parte dell'`OVRA`<sup id="fn-ref-1">[1](#fn-1)</sup> (Opera di Vigilanza per la Repressione Antifascista) ed eventuali oppositori venivano giudicati dal `Tribunale speciale per la difesa dello Stato`
 - La stampa veniva controllata, ed eventualmente censurata
 - Veniva istituito il `MinCulPop` (Ministero della Cultura Popolare), che aveva il compito di organizzare la propaganda fascista
-- Gli insegnanti dovevano essere iscritti al PNF
+- Tutti i lavoratori dovevano essere iscritti al PNF (o non avrebbero potuto operare nel loro ambito)
 - Veniva adottato un unico libro per la scuola fascista
 
 Il Partito venne riorganizzato affidando il potere a livello locale ai prefetti, sottoposti al `Gran Consiglio del Fascismo` con a capo Mussolini. La conclusione della trasformazione in `Stato totalitario` avvenne con una legge del `1928`, che stabiliva una lista unica di nomina del Gran Consiglio che doveva solamente essere approvata o rifiutata, non era perciò più possibile scegliere i propri rappresentanti: le elezioni erano si erano trasformate in `plebisciti`.
@@ -147,14 +147,13 @@ Il regime esercitò un controllo dell'informazione in ogni mezzo:
 - La stampa fu sottoposta a censura
 - Venne fondato l'`EIAR` (*Ente Italiano per le Audizioni Radiofoniche*) per diffondere la propaganda via `radio`, che dal `1944` cambierà nome in `RAI`
 - Venne fondato l'`Istituto LUCE` (*L'Unione Cinematografica Educativa*), casa di produzione cinematografica, i cui cinegiornali era obbligatorio proiettare in ogni sala
-- Venne istituito il `MinCulPop` che aveva come scopo il controllare la cultura in Italia
 
 Data la difficoltà che Mussolini avrebbe incontrato nel governare contro la Chiesa, egli optò per un rapporto pacifico, tramite la firma dei cosiddetti `Patti lateranensi` che stabilivano:
 - La Chiesa riconosceva lo Stato italiano, e avrebbe ottenuto la sovranità sullo Stato della Città del Vaticano
 - L'Italia s'impegnava a versare al Vaticano un indennizzo per la perdita dello Stato pontificio
 - La religione cattolica diventava religione di Stato e veniva insegnata nelle scuole, venne riconosciuto il matrimonio religioso. Infine la Chiesa ottenne alcune libertà amministrative dei propri beni e della nomina dei vescovi, che però dovevano giurare fedeltà allo Stato
 
-Questi patti vennero giudicati in modo positivo da parte di `Pio XI`, anche se poi se ne sarebbe dovuto pentire. `Don Luigi Sturzo` commentò invece che a Mussolini tornava comodo il supporto della Chiesa, ma di una Chiesa che serva e che aiuti.\
+Questi patti vennero giudicati in modo positivo da parte di `Pio XI`, anche se in seguito se ne sarebbe pentito. `Don Luigi Sturzo` commentò invece che a Mussolini tornava comodo il supporto della Chiesa, ma di una Chiesa che serva e che aiuti.\
 Nel `1931`, infatti, il regime provò a togliere all'*Azione Cattolica* il compito di educare i giovani, ma questo tentativo fallì.
 
 Se nella prima fase del regime fascista la politica adottata era di tipo liberista, dal `1926` Mussolini decise di cambiare modalità: venne cambiato il ministro delle Finanze e venne fissato l'obiettivo di `stabilizzare la lira` attraverso il `protezionismo` e l'intervento dello Stato nell'economia. Questo obiettivo anche conosciuto come *`Quota 90`*<sup id="fn-ref-2">[2](#fn-2)</sup> venne raggiunto in poco più di un anno tramite la riduzione dei salari e delle importazioni.
@@ -163,23 +162,23 @@ Uno dei primi provvedimenti in ambito economico fu la cosiddetta *`battaglia del
 Nel `1928` iniziò il progetto di `bonifica` delle zone paludose italiane. Questo fu il primo passo della politica dell'`autarchia`, ossia dell'autosufficienza, che però ebbe dei costi molto alti:
 - La rivalutazione della lira avvantaggiò le grandi imprese ma ridusse il potere d'acquisto del ceto medio-basso
 - La battaglia del grano ebbe successo a scapito dell'allevamento e delle colture specializzate rivolte all'esportazione
-- L'Italia era ancora un Paese povero di materie prime e questo portò ad un ulteriore indebolimento del sistema produttivo
+- L'Italia era ancora un Paese povero di materie prime e questo portò ad un ulteriore indebolimento del sistema produttivo, soprattutto sul campo industriale
 
 Nel `1927` venne introdotta la `Carta del lavoro` che stabiliva l'obbligo per tutti i settori di organizzarsi in corporazioni composte da lavoratori e padroni e soggette ad un apposito ministero. Questa ideologia fu chiamata `corporativismo`, che inoltre prevedeva l'impossibilità di azioni sindacali da parte di socialisti, comunisti e cattolici. Questo però non funzionò mai e portò vantaggi solamente agli imprenditori che potevano tenere basso il costo del lavoro e influenzare le decisioni politiche.
 
 Per fronteggiare gli effetti della [`crisi economica del 1929`][crisi-1929] lo Stato intervenne sempre più massicciamente durante gli Anni Trenta, creando l'`Istituto Mobiliare Italiano` (IMI) per sostenere le industrie in difficoltà e l'`Istituto per la Ricostruzione Industriale` (IRI) che divenne azionista di maggioranza di alcune banche e prese il controllo di alcune grandi aziende italiane.\
 Queste misure di risanamento dovevano essere provvisorie in attesa di privatizzare nuovamente le imprese, ma in realtà divenne un ente permanente dal 1937. Iniziò allora la moltiplicazione degli enti pubblici tuttora esistenti caratterizzati da una gestione pesantemente burocratica con scarsa efficienza, ma molto rilevante per quanto riguarda la forza economica e politica.
 
-Il regime fascista era stato caratterizzato sin dagli inizi da una forte componente nazionalista, presentandosi Mussolini come il condottiero (*duce*) che avrebbe risollevato l'Italia dalle penalizzazioni subite dopo la fine della prima guerra mondiale.\
-Ciò nonostante i proclami nazionalisti rimasero sempre molto vaghi, preferendo Mussolini la tradizionale amicizia con Francia e Inghilterra. Ma questo cambiò nel `1934` con la decisione di conquistare l'`Etiopia`, volendo così espandere le colonie italiane e offrire una meta per l'emigrazione italiana per quindi risollevare la situazione economica.
+Il regime fascista era stato caratterizzato sin dagli inizi da una forte componente nazionalista, presentando Mussolini come il condottiero (*duce*) che avrebbe risollevato l'Italia dalle penalizzazioni subite dopo la fine della prima guerra mondiale.\
+Ciò nonostante i proclami nazionalisti rimasero sempre molto vaghi, in quanto Mussolini preferiva la tradizionale amicizia con Francia e Inghilterra. Ma questo cambiò nel `1934` con la decisione di conquistare l'`Etiopia`, volendo così espandere le colonie italiane e offrire una meta per l'emigrazione italiana per quindi risollevare la situazione economica.
 
-Senza una dichiarazione di guerra il `3 ottobre 1935` l'esercito italiano invase l'Etiopia. Il re etiope fu costretto alla fuga ma scatenò una guerriglia che non fu mai definitivamente soppressa. Qualche giorno dopo la `Società delle Nazioni` sanzionò l'Italia in quanto aveva invaso un altro Paese membro, anche se queste sanzioni non indebolirono la capacità bellica italiana perché non proibivano la vendita delle materie prime, ma solo delle armi. Questo però permise a Mussolini di fare la vittima affermando che le grandi potenze stavano proibendo all'Italia di avere il suo "posto al sole". Come conseguenza il consenso della popolazione aumentò e fu probabilmente questo il periodo in cui Mussolini e il fascismo godettero del maggior consenso.
+Senza una dichiarazione di guerra il `3 ottobre 1935` l'esercito italiano invase l'Etiopia. Il re etiope fu costretto alla fuga, ma scatenò una guerriglia che non fu mai definitivamente soppressa. Qualche giorno dopo la `Società delle Nazioni` sanzionò l'Italia in quanto aveva invaso un altro Paese membro, anche se queste sanzioni non indebolirono la capacità bellica italiana perché non proibivano la vendita delle materie prime, ma solo delle armi. Questo però permise a Mussolini di fare la vittima affermando che le grandi potenze stavano proibendo all'Italia di avere il suo "posto al sole". Come conseguenza il consenso della popolazione aumentò e fu probabilmente questo il periodo in cui Mussolini e il fascismo godettero del maggior consenso.
 
 Il `9 maggio 1936` Mussolini annunciò la fondazione dell'`Impero dell'Africa Orientale Italiana` (AOI), offrendo a Vittorio Emanuele III la corona di imperatore d'Etiopia.\
 Se dal punto di vista economico l'Etiopia era un Paese povero, da un punto di vista politico la conquista fu un successo in quanto nel 1936 le sanzioni vennero ritirate e l'impero venne riconosciuto ufficialmente, dimostrazione dell'impotenza della Società delle Nazioni nel risolvere le controversie.
 
 La guerra d'Etiopia avvicinò Mussolini a Hitler che aveva supportato l'iniziativa di conquista italiana.\
-Nell'ottobre `1936` venne firmato il patto di amicizia detto `Asse Roma-Berlino`, con il quale Mussolini sperava di ottenere dalle altre potenze europee dei vantaggi in campo coloniale. Ma se Mussolini sperava di usare Hitler per il suo tornaconto, in realtà poi si rivelò tutto l'opposto fu infatti Mussolini a dover stare sotto al comando di Hitler.\
+Nell'ottobre `1936` venne firmato il patto di amicizia detto `Asse Roma-Berlino`, con il quale Mussolini sperava di ottenere dalle altre potenze europee dei vantaggi in campo coloniale. Ma se Mussolini sperava di usare Hitler per il suo tornaconto, in realtà poi si rivelò tutto l'opposto. Fu infatti Mussolini a dover stare sotto al comando di Hitler.\
 L'Italia in questo periodo introdusse le `leggi razziali contro gli Ebrei`<sup id="fn-ref-4">[4](#fn-4)</sup>, già presenti in Germania. Questo fatto comportò l'inizio della crisi del regime che sarà ultimata con la [seconda guerra mondiale][seconda-guerra-mondiale].
 
 ## L'Italia antifascista
@@ -197,7 +196,7 @@ La maggior parte dei condannati dal Tribunale speciale fascista erano infatti co
 Il Partito stabilì come sede `Parigi`, sotto la guida di `Palmiro Togliatti`.\
 La divisione interna al Partito rese però l'opposizione poco efficace e, solo nel `1934`, l'Internazionale Comunista invitò a unire le forze per sconfiggere il nemico.
 
-Altri gruppi antifascisti erano composti da repubblicani e socialisti, come Filippo Turati e Giuseppe Saragat, e cattolici, come Alcide De Gasperi.\
+Altri gruppi antifascisti erano composti da repubblicani e socialisti, come Filippo Turati e Giuseppe Saragat, e cattolici, come [`Alcide De Gasperi`][alcide-de-gasperi].\
 Anch'essi continuarono la propria attività in Francia, dove nel `1927` a `Parigi` fondarono la `Concentrazione antifascista`.\
 Questa organizzazione non riuscì ad agire in Italia ma gettò le basi per la [Resistenza][resistenza] che sarebbe sorta dopo l'8 settembre 1943.
 
@@ -231,3 +230,4 @@ Queste leggi vennero annunciare per la prima volta a Trieste nel 1938 e Mussolin
 [gabriele-d-annunzio]: https://italiano.alexsandri.com/Gabriele-D-Annunzio
 
 [riforma-scuola-gentile]: https://it.wikipedia.org/wiki/Riforma_Gentile
+[alcide-de-gasperi]: https://it.wikipedia.org/wiki/Alcide_De_Gasperi
