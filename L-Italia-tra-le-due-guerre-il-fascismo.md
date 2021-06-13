@@ -162,7 +162,7 @@ Uno dei primi provvedimenti in ambito economico fu la cosiddetta *`battaglia del
 Nel `1928` iniziò il progetto di `bonifica` delle zone paludose italiane. Questo fu il primo passo della politica dell'`autarchia`, ossia dell'autosufficienza, che però ebbe dei costi molto alti:
 - La rivalutazione della lira avvantaggiò le grandi imprese ma ridusse il potere d'acquisto del ceto medio-basso
 - La battaglia del grano ebbe successo a scapito dell'allevamento e delle colture specializzate rivolte all'esportazione
-- L'Italia era ancora un Paese povero di materie prime e questo portò ad un ulteriore indebolimento del sistema produttivo, sopratutto sul campo industriale
+- L'Italia era ancora un Paese povero di materie prime e questo portò ad un ulteriore indebolimento del sistema produttivo, soprattutto sul campo industriale
 
 Nel `1927` venne introdotta la `Carta del lavoro` che stabiliva l'obbligo per tutti i settori di organizzarsi in corporazioni composte da lavoratori e padroni e soggette ad un apposito ministero. Questa ideologia fu chiamata `corporativismo`, che inoltre prevedeva l'impossibilità di azioni sindacali da parte di socialisti, comunisti e cattolici. Questo però non funzionò mai e portò vantaggi solamente agli imprenditori che potevano tenere basso il costo del lavoro e influenzare le decisioni politiche.
 
@@ -170,7 +170,7 @@ Per fronteggiare gli effetti della [`crisi economica del 1929`][crisi-1929] lo S
 Queste misure di risanamento dovevano essere provvisorie in attesa di privatizzare nuovamente le imprese, ma in realtà divenne un ente permanente dal 1937. Iniziò allora la moltiplicazione degli enti pubblici tuttora esistenti caratterizzati da una gestione pesantemente burocratica con scarsa efficienza, ma molto rilevante per quanto riguarda la forza economica e politica.
 
 Il regime fascista era stato caratterizzato sin dagli inizi da una forte componente nazionalista, presentando Mussolini come il condottiero (*duce*) che avrebbe risollevato l'Italia dalle penalizzazioni subite dopo la fine della prima guerra mondiale.\
-Ciò nonostante i proclami nazionalisti rimasero sempre molto vaghi, preferendo Mussolini alla tradizionale amicizia con Francia e Inghilterra. Ma questo cambiò nel `1934` con la decisione di conquistare l'`Etiopia`, volendo così espandere le colonie italiane e offrire una meta per l'emigrazione italiana per quindi risollevare la situazione economica.
+Ciò nonostante i proclami nazionalisti rimasero sempre molto vaghi, in quanto Mussolini preferiva la tradizionale amicizia con Francia e Inghilterra. Ma questo cambiò nel `1934` con la decisione di conquistare l'`Etiopia`, volendo così espandere le colonie italiane e offrire una meta per l'emigrazione italiana per quindi risollevare la situazione economica.
 
 Senza una dichiarazione di guerra il `3 ottobre 1935` l'esercito italiano invase l'Etiopia. Il re etiope fu costretto alla fuga, ma scatenò una guerriglia che non fu mai definitivamente soppressa. Qualche giorno dopo la `Società delle Nazioni` sanzionò l'Italia in quanto aveva invaso un altro Paese membro, anche se queste sanzioni non indebolirono la capacità bellica italiana perché non proibivano la vendita delle materie prime, ma solo delle armi. Questo però permise a Mussolini di fare la vittima affermando che le grandi potenze stavano proibendo all'Italia di avere il suo "posto al sole". Come conseguenza il consenso della popolazione aumentò e fu probabilmente questo il periodo in cui Mussolini e il fascismo godettero del maggior consenso.
 
@@ -196,7 +196,7 @@ La maggior parte dei condannati dal Tribunale speciale fascista erano infatti co
 Il Partito stabilì come sede `Parigi`, sotto la guida di `Palmiro Togliatti`.\
 La divisione interna al Partito rese però l'opposizione poco efficace e, solo nel `1934`, l'Internazionale Comunista invitò a unire le forze per sconfiggere il nemico.
 
-Altri gruppi antifascisti erano composti da repubblicani e socialisti, come Filippo Turati e Giuseppe Saragat, e cattolici, come [`Alcide De Gasperi`][alcide-de-gaspari].\
+Altri gruppi antifascisti erano composti da repubblicani e socialisti, come Filippo Turati e Giuseppe Saragat, e cattolici, come [`Alcide De Gasperi`][alcide-de-gasperi].\
 Anch'essi continuarono la propria attività in Francia, dove nel `1927` a `Parigi` fondarono la `Concentrazione antifascista`.\
 Questa organizzazione non riuscì ad agire in Italia ma gettò le basi per la [Resistenza][resistenza] che sarebbe sorta dopo l'8 settembre 1943.
 
@@ -230,4 +230,4 @@ Queste leggi vennero annunciare per la prima volta a Trieste nel 1938 e Mussolin
 [gabriele-d-annunzio]: https://italiano.alexsandri.com/Gabriele-D-Annunzio
 
 [riforma-scuola-gentile]: https://it.wikipedia.org/wiki/Riforma_Gentile
-[alcide-de-gaspari]: https://it.wikipedia.org/wiki/Alcide_De_Gasperi
+[alcide-de-gasperi]: https://it.wikipedia.org/wiki/Alcide_De_Gasperi
