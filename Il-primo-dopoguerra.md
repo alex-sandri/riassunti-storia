@@ -13,7 +13,7 @@ Però non riuscì a mantenere la pace a lungo a causa di:
 
 Il calo demografico dopo la guerra, oltre alle vittime causate da questa, fu dovuto anche all'epidemia della cosiddetta spagnola, chiamata così erroneamente.
 
-Successivamente alla guerra l'Europa dovette affrontare una gravissima crisi.\
+Successivamente alla guerra, l'Europa dovette affrontare una gravissima crisi.\
 Le fabbriche dovevano essere riconvertite alla produzione "normale", ma non tutte potevano permetterselo. In molte decisero tra il licenziamento e la riduzione degli stipendi.\
 I Paesi reduci dal conflitto decisero di stampare nuova carta moneta che causò un'`inflazione incontrollabile`.\
 Queste condizioni resero l'Europa dipendente dagli Stati Uniti.
@@ -21,6 +21,7 @@ Queste condizioni resero l'Europa dipendente dagli Stati Uniti.
 ## Il disagio sociale
 
 La guerra aveva cambiato radicalmente la società, aveva segnato l'ingresso delle masse nella Storia:
+
 1. I sindacati e i partiti, consapevoli della loro forza, si organizzarono
 2. I reduci di guerra chiesero un riconoscimento al loro impegno e un reinserimento nella società
 3. Gli operai volevano aumenti di salario e più potere nelle fabbriche
