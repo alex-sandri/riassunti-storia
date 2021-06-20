@@ -75,7 +75,7 @@ Il modo di far politica di Giolitti venne definito dal `doppio volto`:
 - Un volto `aperto` e `democratico` nell'affrontare i problemi del `Nord`
 - Un volto `conservatore` e `corrotto` nello sfruttare i problemi del `Sud`
 
-Al Nord `consentì gli scioperi` e fece assumere una posizione neutrale al governo per quanto riguardave i conflitti sindacali.\
+Al Nord `consentì gli scioperi` e fece assumere una posizione neutrale al governo per quanto riguardava i conflitti sindacali.\
 Questo lo fece perché sosteneva che, consentendo gli scioperi, un pericolo rivoluzionario non sarebbe potuto esistere.
 
 Varò anche alcune `riforme` a vantaggio dei lavoratori che stabilirono:
