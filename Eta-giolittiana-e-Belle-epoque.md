@@ -29,7 +29,7 @@ Infatti, come successivamente verrà dimostrato dagli esempi sopracitati, prima 
 
 Nel `1901` venne eletto ministro degli Interni `Giovanni Giolitti`.
 
-Grazie all'esperienza acquisita ricoprendo varie variche amministrative statali, Giolitti conosceva bene la macchina burocratica italiana.
+Grazie all'esperienza acquisita ricoprendo varie cariche amministrative statali, Giolitti conosceva bene la macchina burocratica italiana.
 
 Nel `1903` divenne Primo ministro, dopo le dimissioni di Zanardelli.
 
